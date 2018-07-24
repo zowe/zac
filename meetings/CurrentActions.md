@@ -1,19 +1,18 @@
+Here is a list of resources that needed to be created from the last meeting.
 
+Thanks to John for providing this information and getting us setup.
 
-Sign up for Slack
-https:// slack.openmainframeproject.org
+# Slack - click link to get registered
+[Slack for OMP](https:// slack.openmainframeproject.org)
 
-Mailing Lists
-John created these
-zowe-dev@lists.openmainframeproject.org
-zowe-user@lists.openmainframeproject.org
-zowe-zlc@lists.openmainframeproject.org
-zowe-zlc-private@lists.openmainframeproject.org
+# Mailing Lists
+[Zowe-Dev](zowe-dev@lists.openmainframeproject.org)<br>
+[Zowe User](zowe-user@lists.openmainframeproject.org)<br>
+[Zowe ZLC](zowe-zlc@lists.openmainframeproject.org)<br>
+[Zowe ZLC Private](zowe-zlc-private@lists.openmainframeproject.org)<br>
 
-Zowe Organization is Established on Git
-https://github.com/zowe
+# Zowe Organization
+[Zowe Organization](https://github.com/zowe)<br>
 
-First Repository is Created
-https://github.com/zowe/zlc
-
-
+# ZLC Repository
+[ZLC Repository](https://github.com/zowe/zlc)
