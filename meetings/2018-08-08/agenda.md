@@ -52,7 +52,7 @@ Issue is interms of copyright assignment as additional contributors provide code
 ### Internationalization
 * Primary language for distribution is English for now.  Not a release criteria.  **No Objections**
 ### Prior Slack Workspace
-+ Transition away GizaFoundation.  Do move the existing channels due to privacy concerns.  
++ Transition away GizaFoundation.  **Do not move the existing channels due to prior privacy agreements.**
 + Squads to create thieir channels as part of formation
 ### Squad Formation
 + ZLC Create Teams for Squads in Git and Slack Channels - **ZLC Leads to initiate actions**
