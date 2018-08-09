@@ -10,7 +10,7 @@ For propertiy or configuration files that do not support comments, the license m
 
 This is still in draft form.
 
-#CA
+# CA
 ````
 /**
   This program and the accompanying materials are made available under the terms of the 
@@ -24,7 +24,7 @@ This is still in draft form.
 **/
 ````
 
-#IBM
+# IBM - Approved for IBM Contributions 2018/08/09
 ````
 /**
   This program and the accompanying materials are made available under the terms of the 
@@ -37,7 +37,7 @@ This is still in draft form.
 **/
 ````
 
-#Rocket Software
+# Rocket Software
 ````
 /**
   This program and the accompanying materials are made available under the terms of the 
