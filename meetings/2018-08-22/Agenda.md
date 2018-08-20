@@ -17,4 +17,6 @@ The above mentioned contributions are currently setup to include build output so
 
 #The need to set up a commit process with identified approvers.
 
+#Best approach for others to add agenda items / discussion for upcoming ZLC Meetings.
+
 #Automation of the Developer Certificate of Origin flag on commits (-s)
