@@ -36,5 +36,7 @@ Are the above two considered larger impediments to contribution?
 #Planned Donation of VSCode Plugin to Zowe
 CA has a plugin for VSCode that allows for exploration of datasets interactively within Visual Studio, using brighside as its engine. We would like to donate this to Zowe / Open Source and publish this to the VSCode Marketplace with Zowe branding. What are the next steps / evaluations for this?
 
+#Repository tagging so the project has a consistent tagging / mix of EBCDIC / ASCII
+
 #Extended Community Contribution Guideline Discussions
 Proposoal - "Community" repository containing guidelines for behavior and general best practices. Sub-directories for guidelines specific to language, and contribution guidelines per-repository for project-specific guidelines.
