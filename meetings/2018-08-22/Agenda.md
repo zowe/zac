@@ -1,55 +1,54 @@
 2018-08-22
 
 ZLC Members
-[ ] Matt Hogstrom
-[ ] Bruce Armstrong
-[ ] Jean-Philipe
-[ ] Sean Grady 
-[ ] Mark Ackert
-[ ] Jean-Louis
+[ ] Matt Hogstrom  
+[ ] Bruce Armstrong  
+[ ] Jean-Philipe  
+[ ] Sean Grady  
+[ ] Mark Ackert  
+[ ] Jean-Louis  
 
-Observers
-[ ] Tim Brooks
-[ ] Alvin Tan
-[ ] Nick K.
+Observers  
+[ ] Tim Brooks  
+[ ] Alvin Tan  
+[ ] Nick K.  
 
-#Discuss runtime environments
- Currently Zowe includes Tomcat, Jetty and Liberty for z/OS.  Open Liberty is an option.  To limit packaging size and consistency in deployment it would be ideal to 
+#Discuss runtime environments  
+ Currently Zowe includes Tomcat, Jetty and Liberty for z/OS.  Open Liberty is an option.  To limit packaging size and consistency in deployment it would be ideal to select a consistent set of technology.  
   Action:
   Owner:
   Date:
   
-#Share was a successful Launch
-Over-all, the launch at Share was very well received and we are seeing activity across multiple venues.  Customers are downloading and installing (and opening Git Issues), ISVs have been joinging the community Slack and e-mail lists and there is an elevated level of interest in Zowe.  Well done everyone.
-  Action:
-  Owner:
-  Date:
+#Share was a successful Launch  
+Over-all, the launch at Share was very well received and we are seeing activity across multiple venues.  Customers are downloading and installing (and opening Git Issues), ISVs have been joinging the community Slack and e-mail lists and there is an elevated level of interest in Zowe.  Well done everyone.  
+  Action:  
+  Owner:  
+  Date:  
 
-#z/OSMF "lite"
-There has been various discussions about lowering the bar for dependency on z/OSMF until th install issues are resolved.  The community needs to agree on an approach and agree if we want to form a squad to address this issue in lieu of other priorities
-  Action:
-  Owner:
-  Date:
+#z/OSMF "lite"  
+There has been various discussions about lowering the bar for dependency on z/OSMF until th install issues are resolved.  The community needs to agree on an approach and agree if we want to form a squad to address this issue in lieu of other priorities  
+  Action:  
+  Owner:  
+  Date:  
 
-#API Mediation layer
-A lot of interest in the API mediation layer at Share.  Some community members indicated it was for Zowe use while some customers asked if it could be used for business scale applications.  We need to use consistent goals and capabilities to reduce confusion and set expectations.
-  Action:
-  Owner:
-  Date:
+#API Mediation layer  
+A lot of interest in the API mediation layer at Share.  Some community members indicated it was for Zowe use while some customers asked if it could be used for business scale applications.  We need to use consistent goals and capabilities to reduce confusion and set expectations.  
+  Action:  
+  Owner:  
+  Date:  
 
-#Access to z/OS instances for those who don't have Z (Git Issue #4) - ydjainopensource
-This has come up multiple times since Share.  We need to form a plan across the conmitters and hosting org (OMP) on how we bring z/OS to more people.  Current options are ZDT, zOSAAS, Mastering the Mainframe and zTrial.  No option currently fits the needs.
-  Action:
-  Owner:
-  Date:
+#Access to z/OS instances for those who don't have Z (Git Issue #4) - ydjainopensource  
+This has come up multiple times since Share.  We need to form a plan across the conmitters and hosting org (OMP) on how we bring z/OS to more people.  Current options are ZDT, zOSAAS, Mastering the Mainframe and zTrial.  No option currently fits the needs.  
+  Action:  
+  Owner:  
+  Date:  
 
-
-#Metrics of the community (Git Issue #3) - Tim Brooks
-Examine ways to measure community health.  Tim Brooks suggested a 
-  Action:
-  Owner:
-  Date:
-
+#Metrics of the community (Git Issue #3) - Tim Brooks  
+Examine ways to measure community health.  Tim Brooks suggested an open source tool called Grimoire.  
+  Action:  
+  Owner:  
+  Date:  
+  
 #Do we want to help developers produce a common look-and-feel
 What is the plan for user interface guidelines for Zowe.  Do we provide a common library of widgets with guidance?  This will become more of an issue as App developers begin experimenting.
   Action:
@@ -64,55 +63,58 @@ The above mentioned contributions are currently setup to include build output so
   Date:
 
 
-#The need to set up a commit process with identified approvers.
-As part of squad formation, teams need to document their review and comimit process for new people to have a sense of how the team operates.  Ideally, the process will be consistent across the teams although there may be slight variations based on team dynamics and code base.
-  Action:
-  Owner:
-  Date:
+#The need to set up a commit process with identified approvers.  
+As part of squad formation, teams need to document their review and comimit process for new people to have a sense of how the team operates.  Ideally, the process will be consistent across the teams although there may be slight variations based on team dynamics and code base.  
+  Action:  
+  Owner:  
+  Date:  
 
-#Waffle and Zowe - Boards.
-Socialize a possible integration between Waffle and Rally for CA teams. Any dissenting opinions allowing it?
-  Action:
-  Owner:
-  Date:
+#Waffle and Zowe - Boards.  
+Socialize a possible integration between Waffle and Rally for CA teams. Any dissenting opinions allowing it?  
+  Action:  
+  Owner:  
+  Date:  
 
-#Zowe CLI And APIML Discussions on Open Channels
-Zowe CLI and APIML are still pending open source contribution. Legal has approved discussinos on open channels for these products, so long as discussion remains within the domain of donated code. Any issues?
-  Action:
-  Owner:
-  Date:
+#Zowe CLI And APIML Discussions on Open Channels  
+Zowe CLI and APIML are still pending open source contribution. Legal has approved discussinos on open channels for these products, so long as discussion remains within the domain of donated code. Any issues?  
+  Action:  
+  Owner:  
+  Date:  
 
-#Best approach for others to add agenda items / discussion for upcoming ZLC Meetings.
-Need to write this down so all community members know how to engage.  Sean Grady proposed Issues.  Shall we move forward twith this approach for now?
-  Action:
-  Owner: Hogstrom
-  Date:
+#Best approach for others to add agenda items / discussion for upcoming ZLC Meetings.  
+Need to write this down so all community members know how to engage.  Sean Grady proposed Issues.  Shall we move forward twith this approach for now?  
+  Action:  
+  Owner: Hogstrom  
+  Date:  
 
-#What's our approach for deploying build artifacts?
-Right now we use an artifactory server that is private access, and OMP has a SonarQube repository we could transition towards. What about build deliverables that go to NPM repositories - should we be publishing to the public npm registry (https://registry.npmjs.org/), or a public Maven repository? Any issues publishing to these open channels?
-  Action:
-  Owner:
-  Date:
+#What's our approach for deploying build artifacts?  
+Right now we use an artifactory server that is private access, and OMP has a SonarQube repository we could transition towards. What about build deliverables that go to NPM repositories - should we be publishing to the public npm registry (https://registry.npmjs.org/), or a public Maven repository? Any issues publishing to these open channels?  
+  Action:  
+  Owner:  
+  Date:  
 
-#Automation of the Developer Certificate of Origin flag on commits (-s)
-Brief refresh - why don't we use a CLA?
-What about GPG signing?
-Are the above two considered larger impediments to contribution?
-  Action:
-  Owner:
-  Date:
+#Automation of the Developer Certificate of Origin flag on commits (-s)  
+Brief refresh - why don't we use a CLA?  
+What about GPG signing?  
+Are the above two considered larger impediments to contribution?  
+  Action:  
+  Owner:  
+  Date:  
+  
+#Planned Donation of VSCode Plugin to Zowe  
+CA has a plugin for VSCode that allows for exploration of datasets interactively within Visual Studio, using brighside as its engine. We would like to donate this to Zowe / Open Source and publish this to the VSCode Marketplace with Zowe branding. What are the next steps / evaluations for this?  
+  Action:  
+  Owner:  
+  Date:  
 
-#Planned Donation of VSCode Plugin to Zowe
-CA has a plugin for VSCode that allows for exploration of datasets interactively within Visual Studio, using brighside as its engine. We would like to donate this to Zowe / Open Source and publish this to the VSCode Marketplace with Zowe branding. What are the next steps / evaluations for this?
-  Action:
-  Owner:
-  Date:
+#Repository tagging so the project has a consistent tagging / mix of EBCDIC / ASCII  
+Files are sometimes in ASCII and other times in EBCDIC.  Tagging is not consistent across the repo.  How best to solve this usability issue?  Mandating use of one code page is probably not reasonable.  How about tagging files so they can be autoconverted by the Unix Shell?  
+  Action:  
+  Owner:  
+  Date:  
 
-#Repository tagging so the project has a consistent tagging / mix of EBCDIC / ASCII
-Files are sometimes in ASCII and other times in EBCDIC.  Tagging is not consistent across the repo.  How best to solve this usability issue?  Mandating use of one code page is probably not reasonable.  How about tagging files so they can be autoconverted by the Unix Shell?
-  Action:
-  Owner:
-  Date:
-
-#Extended Community Contribution Guideline Discussions
-Proposal - "Community" repository containing guidelines for behavior and general best practices. Sub-directories for guidelines specific to language, and contribution guidelines per-repository for project-specific guidelines.
+#Extended Community Contribution Guideline Discussions  
+Proposal - "Community" repository containing guidelines for behavior and general best practices. Sub-directories for guidelines specific to language, and contribution guidelines per-repository for project-specific guidelines.  
+  Action:  
+  Owner:  
+  Date:  
