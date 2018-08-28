@@ -1,4 +1,4 @@
-*Adapted from Open Mainframe Project Top Level Project Graduation Criteria at https://github.com/openmainframeproject/ZLC/blob/master/process/project_stages.md*
+*Adapted from Open Mainframe Project Top Level Project Graduation Criteria at https://github.com/openmainframeproject/tsc/blob/master/process/project_stages.md*
 
 # Zowe sub-project Graduation Criteria
 

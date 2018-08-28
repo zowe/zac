@@ -38,3 +38,5 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
 - [Project Role Definitions](process/roles.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
 - [Release Process](process/release.md)
+- [Proposal for a new sub-project](process/proposal_process.md)
+- [Sub-project stages](process/stages.md)

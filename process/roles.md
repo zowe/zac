@@ -33,6 +33,6 @@ Rights and responsibilities of a Committer include, but are not limited to:
 * Proactively reporting problems in the bug tracking system, and annotating problem reports with status information, explanations, clarifications, or requests for more information from the submitter. Committers are responsible for updating problem reports when they have done work related to the problem.
 * Be responsive to questions raised about the sub-project on mailing lists and other mediums.
 
-# Project Lead
+# Lead
 
-A "Project Lead" is an indivdual elected by the Committers of a given sub-project, who oversees the development done by a sub-project. 
+A "Lead" is an indivdual elected by the Committers of a given sub-project, who oversees the development done by a sub-project. 
