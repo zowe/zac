@@ -46,7 +46,7 @@ As part of squad formation, teams need to document their review and comimit proc
   Owner:  Sean Grady
   Date:  08/29/2018
   Allow teams to create their own branch.  Master would be managed by a small set of core contrinutors and is updated through pull reqeusts.  Initial membership based on people who did most commits in prior giza foundation work.  Add the top two comitters.  If there is a third that can be added based on affiliation for now that would be ideal.  Teams to decide.  Sean Grady to document.
-
+https://github.com/zowe/zlc/issues/14
 
 # Parking Lot - Move up if active discussion is needed.
 ## Metrics of the community (Git Issue #3) - Tim Brooks  (Deferred)  
