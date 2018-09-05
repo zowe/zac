@@ -1,19 +1,20 @@
 __2018-08-22__
 
 ZLC Members  
-[ ] Matt Hogstrom  
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  (on vacation)  
+[X] Matt Hogstrom  
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
+[X] Mark Ackert  
+[X] Jean-Louis  (on vacation)  
 
 Observers  
-[ ] Joe Winchester  
-[ ] Tim Brooks  
-[ ] Alvin Tan  
-[ ] Nick K.  
-[ ] John Mertic  
+[X] Joe Winchester  
+[X] Tim Brooks  
+[X] Alvin Tan  
+[X] Nick K.  
+[X] John Mertic  
+[X] Robert Penny
 
 # Items for this week
 ## Waffle and Zowe - Boards.
@@ -22,13 +23,22 @@ Mark demoed this prior to vacation.  An issue came up that people cannot add iss
   Action:  Discuss adding limited people write access to zlc repo until Waffle is enhanced.
   Owner: Mark Ackert
   Date: TBD
+  Add limited users to ZLC
 
 ## Discuss open source needs  - Discussion  
  Currently users cannot checkout and build Zowe in their own environment.  This is because some of the dependencies are non EPL-2.0.  Two dependencies are WebSphere Liberty and the other is ZSS.  As a community, what action do we want to take to get the community to an independent answer by first GA.
-  Action:
+  Action: Define 
   Owner: Armstrong
   Date: (Update 2 weeks)
-  Bruce is working this with other OMs and JDA context so he needs a week or two to outline options.  Bruce will include dev resources as needed  
+  Bruce is working this with other OMs and JDA context so he needs a week or two to outline options.  Bruce will include dev resources as needed
+  Default function included in Zowe is dependent on non-EPL 2.0 code.
+  Dependencies on other software:
+  Node
+  ZSS
+  Liberty
+  SpringBoot
+  ESM - Mark working to resolve before GA ... binaries on tut.projectgiza.org
+  
 
 ## Discuss runtime environments - Discussion  
  Currently Zowe includes Tomcat, Jetty and Liberty for z/OS.  Open Liberty is an option.  To limit packaging size and consistency in deployment it would be ideal to select a consistent set of technology.  
@@ -47,6 +57,8 @@ As part of squad formation, teams need to document their review and comimit proc
   Date:  08/29/2018
   Allow teams to create their own branch.  Master would be managed by a small set of core contrinutors and is updated through pull reqeusts.  Initial membership based on people who did most commits in prior giza foundation work.  Add the top two comitters.  If there is a third that can be added based on affiliation for now that would be ideal.  Teams to decide.  Sean Grady to document.
 https://github.com/zowe/zlc/issues/14
+Suggested to create teams that are general and sub-teams to control
+
 
 # Parking Lot - Move up if active discussion is needed.
 ## Metrics of the community (Git Issue #3) - Tim Brooks  (Deferred)  
