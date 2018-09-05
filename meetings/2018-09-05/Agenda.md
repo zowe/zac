@@ -24,11 +24,21 @@ Mark demoed this prior to vacation.  An issue came up that people cannot add iss
   Date: TBD
 
 ## Discuss open source needs  - Discussion  
- Currently users cannot checkout and build Zowe in their own environment.  This is because some of the dependencies are non EPL-2.0.  Two dependencies are WebSphere Liberty and the other is ZSS.  As a community, what action do we want to take to get the community to an independent answer by first GA.
+
+zowe-0.9.pax contains non EPL 2.0 licensed content.  On December the zowe-1.0.pax from zowe.org cannot contain non EPL 2.0 licensed content.  For functionality the MVD, TN3270 and VT terminal rely on zSS.  The JES, USS and MVS Explorer rely on Liberty. The API mediation layer is still in github.com/gizafoundation and MIT license but will move to github.com/zowe and come upder EPL 2.0 (need to confirm).
+WebSphere Liberty and ZSS are not EPL 2.0 so the 1.0 OSS function will be deficient in function.  As a community, what action do we want to take to get the community to an independent answer by first GA.
+When will the first build be available that contains the EPL 2.0 only content ?   We are currently building from a mixture of zowe.org and gizafoundation and artifactory binaries.
   Action:
   Owner: Armstrong
   Date: (Update 2 weeks)
   Bruce is working this with other OMs and JDA context so he needs a week or two to outline options.  Bruce will include dev resources as needed  
+   
+## Self signed expired certificate in MVD
+   https:// certificate for the MVD server has expired
+The current certificate self signed by Sean expired on March 2018. Can we get a new certificate that isn't self signed and authorized by a trusted authority and replace this in the next build ?
+
+## API Mediation layer 
+There is no solution for SSO in the API mediation layer and the squads have identified the need to work on this, either by contributing ESM and evolving this, or looking at alternatives.  How can we staff this ?
 
 ## Discuss runtime environments - Discussion  
  Currently Zowe includes Tomcat, Jetty and Liberty for z/OS.  Open Liberty is an option.  To limit packaging size and consistency in deployment it would be ideal to select a consistent set of technology.  
