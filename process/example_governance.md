@@ -49,7 +49,7 @@ The project committers will elect a lead ( and optionally a co-lead ) which will
 
 # Release Process
 
-Project releases will occur on a scheduled basis as agreed to by the maintainers.
+Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/tree/master/CI-CD), and all Zowe releases are to be approved by the ZLC.
 
 # Conflict resolution and voting
 
