@@ -1,6 +1,6 @@
 # Zowe project role definitions
 
-The Zowe sub-project will generally have the following roles defined within the development community. The purpose of this document is to define those roles. It's expected that sub-projects will have more specific defintion of the roles as it pertains to that sub-project's community.
+The Zowe sub-project will generally have the following roles defined within the development community. The purpose of this document is to define those roles. It's expected that sub-projects will have more specific definition of the roles as it pertains to that sub-project's community.
 
 ## Adopters
 
