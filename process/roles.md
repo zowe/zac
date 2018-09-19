@@ -4,7 +4,7 @@ The Zowe sub-project will generally have the following roles defined within the 
 
 ## Adopters
 
-An "Adopter" uses the frameworks and technology provided by Zoe to extend and craft their own offerings.  These offerings can be internal or external. If external, they can be made available either commercially or free of charge.
+An "Adopter" uses the frameworks and technology provided by Zowe to extend and craft their own offerings.  These offerings can be internal or external. If external, they can be made available either commercially or free of charge.
 
 ## Contributor
 
