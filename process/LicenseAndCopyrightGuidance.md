@@ -4,7 +4,7 @@ When contributing source code to Zowe, there are two primary requirements that r
 
 First, all repositories need to contain a license file.  Zowe uses the [Eclipse Public License 2.0 (EPL-2.0)](https://www.eclipse.org/legal/epl-v20.html).  Include the plain-text version of the license, available at https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt, as a LICENSE file in the top-level directory of the Zowe repostiory.
 
-Second, all source files need to include a header to clearly show the license.  Zowe has standardized on SPDX license headers and the Copyright state as shown below:
+Second, all source files need to include a header to clearly show the license.  Zowe has standardized on including [SPDX short-form license identifiers](https://spdx.org/sites/cpstandard/files/pages/files/using_spdx_license_list_short_identifiers.pdf) and a general copyright statement as shown below:
 
 ````
 /**
