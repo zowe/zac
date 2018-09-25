@@ -1,7 +1,3 @@
-*To be approved by Open Mainframe Project TSC*
-
-*NOTE: This document is intended to provide an example governance structure for any Open Mainframe Project project to consider as a starting point. All projects hosted by Open Mainframe Project are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
-
 # Overview
 
 This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affilation. Participants all our bound the project's Code of Conduct.
@@ -12,7 +8,7 @@ This project aims to be governed in a transparent, accessible way for the benefi
 
 The contributor role is the starting role for anyone participating in the project and wishing to contribute code.
 
-# Process for becoming a contributor
+### Process for becoming a contributor
 
 * Review the CONTRIBUTING.md guidelines to ensure your contribution is inline with the project's coding and styling guidelines.
 * Submit your code as a PR with the appropriate DCO signoff
@@ -45,7 +41,7 @@ the maintainers per the voting process below.
 
 ## Lead
 
-The project committers will elect a lead ( and optionally a co-lead ) which will be the primary point of contact for the project and representative to the TSC. The lead(s) will be responsible for the overall project health and direction, coordination of activities, and working with other projects and committees as needed for the continuted growth of the project.
+Each sub-project is managed by a project lead. Collectively, Zowe Project leads are responsible for ensuring that their project's committers are following the Development Process, and that the project is engaging in the right sorts of activities to develop vibrant communities of users, contributors and committers. Each project lead is equal in responsibility.  Subsequently, additional project leads must be elected by the project's committers.
 
 # Release Process
 
