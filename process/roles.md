@@ -1,14 +1,14 @@
 # Zowe project role definitions
 
-The Zowe sub-project will generally have the following roles defined within the development community. The purpose of this document is to define those roles. It's expected that sub-projects will have more specific defintion of the roles as it pertains to that sub-project's community.
+This document defines the roles of the Zowe sub-project within the development community. The Zowe sub-project generally has the following roles. It's expected that sub-projects have more specific definition of the roles as it pertains to that sub-project's community.
 
 ## Adopters
 
-An "Adopter" uses the frameworks and technology provided by Zoe to extend and craft their own offerings.  These offerings can be internal or external. If external, they can be made available either commercially or free of charge.
+An "Adopter" uses the frameworks and technology provided by Zowe to extend and craft their own offerings. These offerings can be internal or external. When external, these offerings can be made available either commercially or free of charge.
 
 ## Contributor
 
-A "Contributor" is an individual that wishes to contribute code or documentation to the Zowe.
+A "Contributor" is an individual that wishes to contribute code or documentation to Zowe.
 
 All code contributions to Zowe are to be made under the [Eclipse Public License 2.0 (EPL-2.0)](https://spdx.org/licenses/EPL-2.0.html) and all non-code contributions are to be made under the [Creative Commons Attribution 4.0 International license (CC-BY-4.0)](https://spdx.org/licenses/CC-BY-4.0.html) unless otherwise approved by the Open Mainframe Project Governing Board.
 
@@ -24,15 +24,15 @@ You can include this automatically when you commit a change to your local git re
 
 ## Committer
 
-A "Committer" is an indivudual who has been given the right to commit code to a sub-project of Zowe. Guidelines for how to each Committer status is defined and approved by each sub-project, and is subject to revokation if the individal is in violation of the Code of Conduct by the ZLC.
+A "Committer" is an individual who has been given the right to commit code to a sub-project of Zowe. Guidelines for how to commit and the Committer status is defined and approved by each sub-project, and is subject to revocation if the individual is in violation of the Code of Conduct by the ZLC.
 
-Rights and responsibilities of a Committer include, but are not limited to:
+Rights and responsibilities of a Committer include, but are not limited to the following:
 
-* Review and merge pull requests into a sub-project's repository(s)
-* Track, participate in, and vote on, relevant discussions in their associated projects.
-* Proactively reporting problems in the bug tracking system, and annotating problem reports with status information, explanations, clarifications, or requests for more information from the submitter. Committers are responsible for updating problem reports when they have done work related to the problem.
+* Review and merge pull requests into a sub-project's repository(s).
+* Track, participate in, and vote on relevant discussions in their associated projects.
+* Proactively report problems in the bug tracking system, and annotate problem reports with status information, explanations, clarifications, or requests for more information from the submitter. Committers are responsible for updating problem reports when they have done work related to the problem.
 * Be responsive to questions raised about the sub-project on mailing lists and other mediums.
 
 # Lead
 
-A "Lead" is an indivdual elected by the Committers of a given sub-project, who oversees the development done by a sub-project. 
+A "Project Lead" is an individual elected by the Committers of a given sub-project, who oversees the development done by a sub-project.

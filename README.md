@@ -6,12 +6,12 @@ This repository contains the materials of how the Zowe project operates, along w
 
 The Zowe Leadership Committee (ZLC) oversees all code development and release management for the Zowe project. In particular, the ZLC has the following roles:
 
-* Receive proposals for sub-projects leveraging Zoe technology and will decide, via a vote, on whether the sub-project is accepted.
-*	Be responsible for working with the OMP Marketing Committee to ensure messaging and content is consistent with the vision and mission of Zoe.
+* Receive proposals for sub-projects leveraging Zowe technology and will decide, via a vote, on whether the sub-project is accepted.
+*	Be responsible for working with the OMP Marketing Committee to ensure messaging and content is consistent with the vision and mission of Zowe.
 *	Create and maintain development iteration criteria and release train to drive framework development and deployment
 *	When required, vote on revoking commit rights
 
-The ZLC is composed of six (6) members of the Zowe community. Initially IBM, CA Technologies, and Rocket Software have each nominated two indivuduals to serve on the ZLC while the Zowe community builds committer diversity, for a term that will end by July 31, 2018.
+The ZLC is composed of six (6) members of the Zowe community. Initially IBM, CA Technologies, and Rocket Software have each nominated two indivuduals to serve on the ZLC while the Zowe community builds committer diversity, for a term that will end by July 31, 2019.
 
 To qualify for nomination to serve on the ZLC, the individual must be a committer on a Zowe sub-project. No more than 2 individuals on the ZLC can be afflilated with the same company.
 
