@@ -25,7 +25,11 @@ Participants
 
 ## Recording can be found here:
 
+Topic: Zowe ZLC meeting
+Date: Oct 24, 2018 8:49 AM Eastern Time (US and Canada)
 
+Meeting Recording:
+https://zoom.us/recording/share/rAzDTtcKc45vC_LP8o06UrjSQzqzb8aKUgYhPNbU_2WwIumekTziMw
 
 ## Topics
 - Discuss move to LF infrastructure
