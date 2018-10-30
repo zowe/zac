@@ -71,6 +71,9 @@ Participants
 [ ] Mark Ackert  
 [ ] Jean-Louis
 
+### Discuss
+Review procedure for security notifications  - https://zowe.org/contribute/#ReportingSecurity
+
 ### Updates
 [Remove dependencies on non-EPL 2.0 Code bases in progress](https://github.com/zowe/zlc/issues/17)
 [Discuss - DB2 Plugin Dependencies in progress](https://github.com/zowe/zlc/issues/48)
@@ -86,6 +89,8 @@ Participants
 ["Built on Zowe" Website section](https://github.com/zowe/zlc/issues/41)
 
 [Zowe GA 1.0.0 Goals](https://github.com/zowe/zlc/issues/37)
+ - Added Tim Brooks and asked him to update this issue with the 1.0 items that have been discussed.
+ - Proposal to release 1.0 in January (last Tuesday) to allow more time for integration, performance and testing.
 
 [Agenda update for 09-05 zLC meeting](https://github.com/zowe/zlc/issues/18)
 
