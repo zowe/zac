@@ -136,14 +136,21 @@ For each of the subprojects, may follow similar pattern. But subproject itself m
     └── subproject2-3 v3.3.3
 ```
 
-## Manual Testing
+## Automated And Manual Testing
+
+### Automated Testing
+
+Each release candidate build will be sanity validated with test cases designed in [zowe-install-test](https://github.com/zowe/zowe-install-test).
+
+This is the most latest test result: https://projectgiza.org/Automated_Test_Result_HTML_Report/. Please verify and see if there are anything missing.
+
+### Manual Testing
 
 | subproject | manual test case | remediation |
 |---|---|---|
 | zowe-cli | validate version matches intended release | present information about bundled CLI versions clearly |
 | zowe-cli | validate installation follow doc | automate installation of cli + plugins. Follow user guide doc must remain manual. |
 | api-layer | 11 known manual tests | See [Manual Tests](https://github.com/zowe/api-layer/blob/master/docs/manual_tests.md) |
-
 
 ## Zowe Nightly Builds
 
