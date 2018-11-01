@@ -1,9 +1,8 @@
 # Release Process and Guidelines
 
+## What is a Zowe release
 
-## What is a Zowe release?
-
-A release of the Zowe project contains two 'convenience' deliverables - CLI binaries, and a PAX file which contains the Zowe API Mediation Layer, Zowe Desktop, and Zowe Explorer-Server. The CLI binaries are obtainable either through standard npm install commands, or, for users with limited internet access, through a convience zip file which allows for offline installation. The CLI convenience zip and Zowe PAX are both available through the official [Zowe Website](https://www.zowe.org).
+A release of the Zowe project consists of two 'convenience' deliverables - CLI binaries, and a PAX file which contains the Zowe API Mediation Layer, Zowe Desktop, and Zowe Explorer-Server. The CLI binaries are obtainable either through standard npm install commands, or, for users with limited internet access, through a convience zip file which allows for offline installation. The CLI convenience zip and Zowe PAX are both available through the official [Zowe Website](https://www.zowe.org).
 
 Each Zowe release comes with updates to user installation, configuration, and extension documentation. The documentation is developed in the [docs-site repository](https://github.com/zowe/docs-site), is accessible through the [Zowe Website](https://www.zowe.org), and is hosted directly on [Github.io](https://zowe.github.io/docs-site/).
 
@@ -11,7 +10,7 @@ The focus of this document refers to generating stable releases of Zowe. For ble
 
 Generating any release of Zowe requires gathering artifacts from each of Zowe's subprojects, organizing them into the Zowe deliverables, testing said Zowe deliverables, signing the deliverables, and publishing the deliverables in sync with Release Notes / Documentation Updates.
 
-## How do we generate a release? 
+## How to generate a release
 
 Stable Zowe releases are generated from [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging) repository **master** branch. The versions defined in [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging) are Zowe official stable version.
 
@@ -34,8 +33,9 @@ In order to generate a new release of Zowe, each of the below checklists must be
 
 ### Zowe PAX Checklist
 
-* Build PAX
-* Test PAX
+* Build PAX through automation
+* Test PAX using automation 
+* Test PAX with any manual tests not covered by automation. See [Leftover Manual Tests](##Manual%20Testing)
     * Publish as RC candidate
     * Test RC candidate
           * Automated smoke tests
@@ -139,6 +139,13 @@ For each of the subprojects, may follow similar pattern. But subproject itself m
     ├── subproject2-2 v3.2.2
     └── subproject2-3 v3.3.3
 ```
+
+## Manual Testing
+
+| subproject | manual test case | remediation |
+|---|---|---|
+| zowe-cli | validate version matches intended release | automate either version |
+| zowe-cli | validate installation | automate installation of cli + plugins |
 
 ## Zowe Nightly Builds
 
