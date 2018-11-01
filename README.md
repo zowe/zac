@@ -1,3 +1,5 @@
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2226/badge)](https://bestpractices.coreinfrastructure.org/projects/2226)
+
 # Overview
 
 This repository contains the materials of how the Zowe project operates, along with meeting notes and materials from regularly scheduled meetings of the Zowe Leadership Committee (ZLC).
