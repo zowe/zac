@@ -33,14 +33,10 @@ In order to generate a new release of Zowe, each of the below checklists must be
 
 ### Zowe PAX Checklist
 
-* Build PAX through automation
-* Test PAX using automation 
+* Build Release Candidate PAX (Automated)
+* Test Release Candidate PAX install + smoke (Automated)
 * Test PAX with any manual tests not covered by automation. See [Leftover Manual Tests](##Manual%20Testing)
-    * Publish as RC candidate
-    * Test RC candidate
-          * Automated smoke tests
-          * Manual verifications
-    * Loop if necessary until candidate passes
+* IF errors exist within the PAX
 * Sign the PAX
 
 ### Publish Release Checklist
@@ -144,8 +140,10 @@ For each of the subprojects, may follow similar pattern. But subproject itself m
 
 | subproject | manual test case | remediation |
 |---|---|---|
-| zowe-cli | validate version matches intended release | automate either version |
-| zowe-cli | validate installation | automate installation of cli + plugins |
+| zowe-cli | validate version matches intended release | present information about bundled CLI versions clearly |
+| zowe-cli | validate installation | automate installation of cli + plugins (currently, base CLI install is automated) |
+| api-layer | 11 known manual tests | See [Manual Tests](https://github.com/zowe/api-layer/blob/master/docs/manual_tests.md) |
+
 
 ## Zowe Nightly Builds
 
