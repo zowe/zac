@@ -35,6 +35,8 @@ No pending votes
 Review procedure for security notifications  - https://zowe.org/contribute/#ReportingSecurity
 - Zowe instances for users to access is blocked by outstanding security issues ... discuss process.
 
+Feedback on January release versus December - All
+
 [Remove dependencies on non-EPL 2.0 Code bases in progress](https://github.com/zowe/zlc/issues/17)
 [Discuss - DB2 Plugin Dependencies in progress](https://github.com/zowe/zlc/issues/48)
 [EPL-2.0 Component for ZSS enhancement to do](https://github.com/zowe/zlc/issues/26)
