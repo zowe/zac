@@ -142,7 +142,7 @@ For each of the subprojects, may follow similar pattern. But subproject itself m
 
 Each release candidate build will be sanity validated with test cases designed in [zowe-install-test](https://github.com/zowe/zowe-install-test).
 
-This is the most latest test result: https://projectgiza.org/Automated_Test_Result_HTML_Report/. Please verify and see if there are anything missing.
+The most latest test result can be found from Jenkins server pipeline `zowe-install-test` master branch. Also the nightly build test status will be published to [#zowe-build](https://openmainframeproject.slack.com/messages/CC9QW5NJE/) Slack channel.
 
 ### Manual Testing
 
