@@ -1,19 +1,19 @@
 __2018-11-21__
 
 **ZLC Members**  
-[ ] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
+[X] Matt Hogstrom
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
 [ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Mark Ackert  
+[X] Jean-Louis  
   
 **Participants**  
-[ ] Joe Winchester  
-[ ] Tim Brooks  
-[ ] Alvin Tan  
-[ ] Nick Kocsis  
-[ ] John Mertic  
+[X] Joe Winchester
+[X] Tim Brooks  
+[X] Alvin Tan  
+[X] Nick Kocsis  
+[ ] John Mertic  - vacation
 [ ] Kyle Woodworth  
 [ ] Michael Supak  
 [ ] Petr Plajanik  
@@ -22,8 +22,8 @@ __2018-11-21__
 [ ] Rob Scott  
 [ ] Jordan Cain  
 [ ] Jax Shawley  
-[ ] Manoel  
-[ ] Alex Kim  
+[X] Simone Gregg
+[X] Kimberly Andersson
   
 ## Recording can be found here:  
 
@@ -31,6 +31,27 @@ __2018-11-21__
 
 ### Vote on these to move forward and close
 Clarify Zowe release 1.0 date to officially be Tuesday January 22, 2019.  Reasons for the move are to allow time for better integration, improved security features, better positioning post 2018 which has low visibility due to the holidays.
+
+Two issues.  The new license is intended for the Rocket WebSite.  Rocket intends to allow Zowe to incorporate the ZSS without granting redistribution rights to downstream consumers.
+
+Jean-Louis, people cannot build on top of Zowe because of this limitation.  Rocket is actively open sourcing the ZSS and are optimistic that they will have code in December but cannot guarantee that date.  Jean-Louis believes that we should defer the date until we have the ZSS.  
+
+Tim needs to confirm what the impacts would be for 1.0 and does the OMP have redistribution permissoin of ZSS ?  What new LICENSE / doc needs to be included.
+
+Alvin, what is the default expectation and support scenarios.  
+
+Three issues, support, redistribution and source code availability
+
+Are we expecting downstream consumers to package and redistribute.  
+
+Customers are expecting API compliance, support, etc.
+
+Alvin was promoting.  Compliance suite needed to ensure compliance and REST API stability.  User interface standards.
+
+Jean-Louis indicated that Brightside is not a CA Trademark.  All to review the current use of Brightside to see if there are any issues.
+
+Bruce, for the next build (0.9.4).  Nick, it is targetted for the 12/5.  
+
 Zowe 1.0 Release, Tuesday, January 22, 2019
 [ ] Matt Hogstrom
 [ ] Bruce Armstrong  
