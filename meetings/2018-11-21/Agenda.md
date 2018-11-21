@@ -65,9 +65,7 @@ Review https://github.com/zowe/zlc/blob/release-guidance/process/ReleaseProcess.
 
 [Remove dependencies on non-EPL 2.0 Code bases in progress](https://github.com/zowe/zlc/issues/17)  
 CA - all proprietary dependencies removed   
-IBM - Explorer  
-
-[Discuss - DB2 Plugin Dependencies in progress](https://github.com/zowe/zlc/issues/48)  
+IBM - Explorer   
 
 [EPL-2.0 Component for ZSS enhancement to do](https://github.com/zowe/zlc/issues/26)  
 This is the current proposal for ZSS, still under discussion.  
@@ -75,6 +73,10 @@ This is the current proposal for ZSS, still under discussion.
   Zowe would not ship the ZSS component and would need to go to Rocket  
   There are no redistribution rights for downstream consumers  
   Perpetual free use with no support  
+  
+[Review @brightside usages for GA to do](https://github.com/zowe/zlc/issues/28) 
+  1. CA followed up and does not own a trademark on the term 'brightside'. 
+  2. Does the lack of a trademark change the ZLC's long term view of the usage of the term 'brightside' ?
 
 ### Updates    
 [Achieve CII Best Practices badge in progress](https://github.com/zowe/zlc/issues/38)  
