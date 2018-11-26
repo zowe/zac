@@ -9,9 +9,12 @@ Just like Zowe, the Conformance program will continue to evolve and is managed b
 is divided into two parts: 1) Zowe Conformant Applications and 2) Zowe Conformant Distribution.  
 
 Zowe Conformant Applications
+
 Zowe Conformant Applications are designed to integrate with any Zowe Conformant Distribution. In order for an application
 to be Conformant it must adhere to the following checklist:
 1. Developers Guidelines <link>
+- Code Guidelines: https://zowe.org/code-guidelines/
+
 2. Visual Design and User Interaction <link>
   - Design Guidelines
   - Navigation
@@ -47,14 +50,14 @@ to be Conformant it must adhere to the following checklist:
   - Cyptography?
   
  7. Testing? <link>
-  - Which tests does it need to pass?
+  - Which tests does it need to pass?CLI, WebUI, API, etc.?
   
  8. List/Link to Zowe App Directory? <link>
-  - When we get an app directoy, ensure that it has the appropriate material and ensure the app is unique
+  - When we get an app directoy, ensure that it has the appropriate material and ensure the app is unique?
   
   Zowe Conformant Distribution
   
-  Zowe Conformant Distributions is the Zowe opern source project components and any other commercial or open source additions
+  Zowe Conformant Distributions is the Zowe open source project components and any other commercial or open source additions
   which is bundled bu a vendor and shipped as a product. Int order to have a Zowe Conformant Distribution if must adhere to 
   the following checklist:
   
@@ -65,3 +68,11 @@ to be Conformant it must adhere to the following checklist:
   3. Marks (i.e. the logos) <link>
   
   4. Terms and Conditions <link>
+- https://www.linuxfoundation.org/trademark-usage/
+
+Once checklist items are confirmed, please submit an application to use Zowe name and marks?
+Best practice is to work through the on-boarding squad to ensure that your application meets the intent of the conformance program 
+and improve the chances of meeting conformance on first submission.
+If there this is a confidential/commercial Zowe application the trademark submission will be reviewed by the Linux Foundation and 
+usage will be granted on the assumption that it meets all conformance criteria. If the confidential application does is found to be
+non-conformaant, usage rights will be revoked. 
