@@ -1,0 +1,67 @@
+Zowe Conformance
+
+Zowe is an integrated and extensible framework designed to allow users the flexibility to choose how they 
+interact with z/OS. In order to better serve this goal, the Zowe community is developing a Conformance Program. 
+The Zowe Conformance Program gives users the confindence that when they use a conformant product or app, they can rely
+on a high level of common functionality and interoperability. Conformance provides Independent Software Vendors (ISVs), System
+Integrators (SIs) and end users confidence that their software will behave as expected.
+Just like Zowe, the Conformance program will continue to evolve and is managed by contributors in our community. The program
+is divided into two parts: 1) Zowe Conformant Applications and 2) Zowe Conformant Distribution.  
+
+Zowe Conformant Applications
+Zowe Conformant Applications are designed to integrate with any Zowe Conformant Distribution. In order for an application
+to be Conformant it must adhere to the following checklist:
+1. Developers Guidelines <link>
+2. Visual Design and User Interaction <link>
+  - Design Guidelines
+  - Navigation
+  - Notifications
+  - etc.
+  
+3. Functionality <link>
+  - SSO
+  - Install
+  - CLI
+  - API Mediation Layer
+  - Web UI
+  - App Completeness <link>
+    -  No temporary content
+    - Tested for bugs
+    - etc.
+  
+ 4. Architectural Design <link>
+ 
+ 5. Compatibility, performance and stability <link>
+  - Stability
+  - Performance
+  - Visual Quality?
+ 
+ 6. Security <link>
+  - GDPR/Data Compliance?
+  - App to App - How do application components that share data with other apps or components that should be invoked by other apps,
+  are exported?
+  - Networking?
+  - Libraries?
+  - Webviews?
+  - Execution?
+  - Cyptography?
+  
+ 7. Testing? <link>
+  - Which tests does it need to pass?
+  
+ 8. List/Link to Zowe App Directory? <link>
+  - When we get an app directoy, ensure that it has the appropriate material and ensure the app is unique
+  
+  Zowe Conformant Distribution
+  
+  Zowe Conformant Distributions is the Zowe opern source project components and any other commercial or open source additions
+  which is bundled bu a vendor and shipped as a product. Int order to have a Zowe Conformant Distribution if must adhere to 
+  the following checklist:
+  
+  1. Meets the quality standards described in the Zowe Conformant Application Program <link above>
+  
+  2. Brand Guidelines <link>
+  
+  3. Marks (i.e. the logos) <link>
+  
+  4. Terms and Conditions <link>
