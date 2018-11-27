@@ -14,7 +14,11 @@ to be Conformant it must adhere to the following checklist:
 
 For all Zowe Applications:
 - Follow Developers Guidelines https://zowe.org/code-guidelines/
-- FUTURE: Zowe App Directory (Marketplace) info
+- Zowe App Directory (Marketplace) info   for all conformant applications, e.g.
+  - zowe.org/apps    to list apps that, e.g.
+    zowe.org/apps/product1    zowe.org/apps/product2
+    The page for each product describes the extensions that product has available, how to obtain, install.  Whether it's CLI, 
+        APIML,  Web Desktop App. 
   - App description
   - App Pre-reqs
   - App Install pattern?
