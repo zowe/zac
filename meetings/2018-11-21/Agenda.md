@@ -26,6 +26,7 @@ __2018-11-21__
 [X] Kimberly Andersson
   
 ## Recording can be found here:  
+The meeting was not recorded.  Minutes below reflect the context of the meeting.
 
 ## Issues to be discussed on 11-21-2018
 
