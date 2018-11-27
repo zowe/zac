@@ -8,12 +8,80 @@ Integrators (SIs) and end users confidence that their software will behave as ex
 Just like Zowe, the Conformance program will continue to evolve and is managed by contributors in our community. The program
 is divided into two parts: 1) Zowe Conformant Applications and 2) Zowe Conformant Distribution.  
 
-Zowe Conformant Applications
-
+1) Zowe Conformant Applications
 Zowe Conformant Applications are designed to integrate with any Zowe Conformant Distribution. In order for an application
 to be Conformant it must adhere to the following checklist:
-1. Developers Guidelines <link>
-- Code Guidelines: https://zowe.org/code-guidelines/
+
+For all Zowe Applications:
+- Follow Developers Guidelines https://zowe.org/code-guidelines/
+- FUTURE: Zowe App Directory (Marketplace) info
+  - App description
+  - App Pre-reqs
+  - App Install pattern?
+  - App Architecture design?
+  - etc? Ensure App is unique?
+
+API Conformance:
+What are Zowe conformant APIs?
+- Swagger Definition?
+- Security?
+- Architectural requirements?
+  - API Mediation Layer?
+- Tests?
+- etc.?
+
+Web App/Plug-in Conformance:
+- Visual design and User Interaction?
+  - Design ?
+  - Navigation ?
+  - Notifications ?
+  - etc .
+ -Functionality?
+  - SSO
+  - Install
+  - Globalization?
+ - App Completeness?
+  - No temp content?
+  - Tested for bugs?
+  - etc.
+ - Archetectural Design?
+ - Compatibility, performance, stability?
+  - Visual quality?
+  - Performance?
+  - etc.
+ - Security
+  - App to App Data transfer? GDPR?
+  - Networking?
+  - Libraries?
+  - Webviews?
+  - Execution?
+  - Cyptography?
+ - Tests? Automated or manual?
+  
+
+CLI Conformance:
+- Design Guidelines?
+  - Creating Custom commands?
+- Accessing/exposing sub-systems, product/service APIs?
+- Architectural design?
+- Help commands?
+- Security?
+  - GDPR?
+- Compatiabilty?
+- Functionality?
+  - SSO
+  - Install
+  - Globalization?
+  - etc?
+- App Completeness?
+- Testing?
+
+
+
+
+
+Previous format below
+====================
 
 2. Visual Design and User Interaction <link>
   - Design Guidelines
@@ -52,10 +120,8 @@ to be Conformant it must adhere to the following checklist:
  7. Testing? <link>
   - Which tests does it need to pass?CLI, WebUI, API, etc.?
   
- 8. List/Link to Zowe App Directory? <link>
-  - When we get an app directoy, ensure that it has the appropriate material and ensure the app is unique?
   
-  Zowe Conformant Distribution
+  2) Zowe Conformant Distribution
   
   Zowe Conformant Distributions is the Zowe open source project components and any other commercial or open source additions
   which is bundled bu a vendor and shipped as a product. Int order to have a Zowe Conformant Distribution if must adhere to 
