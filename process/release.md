@@ -1,10 +1,16 @@
 # Zowe Release Process
 
 ## Milestones and Release Candidates
-Zowe Milestones are time-base releases that are scheduled on four week intervals. It consists of two week Sprints and a release candidate (RC) that may be made available at the end of the Sprint.  By choosing monthly releases, it greatly simplifies communication and scheduling. With smaller iterations we expect to get feedback quickly. Each Squad will decide if there will be a deliverable depending on the content that went into the Release. Squads are self governing and are free to have their own schedules as long as they meet the requirements of the release. As the project matures, nightly builds should be available for download, but might contain experimental features or bugs.
+Zowe Milestones are time-base releases that are scheduled on four week intervals. It consists of two week Sprints and a release candidate (RC) that may be made available at the end of the Sprint.  By choosing monthly releases, it greatly simplifies communication and scheduling. With smaller iterations we expect to get feedback quickly. Each Squad will decide if there will be a deliverable depending on the content that went into the Release. Squads are self governing and are free to have their own schedules as long as they meet the requirements of the release as defined by the community. As the project matures, nightly builds should be available for download, but might contain experimental features or bugs.
 
 ## Release Approval Procedure
-TBD
+The ZLC is informed by the Release Manager that a new release is ready for public distribution.  The ZLC will review the release and ensure that all requirements that are needed for legal and technical release are met.  These include, but are not limited to, updated Documentation, correct LICENSE files, code scans show no known vulnerabilities and some spot testing at the ZLC's discretion.
+
+The ZLC will create a vote thread on zowe-zlc@lists.openmainframeproject.org to vote for the release.  +1 indicates concurrence, 0 is no opinion (and requires a reason to be given) and a -1 is a vote to block the release (rationale required).  The vote is to last no more than 1 week but can be completed sooner when all ZLC votes are cast.  The results will be communicated to the Release Manager.
+
+The Release Manager will sign the release with their GPG keys for the Zowe project and the release will be made available.
+
+Should the vote fail, the ZLC will communicate the issues that caused the release vote to be unsuccessful to the Release Manager who will address those issues and spin a new build.
 
 ## Release Numbering
 Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form `x.y.z` (Semantic Versioning) or `major.minor.micro`.
