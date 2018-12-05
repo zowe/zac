@@ -14,14 +14,14 @@ to be Conformant it must adhere to the following checklist:
 
 For all Zowe Applications:
 - Follow Developers Guidelines https://zowe.org/code-guidelines/
-- FUTURE: Zowe App Directory (Marketplace) info
-  - App description
-  - App Pre-reqs
-  - App Install pattern?
-  - App Architecture design?
+- FUTURE: Zowe App Directory (Marketplace) information to be provided in online application <insert link>
+  - Application description
+  - Application Pre-reqs
+  - Application Install pattern?
+  - Application Architecture design?
   - etc? Ensure App is unique?
 
-API Conformance:
+For Product or Service API Conformance: <Michal S to own and drive build out>
 What are Zowe conformant APIs?
 - Swagger Definition?
 - Security?
@@ -30,7 +30,7 @@ What are Zowe conformant APIs?
 - Tests?
 - etc.?
 
-Web App/Plug-in Conformance:
+For Web Application/Plug-in Conformance: <JP L to own and drive build out>
 - Visual design and User Interaction?
   - Design ?
   - Navigation ?
@@ -59,7 +59,7 @@ Web App/Plug-in Conformance:
  - Tests? Automated or manual?
   
 
-CLI Conformance:
+For CLI Application/Plug-in Conformance: <Michale Bauer>
 - Design Guidelines?
   - Creating Custom commands?
 - Accessing/exposing sub-systems, product/service APIs?
@@ -76,55 +76,12 @@ CLI Conformance:
 - App Completeness?
 - Testing?
 
-
-
-
-
-Previous format below
-====================
-
-2. Visual Design and User Interaction <link>
-  - Design Guidelines
-  - Navigation
-  - Notifications
-  - etc.
-  
-3. Functionality <link>
-  - SSO
-  - Install
-  - CLI
-  - API Mediation Layer
-  - Web UI
-  - App Completeness <link>
-    -  No temporary content
-    - Tested for bugs
-    - etc.
-  
- 4. Architectural Design <link>
- 
- 5. Compatibility, performance and stability <link>
-  - Stability
-  - Performance
-  - Visual Quality?
- 
- 6. Security <link>
-  - GDPR/Data Compliance?
-  - App to App - How do application components that share data with other apps or components that should be invoked by other apps,
-  are exported?
-  - Networking?
-  - Libraries?
-  - Webviews?
-  - Execution?
-  - Cyptography?
-  
- 7. Testing? <link>
-  - Which tests does it need to pass?CLI, WebUI, API, etc.?
   
   
-  2) Zowe Conformant Distribution
+  2) Zowe Conformant Distribution <ZLC and OMP to Deliver submission for and branding guidelines>
   
   Zowe Conformant Distributions is the Zowe open source project components and any other commercial or open source additions
-  which is bundled bu a vendor and shipped as a product. Int order to have a Zowe Conformant Distribution if must adhere to 
+  which is bundled by a vendor and shipped as a product. In order to have a Zowe Conformant Distribution it must adhere to 
   the following checklist:
   
   1. Meets the quality standards described in the Zowe Conformant Application Program <link above>
@@ -136,7 +93,7 @@ Previous format below
   4. Terms and Conditions <link>
 - https://www.linuxfoundation.org/trademark-usage/
 
-Once checklist items are confirmed, please submit an application to use Zowe name and marks?
+Once checklist items are confirmed, please submit an application <insert link> to use Zowe name and marks?
 Best practice is to work through the on-boarding squad to ensure that your application meets the intent of the conformance program 
 and improve the chances of meeting conformance on first submission.
 If there this is a confidential/commercial Zowe application the trademark submission will be reviewed by the Linux Foundation and 
