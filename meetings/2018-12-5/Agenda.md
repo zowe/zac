@@ -1,18 +1,18 @@
 __2018-12-5__
 
 **ZLC Members**  
-[ ] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
-[ ] Sean Grady  
+[X] Matt Hogstrom
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
 [ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Jean-Louis  
   
 **Participants**  
-[ ] Joe Winchester
+[X] Joe Winchester
 [ ] Tim Brooks  
-[ ] Alvin Tan  
-[ ] Nick Kocsis  
+[X] Alvin Tan  
+[X] Nick Kocsis  
 [ ] John Mertic  - vacation
 [ ] Kyle Woodworth  
 [ ] Michael Supak  
@@ -24,19 +24,42 @@ __2018-12-5__
 [ ] Jax Shawley  
 [ ] Simone Gregg
 [ ] Kimberly Andersson
+[X] Randall Campbell
   
 ## Recording can be found here:  
+
+Topic: Zowe ZLC - Working meetings -  https://zoom.us/j/935375531
+Date: Dec 5, 2018 8:50 AM Eastern Time (US and Canada)  
+
+Meeting Recording:  
+https://zoom.us/recording/share/VrQaitC2SSptND5drWbHu8tODOmYL_2nvsJfUcn_sAM
+
 
 ## Issues to be discussed on 2018-12-5
 
 ### Vote on these to move forward and close
 
 **Actions**  
-Update on 12/5/2018 from JP on licensing issues and ZSS open source progress.
 
 ### Discuss
-Any outstanding questons on the release process? 
 Update: Discussed during the meeting and made some revisions.  Members to review and start vote this week.
+
+Rocket is planning on completing the open sourcing of the required function for ZSS in time for the 2019-01-22 release of Zowe.  Work will continue and communication in the Slack channels.
+
+Hogstrom will work on a build environment on river.zowe.org until the OMP has alternative infrastructure in place.  We will use a ZDT instance to compile the ZSS code.  [Sean](@1000torquisepogs) will create a  repository for ZSS with a "Hello world" app that we can use to build up the infrastructure.
+
+As a result of Rocket's feedback the ZLC voted to target the Zowe 1.0 release for 2019-01-22.
+January 22 is the target date for Zowe 1.0
+[X] Matt Hogstrom
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
+[ ] Mark Ackert  absent
+[X] Jean-Louis  
+
+Some discussion about APF authorized code execution.  
+
+Exploration of ways to communicate the need for APF authorized code and how it should be deployed and verfied will be developed.  This includes provenance aspects of the other projects as well.  Hogstrom to open a Git Issue.
 
 [Remove dependencies on non-EPL 2.0 Code bases in progress](https://github.com/zowe/zlc/issues/17)  
 
@@ -66,12 +89,14 @@ Meeting held on 2018/11/26 to discuss conformance.  @Tbr00sky drafting initial s
 
 
 ### Discussion  
-Cancel ZLC meetings after 12/12.  All agreed pending resolution of the ZSS code.
+
 
 ### Actions  
-All to review Release documents. 
+All ZLC members to review release documents in the release branch.  
 
-All, review 1.0 Goals and ensure the document accurately reflects project goals.
+All, review 1.0 Goals and ensure the document accurately reflects project goals.  
+
+Cancel ZLC meetings for the remainder of the year due to limited attendance in December.  ZLC meetings will resume second week in January.  
 
 ### Post 1.0 Activities  
 [Process - Project Planning (PI Planning)](https://github.com/zowe/zlc/issues/40)  
