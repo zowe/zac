@@ -49,7 +49,8 @@ Complete ... Thanks to all who got us over the finish line.
   
 [Zowe GA 1.0.0 Goals](https://github.com/zowe/zlc/issues/37)  
  - Added Tim Brooks and asked him to update this issue with the 1.0 items that have been discussed.  
- - Proposal to release 1.0 in January (last Tuesday) to allow more time for integration, performance and testing.  
+ - Proposal to release 1.0 in January (last Tuesday) to allow more time for integration, performance and testing.
+ - [1.0.0 Messaging Doc](https://ibm.box.com/s/eh5pxhodvp38cwb9uvnnu9i5vjja9468) needs ZLC approval before being sent over to the OMP Marketing Committee. 
 
 [Zowe Conformance Program](https://github.com/zowe/zlc/issues/52)  -   
 Meeting held on 2018/11/26 to discuss conformance.  @Tbr00sky drafting initial set of capability.
