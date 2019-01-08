@@ -53,6 +53,17 @@ Complete ... Thanks to all who got us over the finish line.
 
 [Zowe Conformance Program](https://github.com/zowe/zlc/issues/52)  -   
 Meeting held on 2018/11/26 to discuss conformance.  @Tbr00sky drafting initial set of capability.
+Link to conformance program documents: https://ibm.box.com/s/401s4s2rdpkgxekhu53zpe3ss53b2jlk
+
+Zowe GTM
+Tentative: 1.0 Announce to include: 
+  - Analyst update by document
+  - Social promotion
+  - Webinar (Planning doc: https://ibm.box.com/s/anwc55w1btb3p79yskkt3ryannixt299)
+  - Podcast
+  - Systems Magazine update
+  
+  Note: The Zowe Marketing Reps and the OMP marketing committee will work to develop an event plan to tentatively include a Zowe MeetUp, THINK and SHARE events. 
   
 [Review @brightside usages for GA to do](https://github.com/zowe/zlc/issues/28) - Update from John on progress  
   1.  Mandate if the work needs to be completed  
