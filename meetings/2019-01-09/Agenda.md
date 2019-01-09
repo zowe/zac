@@ -1,45 +1,45 @@
 __2019-01-9__
 
 **ZLC Members**  
-[ ] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Matt Hogstrom
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
+[X] Mark Ackert  
+[X] Jean-Louis  
   
 **Participants**  
-[ ] Joe Winchester
-[ ] Tim Brooks  
-[ ] Alvin Tan  
-[ ] Nick Kocsis  
-[ ] John Mertic
-[ ] Kyle Woodworth  
-[ ] Michael Supak  
-[ ] Petr Plajanik  
-[ ] Robert Penny  
-[ ] John Davies  
-[ ] Rob Scott  
-[ ] Jordan Cain  
-[ ] Jax Shawley  
-[ ] Simone Gregg
-[ ] Kimberly Andersson
-[ ] Randall Campbell
+[X] Joe Winchester
+[X] Tim Brooks  
+[X] Alvin Tan  
+[X] Nick Kocsis  
+[X] Paul Bartholf
+[X] Macgr04
+[X] Steven Horsman
   
 ## Recording can be found here:  
-
+https://zoom.us/recording/share/TNit9VlgfuzFH1LuZDKu1P0lXHhw8g-ogwOLmrOq9OqwIumekTziMw?startTime=1547041608000
 
 ## Issues to be discussed on 2019-01-09
 Update on ZSS from Rocket - JP
+- Code refactoring is done and it is put in a private repo for review to ensure scanned and ready.  (Will contact Steve Winslow)
+IBM Resource acquisition, eCVT, POSIT and Message ID
 
 Build System on river.zowe.org
 
-Release Documents in release branch - are we ready to vote?
+Agreed - Push 0.9.5 with fixes related to reported customer issues.
 
+Agreed - The project will not push 0.9.6 and move to 1.0-RCn to support progress to 1.0 GA.
+
+0.9.x Release and 1.0
 All, review 1.0 Goals and ensure the document accurately reflects project goals.  
-
 1.0 Discussion and outstanding issues
+Installation
+Action: Steve Horsman and 
 
+Release Documents in release branch - are we ready to vote?
+Action: Asked all members to review in prep for 1.0 release.
+  
 [Signing of Interim builds](https://github.com/zowe/zlc/issues/68)  
 
 
