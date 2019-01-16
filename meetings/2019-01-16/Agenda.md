@@ -1,23 +1,29 @@
 __2019-01-16__
 
 **ZLC Members**  
-[ ] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
+[X] Matt Hogstrom
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
 [ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Mark Ackert  
+[X] Jean-Louis  
   
 **Participants**  
-[ ] Joe Winchester
-[ ] Tim Brooks  
-[ ] Alvin Tan  
+[X] John Mertic
+[X] Greg McKinnon
+[X] Joe Winchester
+[X] Tim Brooks  
+[X] Alvin Tan  
 [ ] Nick Kocsis  
-[ ] Paul Bartholf
-[ ] Macgr04
+[X] Paul Bartholf
+[X] Macgr04
+[X] Mike Maliska
 [ ] Steven Horsman
+[X] Petr
   
 ## Recording can be found here:  
+
+https://zoom.us/recording/share/-IRHQne14KEtDy4P9K1VmJAhYeSoRZ3PajMfdxP5erKwIumekTziMw?startTime=1547646890000
 
 ## Issues to be discussed on 2019-01-16
 1.0 Release Update
@@ -25,13 +31,25 @@ __2019-01-16__
 - Message IDs OMP and ZWE reserved from IBM
 - RACF Class ZOWE and Posit 607 reserved by IBM
 - ECVT Allocated - 4-byte slot 144 in the area pointed to by ECVTCTBL (the 4 bytes at offset x'23C') to the OMP.
+- (Update info@openmainframeproject.org as the registration point for these resources)
 - Pending install of Metal C on River
 - Explorer Update
-- When will we start dropping nightly builds for 1.0 for widespread testing (including ZSS)
+  - Liberty is removed.  USS and JES are functional.  MVS is pending.  An extra week is requested.
+- When will we start dropping nightly builds for 1.0 for widespread testing (including ZSS).  nightly builds are available  ... no release candidates yet.
+- APIML - SSO integration with the Desktop ... currently can be disabled.  Explorer will not be ready for SSO exploitation.
+- Scan Results (3 areas that need to be addressed.  
+  - Delivering binaries from third parties.  Better documentation for binary jars.  )
+  - React jars to move to newer jars to avoid older license.
+  - Other licenses that may not be compatible.
+  - # Need a license waiver
 - Installation changes
+  - Add ZSS (xmem server)
 
 All, review 1.0 Goals and ensure the document accurately reflects project goals.  
 1.0 Discussion and outstanding issues
+
+Release Dates
+- February 5th, 2019 is target 1.0 GA (verbal agreement by ZLC members present.)
 
 Release Documents in release branch - are we ready to vote?
 Action: Asked all members to review in prep for 1.0 release.
