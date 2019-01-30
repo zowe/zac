@@ -13,17 +13,26 @@ The Release Manager will sign the release with their GPG keys for the Zowe proje
 Should the vote fail, the ZLC will communicate the issues that caused the release vote to be unsuccessful to the Release Manager who will address those issues and spin a new build.
 
 ## Release Numbering
-Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form `x.y.z` (Semantic Versioning) or `major.minor.micro`.
+Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form `x.y.z-[GA | beta | yyyymmdd]` (Semantic Versioning) or `major.minor.micro`.  The final designation indicates whether this is the official Generally Available (GA) version, a beta version or an interim build.
+
 - The major version number is increased only when a significant amount of new functionality is added to the previous release. In such cases, the new release version number will be (x+1).0.0.
 - The minor version number is increased only when some functionality is added to the new release, in which case the new release version number will be x.(y+1).0.
 - When the new release consists mainly of bug fixes, there will be a so-called point release. The version number of the new release in such cases will only have the micro version number increased, resulting in x.y.(z+1).
-
-Since we are currently only shipping Beta code and our Major release is not expected to ship until the end of the year, we will follow the form `x.y.z` where x = 0, y = 9
+- **GA** indicates that this release is an official, supported version of the Zowe project and is suitable for regular use.
+- **beta** means that this build is a candidate build that is complete but is under active development and should not be considered for regular use.
+- **yyyymmdd** indicates this is an interim build suitable for experimentation or development.  It is not intended for general usage and may contain defects that are known and being worked or unknown.
 
 The code can be found [here](https://zowe.org/download/).
 
+## Release Content
+There are two significant and different release artifacts for Zowe.  The source release and the "convenience build."  
+
+The project officially release source code which can be built into an executable version of Zowe.  This is the core deliverable of Zowe and is intended for downstream consumers that may use Zowe in their projects or products as well as other developers.
+
+The "Convenience Build" is a courtesy release artifact that includes an installer and all available artifacts to run and use Zowe including sample applications.  The convenience build is intended for consumers that simply want to use Zowe and its APIs.  This is built from the source code release above.
+
 ## Playbacks
-At the end of each Sprint, the Squads will present their work in the form of a 1 hour Playback where they will demonstrate the new capabilities introduced in the Sprint. 
+At the end of each Sprint, the Squads will present their work in the form of a Playback that is open to all where they will demonstrate the new capabilities introduced in the Sprint.  
 
 Calendar invites to the Zowe playbacks will be posted [here](https://lists.openmainframeproject.org/g/zowe-dev/calendar).
 
