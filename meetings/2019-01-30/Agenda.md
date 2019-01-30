@@ -2,18 +2,18 @@ __2019-01-30__
 
 **ZLC Members**  
 [X] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
-  
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
+[X] Mark Ackert  
+[X] Jean-Louis  
+    
 **Participants**  
-[ ] John Mertic
-[ ] Greg McKinnon
-[ ] Joe Winchester
+[X] John Mertic
+[X] Greg McKinnon
+[X] Joe Winchester
 [X] Tim Brooks  
-[ ] Alvin Tan  
+[X] Alvin Tan  
 [X] Nick Kocsis  
 [ ] Paul Bartholf
 [ ] Macgr04
@@ -21,23 +21,30 @@ __2019-01-30__
 [ ] Steven Horsman
 [ ] Petr
 [ ] Paul Newton
+[X] Usman Haider
   
 ## Recording can be found here:  
 
 
 ## Issues to be discussed on 2019-01-30
 1.0 Release Updates
-- ZSS  - Are all updates complete?
+- ZSS  - Are all updates complete?  @jp sent a request for a code scan to Steve Winslow.  Vote, no objections to Irek being owner of ZSS
 - Zowe 1.0 Status
   - Binary distribution and LLC update @jmertic
-  - Release documents updated today with new information from John
-  - LLC creation for Zowe  - to address the legal issues around binaries and legal risks.  Series LLCs.  This will include EULA terms for no warranty terms. + John to update
+  - Release process to explain the provenance of the documents. Work on process.  
+  - Release documents updated today with new information from John's comments - @hogstrom
+  - LLC creation for Zowe  - to address the legal issues around binaries and legal risks.  Series LLCs.  This will include EULA terms for no warranty terms. + John to update  
 - Artifactory license renewal & transition to Nexus.  
   - Based on binaries, perhaps we renew this for 1-year ?
+  - @mark / @jack to work with Allison  
+  - Installer, @winchester, some updates to the doc.  Approximate delivery for the ZSS repos will be after Steve Winslow provides feedback.
+
+- 1.0 Marketing activities.  
   
 - Housekeeping
   - Please review all open issues and make updates as appropriate.
 
+- Project goal to be indpendent from all non-OMP infra sans z/OS instances
 
 ### Updates    
   
