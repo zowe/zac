@@ -24,7 +24,7 @@ __2019-01-30__
 [X] Usman Haider
   
 ## Recording can be found here:  
-
+https://zoom.us/recording/share/4cFRV7z8ZjUibsEezVC-qPG06IFPgzSXsftQpv_5FCmwIumekTziMw?startTime=1549375454000
 
 ## Issues to be discussed on 2019-01-30
 1.0 Release Updates
