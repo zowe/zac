@@ -5,7 +5,7 @@ OMP
 ZWE
 
 ### Zowe Components
-A - ZPI Mediation Layer
+A - API Mediation Layer
 C - Zowe CLI
 D - Zowe Desktop
 E - Zowe Explorer
