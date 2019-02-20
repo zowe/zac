@@ -2,26 +2,28 @@ __2019-02-06__
 
 **ZLC Members**  
 [X] Matt Hogstrom
-[ ] Bruce Armstrong  
-[ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
+[X] Sean Grady  
+[X] Mark Ackert  
+[X] Jean-Louis  
     
 **Participants**  
-[ ] John Mertic
-[ ] Greg McKinnon
-[ ] Joe Winchester
-[ ] Tim Brooks  
-[ ] Alvin Tan  
-[ ] Nick Kocsis  
+[X] John Mertic
+[X] Greg McKinnon
+[X] Joe Winchester
+[X] Tim Brooks  
+[X] Alvin Tan  
+[X] Nick Kocsis  
 [ ] Paul Bartholf
 [ ] Macgr04
 [ ] Mike Maliska
 [ ] Steven Horsman
 [ ] Petr
-[ ] Paul Newton
+[X] Paul Newton
 [ ] Usman Haider
+[X] Nolan Rogers
+[X] Jack Jia
   
 ## Recording can be found here:  
 
@@ -30,7 +32,10 @@ __2019-02-06__
 1.0 Release Updates
 - Testing Status ...  
   - RC1 cut on 2019-02-05.  Feedback / status
-  - Binaries shared with John for review . Feedback / Status
+    - @Hogstrom status is that RC1 installed clean and only had a minor issue related to plugins that did not affect operations.  + Will validate certificate install.
+    - @Sean did a clean install and everything is working as expected.  Has one issue to address a security issue and is asking for an RC2.
+    - @Mark installing on systems with ACF2 and TSS
+  - John to validate download terms and flow . Feedback / Status - John to review this morning.
 
 - Project goal to be indpendent from all non-OMP infra sans z/OS instances by September 30, 2019
 
