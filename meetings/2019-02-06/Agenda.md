@@ -26,6 +26,11 @@ __2019-02-06__
 [X] Jack Jia
   
 ## Recording can be found here:  
+Topic: Zowe ZLC - Working meetings -  https://zoom.us/j/935375531
+Date: Feb 20, 2019 8:50 AM Eastern Time (US and Canada)
+
+Meeting Recording:
+https://zoom.us/recording/share/fZTDKz9Kedw0OYfaxmXNcV8B3FNPgEqbtTfGA16cdd-wIumekTziMw
 
 
 ## Issues to be discussed on 2019-02-06
