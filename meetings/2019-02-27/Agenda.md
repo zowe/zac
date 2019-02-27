@@ -1,35 +1,36 @@
-__2019-02-20__
+__2019-02-27__
 
 **ZLC Members**  
 [X] Matt Hogstrom
-[ ] Bruce Armstrong  
+[X] Bruce Armstrong   
 [ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[X] Sean Grady  
+[X] Mark Ackert  
+[X] Jean-Louis  
     
 **Participants**  
-[ ] John Mertic
-[ ] Greg McKinnon
-[ ] Joe Winchester
-[ ] Tim Brooks  
+[X] Greg McKinnon
+[X] Haley Fung  
+[X] Joe Winchester
+[X] Michael Bauer
+[X] Nick Kocsis  
+[X] Nolan Rogers
+[X] Tim Brooks  
 [ ] Alvin Tan  
-[ ] Nick Kocsis  
-[ ] Paul Bartholf
-[ ] Macgr04
-[ ] Mike Maliska
-[ ] Steven Horsman
-[ ] Petr
-[ ] Paul Newton
-[ ] Usman Haider
-[ ] Nolan Rogers
 [ ] Jack Jia
+[ ] John Mertic - Off this week
+[ ] Mike Maliska
+[ ] Paul Bartholf
+[ ] Paul Newton
+[ ] Petr
+[ ] Steven Horsman
+[ ] Usman Haider
+
   
 ## Recording can be found here:  
 
 
 ## Issues to be discussed on 2019-02-27
-
 Removal of pre 1.0.0 binaries.  Should the project remove those binaries.  as of 05/31/2019 0001 the binaries will be removed from the download site.  The binaries will be deprecated recommendation is to remove adopt 1.0.0 going forward.
 Voting on the call follows:
   [X] Matt Hogstrom
@@ -37,8 +38,21 @@ Voting on the call follows:
   [X] Jean-Philipe  
   [X] Sean Grady  
   [X] Mark Ackert  
-  [ ] Jean-Louis  
-Didn't see a response from Jean-Louis ... we'll look for a vote on the call
+  [X] Jean-Louis  
+
+**Passed** Nick to update website (done)
+
+### Zowe Conformance Discssion  
+Identify test criteria for Zowe core APIs to ensure products can expect any Zowe distribution can be relied on to support applications built on top of Zowe.  Characteristics discussed:
+
+* API Documentation
+* Single Signon
+* Desktop User Interface Guidelines
+
+Meeting notes captured in Box Note https://ibm.ent.box.com/notes/405054103964
+
+Documentation - Looking for a vendor neutral platform.  Suggestions (not exhaustive) are Google Docs on a par with Box.  Need to allow for community members to edit and everyone to read without registration (goal if possible).  @nick volunteered to investigate and make a recommendation.  Looking for an update next week.
+
 
 
 ### Updates    
