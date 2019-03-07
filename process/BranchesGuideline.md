@@ -19,11 +19,16 @@ Zowe project follows [Semantic Versioning](https://semver.org). So all versions 
 
   All branches listed below are optional and created based on demand.
 
-  * **rc** - this is an ephemeral branch used during release process. It holds the content of _staging_ branch, but has modifications on static component versions. After release is done, this branch will be deleted. This release branch is not necessary if staging and release branches are supposed to be  identical. 
-  * **staging/\*** - these are staging branches for temporary purpose. `staging/` is the recommended branch name prefix. These branches are branched out from _staging_, and will be merged back into _staging_. After the branch is merged into _staging_, this branch should be removed. For example, a staging branch for next-next release, staging/next-next. Or staging/v1.2.3, staging/v1.3.x, staging/v2.x. Or a staging branch for a particular feature, like staging/sso.
-  * **hotfix/\*** - these are branches for hot fixes on _release_ branch. `hotfix/` is the recommended branch name prefix. Contrary to _staging/*_ These branches are branched out from _release_ branch, and will be merged back to _release_ branch. After hot fix is released, it will be _cherry-picked_ back into _staging_ branch. The hot fix release should  increase build patch version, and it supposes to happen between 2 scheduled releases. For example, hotfixes/fix-component-version.
-  * **feature/\*** - these are branches for new features. `feature/` is the recommended branch name prefix. For example, feature/enable-sso.
-  * **bug/\*** - these are branches for bug fixes in _staging_ branch. Comparing to hot fixes, these bug fixes will be merged into _staging_ branch. `bug/` is the recommended branch name prefix. For example, bug/fix-permission.
+  * **rc** - this is an ephemeral branch used during release process. It holds the content of _staging_ branch, but has modifications on static component versions. After release is done, this branch will be deleted. This release branch is not necessary if staging and release branches are supposed to be  identical. Check [Release Process](#release-process) below for an example how the branch is used. 
+  * **staging/\*** - these are staging branches for temporary purpose and created on-demand. `staging/` is the recommended branch name prefix. These branches are branched out from _staging_, and will be merged back into _staging_. After the branch is merged into _staging_, this branch should be removed. Check [Base master/staging Branches](#base-masterstaging-branches) below for an example how the branch is used. Here are several examples:
+    - _staging/next-next_ - a staging branch for next-next release,
+    - _staging/v1.2.3_ - a staging branch specifically for v1.2.3 release,
+    - _staging/v1.3.x_ - this branch consolidate all features for `v1.3.0` release, the next MINOR level release,
+    - _staging/v2.x_ - this branch consolidate all features for `v2.0.0` release, the next MAJOR level release,
+    - _staging/sso_ - a staging branch consolidate all implementations, Pull Requests together related to SSO. But we are not sure when the feature will be mature enough to be released, and be merged into _staging_.
+  * **hotfix/\*** - these are branches for hot fixes on _release_ branch. `hotfix/` is the recommended branch name prefix. Contrary to _staging/*_ These branches are branched out from _release_ branch, and will be merged back to _release_ branch. After hot fix is released, it will be _cherry-picked_ back into _staging_ branch. The hot fix release should  increase build patch version, and it supposes to happen between 2 scheduled releases. For example, hotfixes/fix-component-version. Check [Hot Fix Process](#hot-fix-process) below for an example how the branch is used.
+  * **feature/\*** - these are branches for new features. `feature/` is the recommended branch name prefix. For example, feature/enable-sso. Normally if a release has this kind of branches merged into _staging_, we should have a MINOR release because we have function improvements to the product.
+  * **bug/\*** - these are branches for bug fixes in _staging_ branch. Comparing to hot fixes, these bug fixes will be merged into _staging_ branch. `bug/` is the recommended branch name prefix. For example, bug/fix-permission. Normally if a release only has this kind of branches merged into _staging_, we can have a PATCH release because we only have bug fixes to the product.
   * **user/\*/\*** - these are branches for personal testing purpose. `users/*/` is the recommended branch name prefix. For example, users/jack/test-pipeline.
 
 
@@ -45,7 +50,7 @@ With an example of main thread are ready for v2.x release, then v1.x became LTS 
   * **v1.x/bug/\***
   * **v1.x/user/\*/\***
 
-All the `v1.x` serve the same purpose as base branches, but only for `v1.x` releases.
+All the _v1.x/*_ branches serve the same purpose as base branches, but only for `v1.x` releases.
 
 
 ## Common Branch Operation Scenario
