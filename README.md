@@ -28,17 +28,45 @@ All members of the Zowe community are welcome to participate in meetings and dis
 - Bruce Armstrong
 - Jean-Louis Vignaud
 
+Terms and election process is defined in the [project structure](process/structure.md) guidelines.
+
 ## ZLC meetings
 
 All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
 
+# Zowe sub-projects
+
+The following are the current sub-projects that are part Zowe by maturity level
+
+## Incubation
+
+
+## Active
+
+* Zowe API Mediation layer
+* Zowe CLI
+* Zowe Web Desktop
+* Zowe Onboarding
+* Zowe CI/CD
+
+## Emeritus
+
+
 # Processes and procedures
 
-The Zowe project is self governed by the Zowe community, with each sub-project setting thier own policies for determining . The ZLC has estalished a number of governance processes as outlined below:
+The Zowe project is self governed by the Zowe community, with each sub-project setting thier own governance provided the Zowe project roles are identified. The ZLC has estalished a number of governance processes as outlined below:
 
+- [Project Structure](structure.md)
+- Sub-project guidelines
+-- [Lifecycle of sub-projects](stages.md)
+-- [Proposal process](proposal_process.md)
+-- [Example governance for sub-projects](example_governance.md)
+-- [Role Definitions within sub-projects](roles.md)
 - [Contribution Guidelines](https://zowe.org/contribute/)
 - [Project Role Definitions](process/roles.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
 - [Release Process](process/release.md)
-- [Proposal for a new sub-project](process/proposal_process.md)
-- [Sub-project stages](process/stages.md)
+- [Framework Release Process](release.md)
+- [License and Copyright guidance](LicenseAndCopyrightGuidance.md)
+
+All of these documents have been approved by both the Zowe Leadership Committee (ZLC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZLC at any time.
