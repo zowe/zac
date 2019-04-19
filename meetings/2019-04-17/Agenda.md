@@ -1,41 +1,61 @@
-__2019-03-27__
+__2019-04-17__
 
 
 **ZLC Members**  
-[X] Matt Hogstrom
-[ ] Bruce Armstrong   
-[X] Jean-Philipe  
+[X] Matt Hogstrom  
+[X] Bruce Armstrong     
+[X] Jean-Philipe    
 [X] Sean Grady  
 [X] Mark Ackert  
-[ ] Jean-Louis  
+[X] Jean-Louis  
     
 **Participants**  
-[X] Joe Winchester
-[ ] Nick Kocsis  
-[ ] Alvin Tan  
-[X] John Mertic 
-[ ] Murali Panchalingam
-[ ] Simone Gregg
-[X] Nolan Rogers
-[X] Isabel Arnold
+[ ] Joe Winchester  
+[X] Nick Kocsis   
+[X] Alvin Tan   
+[X] John Mertic  
+[ ] Murali Panchalingam  
+[ ] Simone Gregg  
+[X] Nolan Rogers  
+[ ] Isabel Arnold  
+[X] Tim Brooks  
 
-
-  
+  
 ## Recording can be found here:  
+Topic: Zowe ZLC - Working meetings -  https://zoom.us/j/935375531
+Date: Apr 17, 2019 8:49 AM Eastern Time (US and Canada)
 
-## Voting for repo maintainers and new members
-Question about the state of the squads.  What are they thinking and what are their desires?
+Meeting Recording:
+https://zoom.us/recording/share/jRyO2wJjA4UJ4Kv5qAxK1wDvnkgSACtq53es7sBchvuwIumekTziMw
+  
 
-Ask the standup leaders to ask the squads and send a list of the observations and requests as part of their standup?
 
-## Release Process
-Versioning ... 1st is version, 2nd is features and third is patches
-Question about how will tools use the versioning.  Specifically, SMP/e in how it installs.  SMP/e tends to ignore the third level and how do we manage version levels.
+[Process where the squads get new requirements](https://app.zenhub.com/workspaces/zlc-5c93b1a4d74bd07972c93094/issues/zowe/zlc/81)
+For example, the Cupid squad will manage Git issues across repos by tagging the issues with the squad name.
+Closed .
+  
+[New Zowe Sub-Project Proposal - IMS Operations API](https://app.zenhub.com/workspaces/zlc-5c93b1a4d74bd07972c93094/issues/zowe/zlc/85)  
+Add Haley to the agenda for status.  We will ask her to commnicate by zlc e-mail and a f2f for next week.
+@Bruce to contact Haley.  Also, to ask Haley what she would prefer.
+  
+[Zowe "vNext" release validation](https://app.zenhub.com/workspaces/zlc-5c93b1a4d74bd07972c93094/issues/zowe/zlc/92)  
+  
+[New Zowe Repository - CLI FTP Plugin](https://app.zenhub.com/workspaces/zlc-5c93b1a4d74bd07972c93094/issues/zowe/zlc/93)
+@jmertic to provide an update next week on outstanding legal issues.  
 
-Should we omit the third level.
+Security Process
+@JoeWinchester will open an issue to document 
 
-## ZenHub
-Vote approved to move to ZenHub from Waffle.
+New Build and Test Environment - Marist
+Met with Marist to work out logistics for getting instances setup in their hosted environmnent.  
+They are providing 3 z/os instances (one for RACF, one for TSS and one for ACF2).  
+  
+Cupid Update
+
+Voting for new Leadership in August
+
+Communication
+Slack alternatives due to message loss.  Hogstrom to send a note to the TSC to highlight the limitations on Slack.  Sent
 
 ### Actions  
 
