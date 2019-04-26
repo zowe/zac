@@ -17,6 +17,25 @@ A universal variable can also have multiple associated roles when the color is c
 
 ![Color Palette](images/full_palette.png "Color Palette")
 
+## Color contrast | WCAG AA standards
+
+All type color combinations on Zowe must pass WCAG AA standards of 4.5:1 for normal text and 3:1 for large text. For larger text, if the font weight is light (300) or normal (400) the text should be no smaller than 24px. If the font weight is Semi-Bold (600) then the large text should be no smaller than 19px.
+
+Body Text (4.5:1)
+
+Large Text (3:1): at least 24px / 19px semi-bold
+
+WCAG guidelines: https://www.w3.org/WAI/standards-guidelines/wcag/
+Contrast Checker Tool: https://webaim.org/resources/contrastchecker/
+
+## Dark Theme Palette
+
+![Dark Theme Palette](images/dark_palette.png "Dark Theme Palette")
+
+## Light Theme Palette
+
+![Light Theme Palette](images/light_palette.png "Light Theme Palette")
+
 # Typography
 
 Typography is used to create clear hierarchies, useful organizations, and purposeful alignments that guide users through the product and experience. It is the core structure of any well designed interface.
