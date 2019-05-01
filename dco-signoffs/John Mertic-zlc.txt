@@ -1,4 +1,4 @@
-The following commits were made pursuant to the Developer Certificate of Origin, even though a Signed-off-by: was not included in the commit message.
+I, John Mertic hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: jmertic@linuxfoundation.org
 
 290eea407b1bc9b7168158155a0d11b0d25025bb Add recording and notes from 2018-08-01 ZLC meeting.
 3c8eb13ea899f9860c3e3f41bf7f7425b2f3ed99 Meeting notes from 20180725
