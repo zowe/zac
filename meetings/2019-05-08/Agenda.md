@@ -24,6 +24,8 @@ __2019-05-08__
 ## Recording can be found here:  
   
 
+[Review updated process documents and make corrections this week](https://github.com/zowe/zlc/tree/20190418-process-updates)
+
 [Acclaim badge for Zowe committers #97](https://github.com/zowe/zlc/issues/97)  
   
 [Turn on "Require two-factor authentication for everyone in the Zowe organization." #96](https://github.com/zowe/zlc/issues/96)  
