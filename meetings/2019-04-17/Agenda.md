@@ -3,11 +3,11 @@ __2019-04-17__
 
 **ZLC Members**  
 [X] Matt Hogstrom  
-[X] Bruce Armstrong     
-[X] Jean-Philipe    
+[X] Bruce Armstrong  
+[X] Jean-Philipe  
 [X] Sean Grady  
-[X] Mark Ackert  
-[X] Jean-Louis  
+[X] Mark Ackert   
+[X] Jean-Louis   
     
 **Participants**  
 [ ] Joe Winchester  
