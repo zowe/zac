@@ -1,4 +1,4 @@
-I, Matt Hogstrom hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: matt@hogstrom.org
+I, Matt Hogstrom hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: matt@hogstrom.org 
 
 360c87c117099cbaedca7453c78508b6d90b0d7f Agenda for January 16, 2019 Meeting
 c51929f7492b4697e9da6a80664752794e0f4d0a Updated from meeting this morning.
