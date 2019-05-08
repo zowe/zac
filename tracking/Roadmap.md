@@ -1,6 +1,6 @@
 # Zowe Roadmap
 
-A document which provides insight into priority items being evaluated, discussed, and possibly implemented within Zowe. The Zowe Roadmap is not an official guarantee of delivery for any given item listed here nor is it exhaustive which may become part of Zowe.
+A document which provides insight into priority items being evaluated, discussed, and possibly implemented within Zowe. The Zowe Roadmap is not an official guarantee of delivery for any given item listed here nor does it exhaustively list items which may become part of Zowe.
 
 ## User-facing Items
 
@@ -18,9 +18,13 @@ A document which provides insight into priority items being evaluated, discussed
 * SSO Support
 * TBD
 
-### Zowe Application Framework / Desktop Roadmap
-* SSO Support
-* TBD
+### Zowe Application Framework Roadmap
+* Swagger Documentation Support
+* Java Services Support for Applications
+* Searchable UI within the Desktop (Search through Applications)
+* Editor refactor
+* Internationalization samples in react and angular
+* APIML Integration - Desktop running behind the APIML by default
 
 ### Zowe Incubators Roadmap
 * Evaluate FTP Plugin and if approved publish a deliverable
