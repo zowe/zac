@@ -2,7 +2,7 @@
 
 The Zowe project and its sub-projects may have a new major release version that is ready for user validation, but not ready to replace the prior LTS version posted on zowe.org. 
 
-The zowe.org website should present this new version to the user as "Current", while the previously released major version should be selected and presented by default.
+The zowe.org website should present this new version to the user as "Current", while the previously released major version (LTS) should be selected and presented by default.
 
 ##User Experience
 
@@ -46,7 +46,7 @@ At the bottom of the zowe.org download page, should we present nightly builds? P
 
 For future versions of Zowe (Zowe v2.x in the above example), it will be acceptable to release one component (CLI vs z/OS) and not the other. If one component is unavailable, then it should be clearly presented as unavailable at this time with a greyed out button and short message.
 
-## Changes required
+## Changes required May '19
 
 Docs-site must be able to support future releases. There is a "Versions" dropdown in the upper right corner of the webpage that may be suitable for this. Links for any given Zowe version presented on zowe.org must link to the correct version of the documentation.
 
