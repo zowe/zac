@@ -58,84 +58,6 @@ This guide does not dictate stable release cadence nor how to achieve said caden
 Release notes must have a human-readable summary of major changes compared to the prior release. 
 Release notes must also identify every publicly known vulnerability with a matching CVE assignment.
 
-## Repository Branch Versioning Cadence
-
-Zowe itself has own version life cycle, along with each subprojects may have independent cycles. The version life cycle is a combination of repository branches and dependencies of certain version of subprojects which represented as artifactory folders or npm registry entries.
-
-There are 3 suggested types of branches related to the versions, and each project may choose what best fit in the subproject.
-
-- **master**, which is always the latest stable build,
-- **v?.?.x**, which is Long-Time-Support build thread, which we can continue build LTS versions and apply patches to it. These branches are optional, and created based on needs.
-- **v?.?.?-staging**, which is future version, and some feature targets for that version, not current stable, should be merged into this branch. These branches are optional, and created based on needs.
-
-For each stable version released from **master** branch, the repository should have a proper git tag for the version created.
-
-The branch model is intended to protect **master** branch for building stable version and add ability to continue build on LTS versions.
-
-### Zowe Branches
-
-Here is a brief graph of how the branches and artifactory folders orchestrated together to final Zowe stable and staging builds.
-
-```
-├─ branch master: on v1.0.3, build results are published to artifactory snapshots/org/zowe/1.0.3-snapshot/ and prmoted to artifactory releases/org/zowe/1.0.3/
-│   ├── subproject1 v0.1.2
-│   ├── subproject2 v3.4.5
-│   │   ├── subproject2-1 v2.1.0
-│   │   ├── subproject2-2 v2.2.0
-│   │   └── subproject2-3 v2.3.0
-│   ├── subproject3 v6.7.8
-│   └── subproject4 v9.10.11
-├─ branch v0.9.x: on v0.9.20, build results are published to artifactory snapshots/org/zowe/0.9.20-snapshot/ and prmoted to artifactory releases/org/zowe/0.9.20/
-│   ├── subproject1 v0.0.15
-│   ├── subproject2 v3.1.0
-│   │   ├── subproject2-1 v1.1.0
-│   │   ├── subproject2-2 v1.2.0
-│   │   └── subproject2-3 v1.3.0
-│   ├── subproject3 v5.6.7
-│   └── subproject4 v8.9.10
-├── brnach v1.0.4-staging: on v1.0.4, build results are published to artifactory snapshots/org/zowe/1.0.4-staging/
-│   ├── subproject1 v0.1.3
-│   ├── subproject2 v3.7.0
-│   │   ├── subproject2-1 v2.10.0
-│   │   ├── subproject2-2 v2.20.0
-│   │   └── subproject2-3 v2.30.0
-│   ├── subproject3 v6.7.8
-│   └── subproject4 v9.10.12
-└── branch v1.1-staging: on v1.1.0, build results are published to artifactory snapshots/org/zowe/1.1-staging/
-    ├── subproject1 v1.0.2
-    ├── subproject2 v4.1.0
-    │   ├── subproject2-1 v3.1.0
-    │   ├── subproject2-2 v3.2.0
-    │   └── subproject2-3 v3.3.0
-    ├── subproject3 v6.7.8
-    ├── subproject4 v10.0.5
-    └── subproject5 v0.1.2
-```
-
-- Any changes which is not supposed to be included in v1.0.3 build, **SHOULD NOT** be merged into **master** branch. If it intends to be in next build, the pull request should be merged into **v1.0.4-staging** branch.
-- The first commit in **v1.0.4-staging** branch **SHOULD** be bumping version to v1.0.4.
-- After **v1.0.4-staging** branch is merged into **master**, **v1.0.4-staging** branch **SHOULD** be deleted. Now **master** branch will generate v1.0.4 builds.
-- Before **v1.1-staging** branch, which is a staging branch on `minor` version level, merged into **master**, we **SHOULD** create a side branch name **v1.0.x** for long term support and build future v1.0.? version.
-
-### Subproject Branches
-
-For each of the subprojects, may follow similar pattern. But subproject itself may decide which version (major, minor or path) level it needs for staging branches and if they need legacy version branches. Here is example of subproject repository which creates staging branches on `minor` level:
-
-```
-├─ branch master: on v4.1.0, build results are published to artifactory snapshots/path/to/subproject2/4.1.0-snapshot/ and promoted to releases/path/to/subproject2/4.1.0/
-│   ├── subproject2-1 v3.1.0
-│   ├── subproject2-2 v3.2.0
-│   └── subproject2-3 v3.3.0
-├─ brnach v3.x: on v3.2.10, build results are published to artifactory snapshots/path/to/subproject2/3.2.10-snapshot/ and promoted to releases/path/to/subproject2/3.2.10/
-│   ├── subproject2-1 v3.1.0
-│   ├── subproject2-2 v3.2.0
-│   └── subproject2-3 v3.3.0
-└── brnach v4.2-staging: on v4.2.2, build results are published to artifactory snapshots/path/to/subproject2/4.2-staging/
-    ├── subproject2-1 v3.1.1
-    ├── subproject2-2 v3.2.2
-    └── subproject2-3 v3.3.3
-```
-
 ## Automated And Manual Testing
 
 ### Automated Testing
@@ -154,6 +76,6 @@ The most latest test result can be found from Jenkins server pipeline `zowe-inst
 
 ## Zowe Nightly Builds
 
-Zowe Nightly Builds may contain those less specific versions schemas that the stable release bans. Nightly builds are available for public consumption, but may contain bugs or incomplete features. Nightly builds are generated from [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging) repository **master** branch.
+Zowe Nightly Builds may contain those less specific versions schemas that the stable release bans. Nightly builds are available for public consumption, but may contain bugs or incomplete features. Nightly builds are generated from [zowe-install-packaging](https://github.com/zowe/zowe-install-packaging) repository **staging** branch, or **v?.x/staging** LTS branches.
 
-The nightly build allows subprojects to gain a head start on their current release process, as they can download the nightly build at any time to test their bleeding edge components. If the new feature is too unstable to be included into current release, then they should coordinate with the CI/CD team to create a **staging** branch off of master. This process is introduced in [Zowe Branches](#zowe-branches) section. They can use this staging branch to test their components integration with the Zowe PAX before pushing the latest component to master.
+The nightly build allows subprojects to gain a head start on their current release process, as they can download the nightly build at any time to test their bleeding edge components. If the new feature is too unstable to be included into current release, then they should coordinate with the CI/CD team to create a temporary **staging/\*** branch off of **staging**. This process is introduced in [Branches Guideline](BranchesGuideline.md) section. They can use this temporary staging branch to test their components integration with the Zowe PAX before pushing the latest component to master.
