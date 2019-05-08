@@ -4,7 +4,7 @@ The Zowe project and its sub-projects may have a new major release version that 
 
 The zowe.org website should present this new version to the user as "Current", while the previously released major version (LTS) should be selected and presented by default.
 
-##User Experience
+## User Experience
 
 Sample flow:
 
