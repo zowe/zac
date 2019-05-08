@@ -23,14 +23,14 @@ __2019-05-08__
 
   
 ## Recording can be found here:  
-  
+https://zoom.us/recording/share/6gQd_8zzUb8AQyBZPbWFrM_nKeq3SJbE3BUXsEOXfTuwIumekTziMw?startTime=1557320667000  
 
 [Review updated process documents and make corrections this week](https://github.com/zowe/zlc/tree/20190418-process-updates)
 Action for all ZLC members to have the conversation in the issue.  Review to continue at the ZLC next week.
 
 [Acclaim badge for Zowe committers #97](https://github.com/zowe/zlc/issues/97)  
   
-[Turn on "Require two-factor authentication for everyone in the Zowe organization." #96](https://github.com/zowe/zlc/issues/96) 
+[Turn on "Require two-factor authentication for everyone in the Zowe organization." #96](https://github.com/zowe/zlc/issues/96)  
 Action: ZLC members to review 2FA and discuss in issue.  
   
 [Address missing DCO signoffs #95](https://github.com/zowe/zlc/issues/95)  
@@ -61,7 +61,7 @@ Tracked architecture call for discussion / tracking.
 ### Actions  
 Create repo promotion issue
 Create security issues and code path strategy and approach issue
-Need persistent storage for items since Slack is ephemeral.  Options are Google Docs, Confluence.
+Need persistent storage for items since Slack is ephemeral.  Options are Google Docs, Confluence. - Slacked @jmertic for status
 
 ### Post 1.0 Activities  
 
