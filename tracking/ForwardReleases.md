@@ -12,10 +12,10 @@ On the zowe.org/download page -
 
 -----------------------------------------------
 
- **LTS Zowe v1.x**  (hyperlink active while Current selected)   |  Current Zowe v2.x (hyperlink active while LTS selected)               
+ **LTS Zowe v1.x**   |  Current Zowe v2.x            
 
- The latest version of Zowe v1.x is: v1.2.0.
- (Optional) The community support period for Zowe v1.x is: <>. Commercial support periods may extend beyond this. 
+ - The latest version of Zowe v1.x is: v1.2.0.  
+ - (Optional) The community support period for Zowe v1.x lasts until: <>. Commercial support periods may extend beyond this.  
 
  ...Regular download flow / How to get started flow
 
@@ -23,8 +23,8 @@ On the zowe.org/download page -
 
  LTS Zowe v1.x   |  **Current Zowe v2.x**  
 
- The latest version of Zowe v2.x is: v2.0.0-alpha.1.
- (Optional) Support statement.... Zowe v2.x is supported by the community for ..time period.. after it is officially released. Commercial support periods may extend beyond this.
+ - The latest version of Zowe v2.x is: v2.0.0-alpha.1.  
+ - (Optional) The community support period for Zowe v2.x lasts until ..time period.. after it is officially released. Commercial support periods may extend beyond this.  
 
  ...Regular download flow / How to get started flow
 
@@ -36,7 +36,6 @@ On the zowe.org/download page -
  LTS Zowe v1.x | LTS Zowe v2.x | **Current Zowe v3.x**
 
  Should we avoid this by major release cadence being strictly controlled? Once per year? Enforced by the ZLC?
-
 
 -----------------------------------------------
 
