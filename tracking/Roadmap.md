@@ -7,25 +7,40 @@ A document which provides insight into priority items being evaluated, discussed
 ### General Roadmap
 * Refactor installation to leverage SMP/e. (cross-squad)
 * SSO overhaul (cross-squad)
+* Contribute Java REST API SDK and Sample to enable onboarding of mainframe APIs
 
 ### Onboarding Roadmap
 * Defining conformance criteria and benefits for Zowe extenders
 * Zowe Application Directory / Marketplace
 
 ### CLI Roadmap
+#### Shorter-term
+* Change references from @brightside to @zowe in Zowe CLI, Imperative, and all plugins.
+* Contribute the IMS CLI Plugin to Zowe
+* Define Zowe CLI conformance criteria
+* Allow users to interact with USS files in the VS Code extension
+#### Longer-term
 * TBD
 
 ### APIML Roadmap
-* SSO Support
+#### Shorter-term
+* Define Zowe API conformance criteria
+* Extend API ML authentication service for additional Zowe SSO requirements
+* Onboard Zowe services with API ML
+* Integrate Zowe services with SSO
+* Extend APIs as requested by Zowe
+#### Longer-term
 * TBD
 
 ### Zowe Application Framework Roadmap
+#### Shorter-term
 * Swagger Documentation Support
 * Java Services Support for Servlet Applications
 * Searchable UI within the Desktop (Search through Applications)
 * Editor refactor
 * Internationalization samples in react and angular
 * APIML Integration - Desktop running behind the APIML by default
+#### Longer-term
 * Multi-factor authentication support for desktop
 * App-to-app communication overhaul for iframe applications.
 * Java Services Support - Discovering Java Binaries dynamically
