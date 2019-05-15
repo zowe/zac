@@ -3,29 +3,40 @@ __2019-05-15__
 
 **ZLC Members**  
 [ ] Matt Hogstrom  - unavailable
-[ ] Bruce Armstrong
-[ ] Jean-Philipe  
-[ ] Sean Grady  
-[ ] Mark Ackert  
-[ ] Jean-Louis  
+[ x] Bruce Armstrong
+[x ] Jean-Philipe  
+[x ] Sean Grady  
+[x ] Mark Ackert  
+[x ] Jean-Louis  
     
 **Participants**  
 [ ] Joe Winchester  
-[ ] Nick Kocsis   
-[ ] Alvin Tan   
+[ x] Nick Kocsis   
+[X ] Alvin Tan   
 [ ] John Mertic  
 [ ] Murali Panchalingam  
 [ ] Simone Gregg  
-[ ] Nolan Rogers  
+[ x] Nolan Rogers  
 [ ] Isabel Arnold  
-[ ] Tim Brooks  
+[x ] Tim Brooks  
 [ ] Usman Haider
+[x] Steve Horsman
+[x] Rose Sakach
 
   
 ## Recording can be found here:  
 
 [Review updated process documents and make corrections this week](https://github.com/zowe/zlc/tree/20190418-process-updates)
 Action for all ZLC members to have the conversation in the issue.  Review to continue at the ZLC next week.
+- not sure what exactly have changed 
+- early aug to vote 
+- zlc members must be code committer??
+- 3 outgoing after only 1 year?
+- who's voting?
+- plan to do this at the Aug F2F
+- project maintainer up for re-election?
+- guidance on who runs the weekly ZLC meeting
+- propose zlc members to vote on this item next week
   
 [Turn on "Require two-factor authentication for everyone in the Zowe organization." #96](https://github.com/zowe/zlc/issues/96)  
 Action: ZLC members to review 2FA and discuss in issue.  
@@ -52,6 +63,7 @@ Updates @MarkAckert ?
 [Process - Project Planning (PI Planning](https://github.com/zowe/zlc/issues/40)  
 
 ### Discussion
+
 
 ### Actions  
 
