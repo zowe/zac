@@ -28,7 +28,7 @@ __2019-02-27__
 
   
 ## Recording can be found here:  
-
+https://zoom.us/recording/share/BJwYr39RFZfhCTan9wHeDNrUTlhxyK2yIFZ14pU9UtWwIumekTziMw?startTime=1557318540000
 
 ## Issues to be discussed on 2019-02-27
 Removal of pre 1.0.0 binaries.  Should the project remove those binaries.  as of 05/31/2019 0001 the binaries will be removed from the download site.  The binaries will be deprecated recommendation is to remove adopt 1.0.0 going forward.
