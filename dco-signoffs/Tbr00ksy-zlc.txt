@@ -1,0 +1,40 @@
+I, Tbr00ksy hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: 36775778+Tbr00ksy@users.noreply.github.com
+
+a42bf2433e051b945ba85aa3fa206f0846ed4abe Minor Edits
+
+Thank you @nannanli for the edits.
+d3e32215e718f838ad24f4c14d60223e4edaa38d Fixed Links and Minor Edits
+
+Thank you @nannanli for the edits.
+ffdd5ed7ee7ddeaef1be200160f0c7ab88945e08 Minor Edits
+
+Thank you @nannanli for the edits.
+a970b87a0664a56165a7aefab10aedcea0edd7dc Minor Edits
+
+Thank you @nannanli for the edits.
+1bef250ca06a5eeb72dfd5daa7987ef4844a3b56 Minor Edits from Ashley
+
+Thank you @nannanli for the edits.
+f2719d1e9f24571b7e6d6b7f4a5769715fe8e069 Updates Zowe Leader Role
+
+Changed worded to reflect what was agreed to in the Zowe project proposal.
+015d85c2b17beaa39dc048c473954ff4fe2fc4bb Merged into Process
+
+This file can be deleted as the content has been merged into the Sub-Project Proposal Process here: 
+https://github.com/zowe/zlc/blob/forreviewzlc20180829/process/proposal_process.md
+ff034baf9f70bb76c27d285338cbd78fb8d235e8 Fixed Typo
+b0e62ecbe23f33c67a3f9552fd4e5cab4e2f66b3 Updated Proposal Process
+
+Merged the "stages" file: https://github.com/zowe/zlc/blob/forreviewzlc20180829/process/stages.md
+Made additional edits:
+- Submit a ZLC issue for a new sub-project proposal
+- Revised sub-project proposal requirements
+- Revised Active Stage acceptance criteria
+-
+210ddf0d1091c76c9dc94b2f6fc866f45aa9a9fb Added Content
+
+Added content to the Zowe Release Process.
+-s
+0eb6f544bf57d8d269fa128945a424e62258a18e Update roles.md
+1dc669aab8d34a7fada808bcaffa2434851a9060 Update example_governance.md
+d714478c9496a02325a8cfdef698109030a09fa6 Update README.md
