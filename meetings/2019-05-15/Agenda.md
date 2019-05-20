@@ -6,8 +6,8 @@ __2019-05-15__
 [x ] Jean-Philipe\
 [x ] Sean Grady\
 [x ] Mark Ackert\
-[x ] Jean-Louis\
-\    
+[x ] Jean-Louis
+
 **Participants**\
 [ ] Joe Winchester\
 [x] Nick Kocsis\
@@ -20,8 +20,7 @@ __2019-05-15__
 [x] Tim Brooks\
 [ ] Usman Haider\
 [x] Steve Horsman\
-[x] Rose Sakach\
-
+[x] Rose Sakach
   
 ## Recording can be found here:  
 
