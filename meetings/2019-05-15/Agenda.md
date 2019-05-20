@@ -1,6 +1,6 @@
 __2019-05-15__
 
-**ZLC Members**\  
+**ZLC Members**\
 [ ] Matt Hogstrom  - unavailable\
 [x] Bruce Armstrong\
 [x ] Jean-Philipe\
