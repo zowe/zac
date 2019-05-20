@@ -1,9 +1,8 @@
 __2019-05-15__
 
-
 **ZLC Members**  
 [ ] Matt Hogstrom  - unavailable
-[ x] Bruce Armstrong
+[x] Bruce Armstrong
 [x ] Jean-Philipe  
 [x ] Sean Grady  
 [x ] Mark Ackert  
@@ -11,14 +10,14 @@ __2019-05-15__
     
 **Participants**  
 [ ] Joe Winchester  
-[ x] Nick Kocsis   
-[X ] Alvin Tan   
+[x] Nick Kocsis   
+[x] Alvin Tan   
 [ ] John Mertic  
 [ ] Murali Panchalingam  
 [ ] Simone Gregg  
-[ x] Nolan Rogers  
+[x] Nolan Rogers  
 [ ] Isabel Arnold  
-[x ] Tim Brooks  
+[x] Tim Brooks  
 [ ] Usman Haider
 [x] Steve Horsman
 [x] Rose Sakach
