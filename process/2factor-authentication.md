@@ -53,7 +53,7 @@ Several from f-droid
 - Aegis: https://f-droid.org/en/packages/com.beemdevelopment.aegis/
 - FreeOTP: https://f-droid.org/packages/org.fedorahosted.freeotp/
 
-And many more... https://search.f-droid.org/?q=auth&lang=en
+And many more... https://search.f-droid.org/?q=auth
 
 iOS:
 - tofu: https://www.tofuauth.com/
