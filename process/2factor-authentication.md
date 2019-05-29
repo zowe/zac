@@ -12,6 +12,7 @@ If you use the same browser, and the same computer in the same building, you're 
 
 ## How to Activate Two Factor Authentication
 Go to your github profile's security page: https://github.com/settings/security
+
 Here, you can set up the type of two factor authentication that you prefer among the options github provides.
 A guide from github as to these types is here: https://help.github.com/en/articles/configuring-two-factor-authentication
 
@@ -20,14 +21,18 @@ As of this writing, github offers two methods of two factor authentication: gett
 
 ### SMS Authentication
 As a way to prove your identity, github can send a code to your mobile phone via SMS. 
+
 This is convenient, but may be an additional charge to your phone plan and could expose your phone number in the case of a data breach of github or whichever company handles this feature.
 At the time of this writing no such breach is known.
 
 ### TOTP Programs
 TOTP is a protocol for time-based one time passwords. Its specification is here: https://tools.ietf.org/html/rfc6238
+
 Once setting up the info needed to generate a TOTP credential, a TOTP program will generate a code that is periodically changed such that only github and you should know it.
 However, these credentials must still be kept as secured as any other password as they are not tied to something personal like biometrics or SMS.
+
 It's also important that the program used be on a device that has an accurate clock, since the algorithm is time based and being too out of sync with github could cause authentication failure.
+
 For this reason, mobile apps or hardware keys are preferred.
 
 #### List of TOTP Programs
