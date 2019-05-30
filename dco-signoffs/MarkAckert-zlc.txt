@@ -1,0 +1,5 @@
+I, Mark Ackert hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: 35308966+MarkAckert@users.noreply.github.com, Mark.Ackert@ca.com
+
+1e037c1c4d79395e4384e9f6eb5f320ff4e9d6af Remove DB2 Plugin (closed), add discussion for @brightside
+8d0afd18a2095efdea52b37fc5bb9631248ed9b6 Update agenda with multiple items
+072055b5dae238a4d6b4ab6dc3f7be630fc10df4 Update CA's copyright with approval
