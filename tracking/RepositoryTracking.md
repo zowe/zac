@@ -32,33 +32,37 @@ The following repositories are associated with the Zowe CLI subproject.
 ### Zowe Application Framework / Desktop Repositories
 | Repository | Short Description | Included in Zowe Release? | 
 | ---        | ---               | ---                  |
-| [sample-angular-app](https://www.github.com/zowe/sample-angular-app) | null | Yes |
-| [sample-iframe-app](https://www.github.com/zowe/sample-iframe-app) | null | Yes |
-| [tn3270-ng2](https://www.github.com/zowe/tn3270-ng2) | A TN3270 emulator written in Angular and Javascript  | Yes |
-| [vt-ng2](https://www.github.com/zowe/vt-ng2) | A simple USS/Unix/VT terminal emulator written in Angular and Javascript  | Yes |
 | [zlux](https://www.github.com/zowe/zlux) | The top-level superproject for zLUX. zLUX includes the Zowe Desktop framework in addition to several built-in apps and an example server implementation. | N/A - superproject |
 | [zlux-app-manager](https://www.github.com/zowe/zlux-app-manager) | zLUX Framework components for management of zLUX Apps. Used for window managers or web layouts. | Yes |
-| [zlux-build](https://www.github.com/zowe/zlux-build) | Repository for common build scripts among various superprojects | No |
-| [zlux-charts](https://www.github.com/zowe/zlux-charts) | null | Yes |
+| [zlux-build](https://www.github.com/zowe/zlux-build) | Repository for common build scripts among various superprojects | Yes |
 | [zlux-app-server](https://www.github.com/zowe/zlux-app-server) | A collection of build, deploy, and run scripts & configuration files for running a simple zLUX server. | Yes |
 | [zlux-file-explorer](https://www.github.com/zowe/zlux-file-explorer) | null | Yes  |
-| [zlux-file-properties](https://www.github.com/zowe/zlux-file-properties) | null | Yes |
-| [zlux-grid](https://www.github.com/zowe/zlux-grid) | null | Yes |
-| [zlux-ng2](https://www.github.com/zowe/zlux-ng2) | Angular Hosting Environment for the zLUX Framework's web components  | No |
+| [zlux-grid](https://www.github.com/zowe/zlux-grid) | null | Yes - Used in building |
 | [zlux-platform](https://www.github.com/zowe/zlux-platform) | null | Yes |
 | [zlux-server-framework](https://www.github.com/zowe/zlux-server-framework) |  Contains essential zLUX proxy server components including SSO and service catalogs | Yes |
 | [zlux-shared](https://www.github.com/zowe/zlux-shared) |  zLUX framework components that are utilized both by the server and in the web browser | Yes |
-| [zlux-widgets](https://www.github.com/zowe/zlux-widgets) | null | Yes |
+| [zlux-widgets](https://www.github.com/zowe/zlux-widgets) | null | Yes - Used in building |
 | [zlux-workflow](https://www.github.com/zowe/zlux-workflow) | null | Yes |
-| [zos-subsystems](https://www.github.com/zowe/zos-subsystems) | An example app showing z/OS infrastructure | No |
 | [zosmf-auth](https://www.github.com/zowe/zosmf-auth) | Auth handler for App server to connect to z/OSMF through standard z/OSMF login | Yes |
 | [zss-auth](https://www.github.com/zowe/zss-auth) | Auth handler for App server to connect to ZSS through standard ZSS login | Yes |
 | [zlux-editor](https://www.github.com/zowe/zlux-editor) | A simple editor in a browser | Yes  |
-| [file-transfer-app](https://www.github.com/zowe/file-transfer-app) | An App for transfering files to and from a mainframe | Yes |
+| [tn3270-ng2](https://www.github.com/zowe/tn3270-ng2) | A TN3270 emulator written in Angular and Javascript  | Yes |
+| [vt-ng2](https://www.github.com/zowe/vt-ng2) | A simple USS/Unix/VT terminal emulator written in Angular and Javascript  | Yes |
 | [sample-react-app](https://www.github.com/zowe/sample-react-app) | Sample to showcase a react app that natively can be presented into the Zowe desktop  | Yes |
-| [db-browser](https://www.github.com/zowe/db-browser) | A database viewer and editor for working with a variety of databases within the Zowe Desktop | Yes |
-| [db-browser-db2](https://www.github.com/zowe/db-browser-db2) | db2 module for db-browser App for Zowe | Yes |
-| [jupyter-app](https://www.github.com/zowe/jupyter-app) | A Zowe App for displaying Jupyter | No |
+| [sample-angular-app](https://www.github.com/zowe/sample-angular-app) | null | Yes |
+| [sample-iframe-app](https://www.github.com/zowe/sample-iframe-app) | null | Yes |
+| [zlux-file-properties](https://www.github.com/zowe/zlux-file-properties) | null | No |
+| [zlux-charts](https://www.github.com/zowe/zlux-charts) | null | No |
+| [zlux-ng2](https://www.github.com/zowe/zlux-ng2) | Angular Hosting Environment for the zLUX Framework's web components  | No - Empty |
+| [zos-subsystems](https://www.github.com/zowe/zos-subsystems) | An example app showing z/OS infrastructure | No |
+| [file-transfer-app](https://www.github.com/zowe/file-transfer-app) | An App for transfering files to and from a mainframe | No - Incubation |
+| [db-browser](https://www.github.com/zowe/db-browser) | A database viewer and editor for working with a variety of databases within the Zowe Desktop | No |
+| [db-browser-db2](https://www.github.com/zowe/db-browser-db2) | db2 module for db-browser App for Zowe | No |
+| [jupyter-app](https://www.github.com/zowe/jupyter-app) | A Zowe App for displaying Jupyter | No - Prereqs Jupyter and Python |
+
+### Zowe Secure Services (ZSS)
+| Reponsitory | Short Description | Included in Zowe Release? |
+| ---         | ---               | ---                       |
 | [zss](https://www.github.com/zowe/zss) | Zowe Secure Services Server for enabling low-level microservices  | Yes |
 | [zowe-common-c](https://www.github.com/zowe/zowe-common-c) | C Libraries for various OS & Networking needs  | Yes |
 
