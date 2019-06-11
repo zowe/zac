@@ -19,7 +19,7 @@
 
 
 ### Recording can be found here
-
+https://zoom.us/recording/share/BOoCj0clKdtytoG-2Q0N9fSl8TfhlbBcydo3-4xmVOawIumekTziMw?startTime=1559134969000
 
   
 
