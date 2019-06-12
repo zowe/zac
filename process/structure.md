@@ -13,7 +13,7 @@ The Zowe Leadership Committee (ZLC) serves as an oversight committee for the ent
 
 ### Composition
 
-The ZLC is composed of six (6) indivduals who are a committer to any Zowe sub-project.
+The ZLC is composed of six (6) individuals who are a committer to any Zowe sub-project.
 
 ZLC voting members are elected for terms of 2 years, with three (3) individuals elected annually.
 
