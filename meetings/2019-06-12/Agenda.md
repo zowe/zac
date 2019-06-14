@@ -14,6 +14,7 @@
 
 
 ### Recording can be found here   
+https://zoom.us/recording/share/rMig-jOdhxRtLLpl30XkwvPrjC3TPzX1Ojv6oqJDZhewIumekTziMw?startTime=1560344554000
 
    
    
