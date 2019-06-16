@@ -1,30 +1,27 @@
 __2019-05-15__
 
-**ZLC Members**\
-[ ] Matt Hogstrom  - unavailable\
-[x] Bruce Armstrong\
-[x ] Jean-Philipe\
-[x ] Sean Grady\
-[x ] Mark Ackert\
-[x ] Jean-Louis
+**ZLC Members**   
+[ ] Matt Hogstrom  - unavailable   
+[X] Bruce Armstrong   
+[X] Jean-Philipe   
+[X] Sean Grady   
+[X] Mark Ackert   
+[X] Jean-Louis
 
-**Participants**\
-[ ] Joe Winchester\
-[x] Nick Kocsis\
-[x] Alvin Tan\
-[ ] John Mertic\
-[ ] Murali Panchalingam\
-[ ] Simone Gregg\
-[x] Nolan Rogers\
-[ ] Isabel Arnold\
-[x] Tim Brooks\
-[ ] Usman Haider\
-[x] Steve Horsman\
-[x] Rose Sakach
+**Participants**
+[X] Nick Kocsis   
+[X] Alvin Tan   
+[X] Nolan Rogers   
+[X] Tim Brooks   
+[X] Steve Horsman   
+[X] Rose Sakach   
   
 ## Recording can be found here:  
+https://zoom.us/recording/share/JQpQA-2gVWvVygJELUg6eSpTx8rFJ0BgA7jV9lNQo5uwIumekTziMw?startTime=1557925287000
+
 
 [Review updated process documents and make corrections this week](https://github.com/zowe/zlc/tree/20190418-process-updates)
+
 Action for all ZLC members to have the conversation in the issue.  Review to continue at the ZLC next week.
 
 5/15 comments:
