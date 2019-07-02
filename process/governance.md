@@ -12,7 +12,7 @@ The contributor role is the starting role for anyone participating in the projec
 
 * Review the CONTRIBUTING.md guidelines to ensure your contribution is in line with the project's coding and style guidelines.
 * Submit your code as a PR with the appropriate DCO signoff.
-* Have your submission approved by the maintainer(s) and merged into the codebase.
+* Have your submission approved by the Committer(s) and merged into the codebase.
 * Stay current with conversations, reviews and questions about your contribution to aid in the evaluation and acceptance of the code.
 
 ## Committer
@@ -24,7 +24,7 @@ The committer role enables the participation to commit code directly to the repo
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
 * Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing commiter.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel as that is the only persistent means of communication.
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
-* Once approved and granted access the new Committer will add their name and email to the MAINTAINERS.md file in the repository for the project you are being granted access.  
+* Once approved and granted access the new Committer will add their name and email to the COMMITTERS.md file in the Community repository.  
 
 ### Committer Responsibilities
 
@@ -34,9 +34,9 @@ The committer role enables the participation to commit code directly to the repo
 * Make sure that ongoing PRs are moving forward at the right pace or closing them.
 * In general continue to be willing to spend at least 25% of one's time working on the project (about 1.25 business days per week).
 
-### When Does a Maintainer Lose Maintainer Status
+### When Does a Committer Lose Committer Status
 
-If a committer is no longer interested or cannot perform the committer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the maintainers per the voting process.  Commit writes will be suspended while emeritus.  In the future, if the Committer Emeritus wishes to rejoin they can contact the community via e-mail for re-instatement.  Prior contributions will be considered and a vote can ensue quickly to determine restoration of write access.
+If a committer is no longer interested or cannot perform the committer duties listed above, they should volunteer to be moved to emeritus status. In extreme cases this can also occur by a vote of the committers per the voting process.  Commit writes will be suspended while emeritus.  In the future, if the Committer Emeritus wishes to rejoin they can contact the community via e-mail for re-instatement.  Prior contributions will be considered and a vote can ensue quickly to determine restoration of write access.
 
 ## Lead
 
