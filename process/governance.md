@@ -69,6 +69,7 @@ If you have concerns about communication challenges for this project, please con
 
 Voting is the means of communicating and documenting community agreement in an area.  These areas could include new members, change in policies like build, DCO, or other community related obligations; as well as releases.
 
+
 ## Voting Lists
 Votes are conducted on e-mail lists as appropriate.  Slack is not a substitute for voting at this time due to the ephemeral nature of the current contract.  To ensure communication is consistent please use the following e-mail aliases:
 
@@ -82,7 +83,7 @@ In the Subject line please include the prefix **[VOTE] - *repoName* - *descripti
 Due to the geographically distributed nature of the projects, Voting will be held open for 72 hours allowing all members an opportunity to express their vote.  If the voting members of the community ave all responded before the 72 hours have exprired, the vote may be tallied and closed.   
 
 ## Binding versus non-Binding Votes
-There are two types of votes.  **Binding** and **non-Binding**.  The **Binding** votes are cast by members of the community (comitters with write access to the repository).  Only **Binding** votes are tallied.  **non-Binding** votes maybe cast by Contributors and other community members and are intended to seek the collective perspective of the community.
+There are two types of votes.  **Binding** and **non-Binding**.  The **Binding** votes are cast by members of the community (comitters with write access to the repository who have made a contribution six [6] months prior to vote).  Only **Binding** votes are tallied.  **non-Binding** votes may be cast by Contributors and other community members and are intended to seek the collective perspective of the community.
 
 ## Expressing votes: +1, 0, -1 and fractions
  Votes are represented as numbers between -1 and +1, with '-1' meaning 'no' and '+1' meaning 'yes.'
