@@ -17,14 +17,14 @@ The contributor role is the starting role for anyone participating in the projec
 
 ## Committer
 
-The committer role enables the participation to commit code directly to the repository, but also comes with the responsibility of being a responsible leader in the community.  This role is the natural follow on to that of a Contributor.
+The committer role enables the participation to commit code directly to a repository in the Zowe Github organization, but also comes with the responsibility of being a responsible leader in the community.  This role is the natural follow on to that of a Contributor.
 
 ### Process for Becoming a Committer
 
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
-* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing commiter.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel as that is the only persistent means of communication.
+* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing commiter.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel as that is the only persistent means of communication.  See the section [Get Involved](https://zowe.org/contribute/) on the [community website](https://zowe.org).
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
-* Once approved and granted access the new Committer will add their name and email to the COMMITTERS.md file in the Community repository.  
+* Once approved and granted access the new Committer will add their name and email to the [committers.md](https://github.com/zowe/community/committers.md) file in the [Community repository](https://github.com/community/).  
 
 ### Committer Responsibilities
 
@@ -44,20 +44,17 @@ Each sub-project is managed by a project lead. Collectively, Zowe Project leads 
 
 # Release Process
 
-Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/tree/master/CI-CD), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the zowe-zlc@lists.openmainframeproject.org alias.  Votes will last 72 hours or until all current members of the ZLC have responded in the affirmative.  
+Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/tree/master/CI-CD), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the [zowe-zlc@lists.openmainframeproject.org](mailto:zowe-zlc@lists.openmainframeproject.org) alias.  Votes will last 72 hours or until all current members of the ZLC have responded in the affirmative.  
 
 In addition, when a release containing binaries is completed a note will be sent to the current Director of the OpenMainframe Project informing them of the release so that they can log the release as being part of the LLC created as the owner of binary releases.
 
 # Conflict Resolution and Voting
 
-In general, we prefer that technical issues and committer membership are amicably worked out
-between the persons involved. If a dispute cannot be decided independently, the committers can be
-called in to decide an issue. If the committers themselves cannot decide an issue, the issue will
-be resolved by voting. The voting process is a simple majority in which each committer receives one vote.
+In general, we prefer that technical issues and committer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, the committers can be called in to decide an issue. If the committers themselves cannot decide an issue, the issue will be resolved by voting. The voting process is a simple majority in which each committer receives one vote.
 
 # Communication
 
-This project, just like all of open source, is a global community. In addition to theLinux Project's [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/), this project will:
+This project, just like all of open source, is a global community. In addition to The Linux Project's [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/), this project will:
 
 * Keep all communication on open channels (mailing list, forums, chat).
 * Be respectful of time and language differences between community members (such as scheduling meetings, email/issue responsiveness, etc).
@@ -103,4 +100,4 @@ The in-between values are indicative of how strongly the voting individual feels
 +0.9: 'This is a cool idea and i like it, but I don't have time/the skills necessary to help out.'
 
 ## Votes on Package Releases
-Votes on whether a package is ready to be released use majority approval -- i.e. at least three ZLC members must vote affirmatively for release, and there must be more positive than negative votes. **Releases may not be vetoed** Generally the community will cancel the release vote if anyone identifies serious problems, but in most cases the ultimate decision, lies with the individual serving as release manager. The specifics of the process may vary from project to project, but the 'minimum quorum of three +1 votes' rule is universal.
+Votes on whether a package is ready to be released use majority approval -- i.e. at least 51% of the current number of ZLC members must vote affirmatively for release, and there must be more positive than negative votes. **Releases may not be vetoed** Generally the community will cancel the release vote if anyone identifies serious problems, but in most cases the ultimate decision, lies with the individual serving as release manager. The specifics of the process may vary from project to project, but the 'minimum quorum of three +1 votes' rule is universal.
