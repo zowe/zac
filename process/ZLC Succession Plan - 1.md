@@ -1,11 +1,13 @@
 # Overview
-The orginal Zowe founders each nominated 2 members to make up the Zowe Leedership Committee. This committee is, and has been, responsible for steering the organization and setting a vision that aligns all the Zowe squads and sub projects. 
+The orginal Zowe founders each nominated 2 members to make up the Zowe Leadership Committee (from Broadcom, IBM and Rocket Software). This committee is, and has been, responsible for steering the Zowe organization and setting a vision that aligns all the Zowe squads and sub projects.  One of the original goals of the Project is to promote a diverse community made up of a Leadership Committee elected by the Zowe Community.
 
-In order to encourage new participation in the ZLC and to document a plan to bring in new leadership, the ZLC has **(will)** agreed on the following succession plan. 
+Unlike most other Open Source communities the Zowe Project needs to blend 50 years of IBM Z Software, processes and culture with open source velocity and innovation.  One such challenge is the issue of support and expectations by consumers for delivery of Zowe in a way that ensures a level playing field for all contributors as well as delivering Zowe software in a way that is supportable and stable.  As indicated, this is a challenging process.
+
+In order to encourage new participation in the ZLC and to secure a transfer of vision without disruption to the community the ZLC proposes the following approach.   
 
 
 ## Year 1 (August 14, 2018 - August 4, 2019)
-The orginial 6 ZLC members will maintain their position in the organization for a 3-year term (to be up for re-election in Aug, 2022). 
+The orginial 6 ZLC members will maintain their position in the organization for a 3-year term (to be up for re-election in Aug, 2022).  A resignation by an original member will be filled with a representative from the original founding organization.
 
 ## Year 2 (August 2019 - 2020)
 2 new ZLC seats will be made available (total of 8 ZLC members)
@@ -44,3 +46,5 @@ This year the ZLC members elected in '21 - '22 have served their 3 year term and
 <img src ="images/Succession 23.png" width=900>
 
 And from here on out, the 3 yr. term continues with a max of 2 members being replaced each year. 
+
+
