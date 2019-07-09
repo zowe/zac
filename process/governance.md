@@ -101,3 +101,4 @@ The in-between values are indicative of how strongly the voting individual feels
 
 ## Votes on Package Releases
 Votes on whether a package is ready to be released use majority approval -- i.e. at least 51% of the current number of ZLC members must vote affirmatively for release, and there must be more positive than negative votes. **Releases may not be vetoed** Generally the community will cancel the release vote if anyone identifies serious problems, but in most cases the ultimate decision, lies with the individual serving as release manager. The specifics of the process may vary from project to project, but the 'minimum quorum of three +1 votes' rule is universal.
+
