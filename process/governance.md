@@ -24,7 +24,7 @@ The committer role enables the participation to commit code directly to a reposi
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
 * Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing commiter.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel as that is the only persistent means of communication.  See the section [Get Involved](https://zowe.org/contribute/) on the [community website](https://zowe.org).
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
-* Once approved and granted access the new Committer will add their name and email to the [committers.md](https://github.com/zowe/community/committers.md) file in the [Community repository](https://github.com/community/).  
+* Once approved and granted access the new Committer will add their name and email to the [committers.md](https://github.com/zowe/community/blob/master/committers.md) file in the [Community repository](https://github.com/zowe/community/).  
 
 ### Committer Responsibilities
 
