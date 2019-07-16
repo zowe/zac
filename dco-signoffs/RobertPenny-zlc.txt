@@ -1,0 +1,5 @@
+I, Robert Penny hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: 34149172+rpenny125@users.noreply.github.com
+
+2c001f45853c6b4646157602f30b804085659203 Inputting the guidance of Rocket legal
+
+Updated the "Rocket Software" license/copyright notice per guidance from Rocket legal
