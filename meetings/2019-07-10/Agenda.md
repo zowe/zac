@@ -15,7 +15,7 @@
 
 
 ### Recording can be found here   
-
+https://zoom.us/recording/share/o_boCBYig0HAoWcN8tlFxOrI_NvC6I3OMszBF-tOIq2wIumekTziMw?startTime=1562763769000
 
 ## Discussion Items
    
