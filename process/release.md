@@ -1,23 +1,25 @@
 # Zowe Release Process
 
 ## Milestones and Release Candidates
-Zowe Milestones are time-base releases that are scheduled on four week intervals. It consists of two week Sprints and a release candidate (RC) that may be made available at the end of the Sprint.  By choosing monthly releases, it greatly simplifies communication and scheduling. With smaller iterations we expect to get feedback quickly. Each Squad will decide if there will be a deliverable depending on the content that went into the Release. Squads are self governing and are free to have their own schedules as long as they meet the requirements of the release as defined by the community. As the project matures, nightly builds should be available for download, but might contain experimental features or bugs.
+Zowe Milestones are time-base releases with an intended cadence of one release a month targeting the first Thursday.  It consists of two week Sprints and a release candidate (RC) that may be made available at the end of the Sprint.  By choosing monthly releases, it greatly simplifies communication and scheduling.  Each Squad will decide if there will be a deliverable depending on the content that went into the Release.  Squads are self governing and are free to have their own schedules as long as they meet the requirements of the release as defined by the community.  As the project matures, nightly builds should be available for download, but might contain experimental features or bugs.
 
 ## Release Approval Procedure
 The ZLC is informed by the Release Manager that a new release is ready for public distribution.  The ZLC will review the release and ensure that all requirements that are needed for legal and technical release are met.  These include, but are not limited to, updated Documentation, correct LICENSE files, code scans show no known vulnerabilities and some spot testing at the ZLC's discretion.
 
 The ZLC will create a vote thread on zowe-zlc@lists.openmainframeproject.org to vote for the release.  +1 indicates concurrence, 0 is no opinion (and requires a reason to be given) and a -1 is a vote to block the release (rationale required).  The vote is to last no more than 1 week but can be completed sooner when all ZLC votes are cast.  The results will be communicated to the Release Manager.
 
-The Release Manager will sign the release with their GPG keys for the Zowe project and the release will be made available.
+The Release Manager will sign the release with their GPG keys for the Zowe project and the release will be made available.  The release keys are to be publicly available in the `release-management` repository.
 
-Should the vote fail, the ZLC will communicate the issues that caused the release vote to be unsuccessful to the Release Manager who will address those issues and spin a new build.
+Should the vote not be unanimous a ZLC member may volunteer to work with the other members to address the issues raised.  Should the issues be resolved the voting thread can then be updates with a new vote by the dissenter.  When the votes are unanimous the a ZLC member, or the chair, will notify the release manager.  The Release manager will then make the artifacts available and notify the OMP Director of the new release to track the LLC release of a new set of binaries.
 
 ## Release Numbering
-Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form `x.y.z-[GA | beta | yyyymmdd]` (Semantic Versioning) or `major.minor.micro`.  The final designation indicates whether this is the official Generally Available (GA) version, a beta version or an interim build.
+Each release will be identified by a version number. These numbers are used according to a specific scheme that will give you additional information about the release.  The version numbers are of the form `x.y.z-[GA | beta | yyyymmdd]` (Semantic Versioning) or `major.minor.micro`.  The final designation indicates whether this is the official Generally Available (GA) version, a beta version or an interim build.  Only releases that end with **-GA** are considered official releases.  
+  
+- Following semantic versioning the following sequences can be assumed MAJOR.MINOR.PATCH  
+1. MAJOR version when you make incompatible API changes,  
+2. MINOR version when you add functionality in a backwards-compatible manner, and  
+3. PATCH version when you make backwards-compatible bug fixes.  
 
-- The major version number is increased only when a significant amount of new functionality is added to the previous release. In such cases, the new release version number will be (x+1).0.0.
-- The minor version number is increased only when some functionality is added to the new release, in which case the new release version number will be x.(y+1).0.
-- When the new release consists mainly of bug fixes, there will be a so-called point release. The version number of the new release in such cases will only have the micro version number increased, resulting in x.y.(z+1).
 - **GA** indicates that this release is an official, supported version of the Zowe project and is suitable for regular use.
 - **beta** means that this build is a candidate build that is complete but is under active development and should not be considered for regular use.
 - **yyyymmdd** indicates this is an interim build suitable for experimentation or development.  It is not intended for general usage and may contain defects that are known and being worked or unknown.
@@ -29,7 +31,7 @@ There are two significant and different release artifacts for Zowe.  The source 
 
 The project officially release source code which can be built into an executable version of Zowe.  This is the core deliverable of Zowe and is intended for downstream consumers that may use Zowe in their projects or products as well as other developers.
 
-The "Convenience Build" is a courtesy release artifact that includes an installer and all available artifacts to run and use Zowe including sample applications.  The convenience build is intended for consumers that simply want to use Zowe and its APIs.  This is built from the source code release above.
+The "Convenience Build" is a courtesy release artifact that includes an installer and all available artifacts to run and use Zowe including sample applications.  The convenience build is intended for consumers that simply want to use Zowe and its APIs.  This is built from the source code release above.  Code from other projects that have compatible open source licenses may be included to support overall Zowe capability.  Like bash, git, python as well as zOS-Workflows or other related projects to facilitate a complete software stack for Zowe.
 
 ## Playbacks
 At the end of each Sprint, the Squads will present their work in the form of a Playback that is open to all where they will demonstrate the new capabilities introduced in the Sprint.  
