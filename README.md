@@ -64,7 +64,11 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
    - [Proposal process](process/proposal_process.md)
    - [Example governance for sub-projects](process/example_governance.md)
    - [Role Definitions within sub-projects](process/roles.md)
-- [Contribution Guidelines](https://zowe.org/contribute/)
+   - [Branching Guidelines](process/BranchesGuideline.md)
+- [Contribution Guidelines](CONTRIBUTING.md)
+   - [Coding Style](process/CODING_STYLE.md)
+   - [UI Guidelines](process/UI_GUIDELINES.md)
+   - [Message Management](process/messageManagement.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
 - [Framework Release Process](process/release.md)
 - [License and Copyright guidance](LicenseAndCopyrightGuidance.md)
