@@ -77,7 +77,7 @@ All the _v1.x/*_ branches serve the same purpose as base branches, but only for 
 - The _rc_ will be merged into _master_ again to announce RC2.
 - The fixes on _rc_ branch will be cherry-picked into _staging_ branch.
 - Do not merge _rc_ back to _staging_ branch to avoid we accidently update _staging_ branch with static artifact versions.
-
+ 
 ### Hot Fix Process
 
 ![Hot Fix Process](./images/branching-model-hotfix.png "Hot Fix Process")

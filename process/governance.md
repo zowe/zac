@@ -25,7 +25,7 @@ The committer role enables the participation to commit code directly to a reposi
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
 * Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing committer.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel; the only persistent means of communication.  See the section [Get Involved](https://zowe.org/contribute/) on the [community website](https://zowe.org).
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
-* Once approved and granted access the new Committer will add their name and email to the [COMMITTERS.md](https://github.com/zowe/community/COMMITTERS.md) file in the [Community repository](https://github.com/zowe/community/).  
+* Once approved and granted access the new Committer will add their name and email to the [COMMITTERS.md](https://github.com/zowe/community/tree/master/COMMITTERS.md) file in the [Community repository](https://github.com/zowe/community/).  
 
 ### Committer Responsibilities
 
@@ -45,7 +45,7 @@ Each sub-project is managed by a project lead.  Collectively, Zowe Project leads
 
 # Release Process
 
-Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/CI-CD/Meeting%20Minutes%20and%20Recordings), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the [zowe-zlc@lists.openmainframeproject.org](mailto:zowe-zlc@lists.openmainframeproject.org) alias.  Votes will last 72 hours or until all current members of the ZLC have responded to the vote.  
+Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/tree/master/CI-CD/Meeting%20Minutes%20and%20Recordings), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the [zowe-zlc@lists.openmainframeproject.org](mailto:zowe-zlc@lists.openmainframeproject.org) alias.  Votes will last 72 hours or until all current members of the ZLC have responded to the vote.  
 
 In addition, when a release containing binaries is completed a note will be sent to the current Director of the OpenMainframe Project informing them of the release so that they can log the release as being part of the LLC created as the owner of binary releases.
 
