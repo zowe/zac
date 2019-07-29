@@ -1,4 +1,4 @@
-*NOTE: This document is intended to provide an example governance structure for any Zowe sub-project to consider as a starting point. All projects hosted by ODPi are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
+*NOTE: This document is intended to provide an example governance structure for any Zowe sub-project to consider as a starting point. All Zowe sub-projects are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
 
 # Overview
 
