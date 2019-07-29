@@ -34,7 +34,7 @@ Rights and responsibilities of a Committer include, but are not limited to the f
 ### Process for Becoming a Committer
 
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
-* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing committer.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel; the only persistent means of communication.  See the  [community repo](https://github.com/zowe/community/) for more details.
+* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing committer.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an appropriate e-mail channel; the only persistent means of communication.  See the  [community repo](https://github.com/zowe/community/) for more details.
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
 * Once approved and granted access the new Committer will add their name and email to the [COMMITTERS.md](https://github.com/zowe/community/tree/master/COMMITTERS.md) file in the [Community repository](https://github.com/zowe/community/).
 
