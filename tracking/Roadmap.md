@@ -61,8 +61,29 @@ A document which provides insight into priority items being evaluated, discussed
 ## Tracking Potentially Breaking Changes
 * (General) Refactor installation to leverage SMP/e. 
     - Notes: this does not create API breakage, but a complete overhaul of install/config/patch process should be considered within a major version revision.
+* Installation scripts, packaging that allows partial-zos as alternative option to all-zos install
 * (General) SSO overhaul 
     - Notes: this may not create breakage
 * (Zowe App Framework) API & URL Namespace modifications
     - Notes: breaking change which will require cross-squad alignment
+    - https://github.com/zowe/zlux-server-framework/issues/44
 * 
+* Make zlux "root services" into bonafied plugin services from external view (/unixfile, /auth, etc)
+* Reorganize ui framework's uribroker parameters as needed
+* Alter service headers for better security as needed
+    * content disposition
+    * framing
+* Resolve any shortcomings on reserved characters in ID and resource strings (:,_,., etc)
+* Make directories that should be read-only actually read-only
+    * zlux&zss /deploy/product
+    * app install directories
+* Change any unauthenticated APIs to authenticated or semi-authenticated APIs as needed
+    * zlux /plugins
+* Change ui framework's html element IDs to start with "org-zowe" as needed
+* Library updates as needed
+    * Angular 6->8?
+    * Typescript?
+    * Webpack?
+    * JQuery?
+* Removal of bootstrap from web ui base
+    * Apps must include as needed
