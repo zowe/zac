@@ -2,24 +2,30 @@
 
 ## ZLC Members
 [X] Hogstrom   
-[ ] Bruce Armstrong   
+[X] Bruce Armstrong   
 [ ] Sean Grady   
 [ ] JP Linardon   
-[ ] Mark Ackert   
-[ ] Jean-Louis Vignaud   
+[X] Mark Ackert   
+[X] Jean-Louis Vignaud   
 
-[ ] Nick Kocsis
+[X] Nick Kocsis
 [ ] Tim Brooks
 [ ] Nolan Rogers
-[ ] Alvin Tan
-[ ] Joe Winchester
+[X] Alvin Tan
+[X] Joe Winchester
+[X] William Pereira
+[X] Guru Regalagadda
+[X] Greg M
 
 
 ### Recording can be found here   
+https://zoom.us/recording/share/1yNUkSJxaOCpsh-CV6-sXXmOoREZ3d72jAu3-zrbvvSwIumekTziMw?startTime=1564578191000
 
+Transcript: https://zoom.us/recording/download/B1QZEuQtzKPb5i4kDN1vIsnRappqqykUY34jQJ67GUp1zTxivvTSPjoqmJqgZn9n
 
 ## Discussion Items
 Governance document next steps 
+- Send note to on updates @hogstrom
 
 ## Share Planning for F2F
 Confirm Agenda:
@@ -39,6 +45,9 @@ Confirm Agenda:
 ### Optional
 *Topic: Community Tooling* – Moderator: @jmertic? TBD? - 15 minutes
 *Topic: A Year in Review* – Moderator: @tim.brooks - 30 minutes
+
+Share new attendee - 1600 - 1700
+Welcome Reception is at 1900
 
 Other suggestions:
 - Sujay Solomon  - Would be nice to have a chat about what is being adopted by the greater mainframe community (customers, not vendors) and what is not. May help shape V2. (edited)
