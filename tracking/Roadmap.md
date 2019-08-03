@@ -3,6 +3,7 @@
 A document which provides insight into priority items being evaluated, discussed, and possibly implemented within Zowe. The Zowe Roadmap is not an official guarantee of delivery for any given item listed here nor does it exhaustively list items which may become part of Zowe.
 
 ## General Roadmap
+* High Availability / Sysplex enablement
 * Refactor installation to leverage SMP/e. (cross-squad)
 * SSO overhaul (cross-squad)
 * Contribute Java REST API SDK and Sample to enable onboarding of mainframe APIs
@@ -10,6 +11,9 @@ A document which provides insight into priority items being evaluated, discussed
 ## Onboarding Roadmap
 * Defining conformance criteria and benefits for Zowe extenders
 * Zowe Application Directory / Marketplace
+
+## Including Z Ports
+* Include zos USS ports to improve compatibiity and useability of Zowe and other projects.
 
 ## CLI Roadmap
 #### Shorter-term
