@@ -5,12 +5,24 @@ A document which provides insight into priority items being evaluated, discussed
 ## General Roadmap
 * High Availability / Sysplex enablement
 * Refactor installation to leverage SMP/e. (cross-squad)
-* SSO overhaul (cross-squad)
+* SSO overhaul (cross-squad) 
+* MFA
 * Contribute Java REST API SDK and Sample to enable onboarding of mainframe APIs
+* Build and Docker container for non z/OS portions of Zowe (APIML and ZLUX) for easier deveopment and
+* Docker container of non z/OS portions of Zowe available in Z Container Extensions (ZCX)
+* Plug-and play for auto-discovery of Zowe enabled services bridging to app store
 
 ## Onboarding Roadmap
 * Defining conformance criteria and benefits for Zowe extenders
 * Zowe Application Directory / Marketplace
+* Provide JEE container to host .WAR files for extenders (e.g. IMS sharing a Zowe tomcat)
+#### Shorter-term
+* Cupids launcher allows extensions to Zowe to lie outside of Zowe file structure
+* Cupids SMP/E PTF delivery of convenience builds and emergency fixes
+* Cupids launcher to allocate ports from a range
+* Cupids launcher to allow for more controlled startup and recycling of Zowe services
+* Move away piggybacking IZUSVR to having our own ZWESVR user ID
+* Move towards Zowe using SAF keyrings instead of USS .keystore files
 
 ## Including Z Ports
 * Include zos USS ports to improve compatibiity and useability of Zowe and other projects.
@@ -20,7 +32,7 @@ A document which provides insight into priority items being evaluated, discussed
 * Change references from @brightside to @zowe in Zowe CLI, Imperative, and all plugins.
 * Contribute the IMS CLI Plugin to Zowe
 * Define Zowe CLI conformance criteria
-* Allow users to interact with USS files in the VS Code extension
+* Allow users to interact with USS files in the VS Code extension (Completed ?)
 #### Longer-term
 * TBD
 
@@ -32,6 +44,7 @@ A document which provides insight into priority items being evaluated, discussed
 * Integrate Zowe services with SSO
 * Extend APIs as requested by Zowe
 #### Longer-term
+* UI catalog inside API ML, leading to ability for UIs to be discovered and hosted by Zowe desktop
 * TBD
 
 ## Zowe Application Framework Roadmap
