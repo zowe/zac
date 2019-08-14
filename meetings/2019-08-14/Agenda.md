@@ -21,8 +21,8 @@
 
 
 ### Recording can be found here   
-Recording: 
-Transcript: 
+Recording: https://zoom.us/recording/share/3M0t1Xq_rNbufHlPFnQ9CtXeE6Sobcz4HcXNofOKf_2wIumekTziMw?startTime=1565787920000
+Transcript: https://zoom.us/recording/download/1wL1ASf9JVEeF7C_955WeHYZSWqLGMS5yvuweC8kHGQEYrDlfM3WpIbV6-4zw_i8
 
 ## Discussion Items
 MFA implementation - John can you help?
