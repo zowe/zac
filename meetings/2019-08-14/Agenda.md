@@ -20,13 +20,13 @@ Recording:
 Transcript: 
 
 ## Discussion Items
-MFA implementation
+MFA implementation - John can you help?
 
 LTSR - Alvin
 
 Share Updates / Actions
 
-
+DCO Signoff
 
 ## Minutes
 
