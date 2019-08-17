@@ -63,6 +63,7 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
 -- [Example governance for sub-projects](example_governance.md)
 -- [Role Definitions within sub-projects](roles.md)
 - [Contribution Guidelines](https://zowe.org/contribute/)
+  - [Two Factor Authenication (2FA) requirement](process/2factor-authentication.md)
 - [Project Role Definitions](process/roles.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
 - [Release Process](process/release.md)
