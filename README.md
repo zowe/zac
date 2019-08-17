@@ -67,6 +67,7 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
    - [Coding Style](process/CODING_STYLE.md)
    - [UI Guidelines](process/UI_GUIDELINES.md)
    - [Message Management](process/messageManagement.md)
+   - [Two Factor Authenication (2FA) requirement](process/2factor-authentication.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
 - [Framework Release Process](process/release.md)
 - [License and Copyright guidance](LicenseAndCopyrightGuidance.md)
