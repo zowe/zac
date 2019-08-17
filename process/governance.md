@@ -1,6 +1,6 @@
 # Overview
 
-This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation. Participants are all bound to the Linux Project's [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/).
+This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affiliation.  Participants are all bound to the Linux Project's [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/).
 
 # Project Roles
 
@@ -10,7 +10,8 @@ The contributor role is the starting role for anyone participating in the projec
 
 ### Process for Becoming a Contributor
 
-* Review the CONTRIBUTING.md guidelines to ensure your contribution is in line with the project's coding and style guidelines.
+* Review the `CONTRIBUTING.md` in each project repository for guidelines to ensure your contribution is in line with the project's coding and style guidelines.
+
 * Submit your code as a PR with the appropriate DCO signoff.
 * Have your submission approved by the Committer(s) and merged into the codebase.
 * Stay current with conversations, reviews and questions about your contribution to aid in the evaluation and acceptance of the code.
@@ -22,9 +23,9 @@ The committer role enables the participation to commit code directly to a reposi
 ### Process for Becoming a Committer
 
 * Demonstrate your experience with the codebase through contributions and engagement on the community channels.
-* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing commiter.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel as that is the only persistent means of communication.  See the section [Get Involved](https://zowe.org/contribute/) on the [community website](https://zowe.org).
+* Normally the community is aware of activities by Contributors and ideally a nomination would be made by an existing committer.  However, self nomination is an acceptable means of identifying your interest.  This interest should be expressed in an approrpriate e-mail channel; the only persistent means of communication.  See the section [Get Involved](https://zowe.org/contribute/) on the [community website](https://zowe.org).
 * The existing community (project) that is considering your membership would facilitate a vote (see voting).
-* Once approved and granted access the new Committer will add their name and email to the [committers.md](https://github.com/zowe/community/committers.md) file in the [Community repository](https://github.com/community/).  
+* Once approved and granted access the new Committer will add their name and email to the [COMMITTERS.md](https://github.com/zowe/community/COMMITTERS.md) file in the [Community repository](https://github.com/zowe/community/).  
 
 ### Committer Responsibilities
 
@@ -40,19 +41,14 @@ If a committer is no longer interested or cannot perform the committer duties li
 
 ## Lead
 
-Each sub-project is managed by a project lead. Collectively, Zowe Project leads are responsible for ensuring that their project's committers are following the Development Process, and that the project is engaging in the right sorts of activities to develop vibrant communities of users, contributors and committers. Each project lead is equal in responsibility.  Subsequently, additional project leads must be elected by the project's committers.
+Each sub-project is managed by a project lead.  Collectively, Zowe Project leads are responsible for ensuring that their project's committers are following the Development Process, and that the project is engaging in the right sorts of activities to develop vibrant communities of users, contributors and committers.  Each project lead is equal in responsibility.  Subsequently, additional project leads must be elected by the project's committers.
 
 # Release Process
 
-Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/tree/master/CI-CD), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the [zowe-zlc@lists.openmainframeproject.org](mailto:zowe-zlc@lists.openmainframeproject.org) alias.  Votes will last 72 hours or until all current members of the ZLC have responded in the affirmative.  
+Project releases will occur on a scheduled basis as agreed to by the maintainers. Coordination of Zowe releases is led by the [CI/CD squad](https://github.com/zowe/community/CI-CD/Meeting%20Minutes%20and%20Recordings), and all Zowe releases are to be approved by the ZLC.  Approval of the release will be done by vote on the [zowe-zlc@lists.openmainframeproject.org](mailto:zowe-zlc@lists.openmainframeproject.org) alias.  Votes will last 72 hours or until all current members of the ZLC have responded to the vote.  
 
 In addition, when a release containing binaries is completed a note will be sent to the current Director of the OpenMainframe Project informing them of the release so that they can log the release as being part of the LLC created as the owner of binary releases.
 
-# Conflict Resolution and Voting
-
-In general, we prefer that technical issues and committer membership are amicably worked out between the persons involved. If a dispute cannot be decided independently, the committers can be called in to decide an issue. If the committers themselves cannot decide an issue, the issue will be resolved by voting. The voting process is a simple majority in which each committer receives one vote.
-
-# Communication
 
 This project, just like all of open source, is a global community. In addition to The Linux Project's [Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/), this project will:
 
