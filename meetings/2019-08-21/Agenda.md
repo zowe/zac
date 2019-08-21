@@ -19,7 +19,9 @@
 
 
 ### Recording can be found here   
+https://zoom.us/recording/share/4R3YZo2qCJndbpBEoKJv07hTtJRrwEkUHjAWn6885eywIumekTziMw?startTime=1566392757000
 
+Transcript - https://zoom.us/recording/download/gHu5U6Z5VaVfRztUcB02rrlntnd3LTon2fxxARUOWqPHo3IfxqIV-3snH5U3u9wM
 
 ## Discussion Items
 Discuss Team building for Themes that spread across Zowe and Releases agenda
