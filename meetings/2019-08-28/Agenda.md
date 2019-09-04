@@ -3,22 +3,29 @@
 ## ZLC Members
 [X] Hogstrom   
 [ ] Bruce Armstrong   
-[ ] Sean Grady   
+[X] Sean Grady   
 [ ] JP Linardon   
-[ ] Mark Ackert   
-[ ] Jean-Louis Vignaud   
+[X] Mark Ackert   
+[X] Jean-Louis Vignaud   
 
 [ ] Nick Kocsis
-[ ] Tim Brooks
+[X] John Mertic
+[X ] Tim Brooks
 [ ] Nolan Rogers
 [ ] Alvin Tan
 [ ] Joe Winchester
 [ ] William Pereira
 [ ] Guru Regalagadda
 [ ] Greg M
+[ ] Taylor Donner
+[X] Greg McKinnon
 
 
 ### Recording can be found here   
+https://zoom.us/recording/share/8tZ32d7LlDyIt6Rheg4UIW0e7TQ9PP77c2sz07EOPMSwIumekTziMw?startTime=1566997403000
+
+Transcript: https://zoom.us/recording/download/q4c3gSzheLOwtM40lQCEknn9wfpSICxz1I_4bR-wtFVqHd1llQyVVQ7BkqNnzz4A
+
 
 ## Discussion Items
 Creation of new repo for the MQ CLI plugin/extension - Follow up from Colin.  Ask ZLC to review and comment
