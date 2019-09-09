@@ -1,4 +1,4 @@
-# 2019-07-24
+# 2019-07-31
 
 ## ZLC Members
 [X] Hogstrom   
@@ -60,5 +60,5 @@ Zowe Conformance
 
 __Voting Tool for Review__
 https://civs.cs.cornell.edu/
-   
-   
+
+
