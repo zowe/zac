@@ -24,6 +24,8 @@
 
 
 ### Recording can be found here   
+https://zoom.us/recording/share/pgoPNle5fbN98PHHzlRkAOvE8ZeXhJizHs0QDMOWmWiwIumekTziMw?startTime=1567602220000
+Transcript: https://zoom.us/recording/download/A9qHVWCiMSou5buMH0X_kVSK7LPZxNFunz-Mqs4XkaGJBnWKa7f0daORESXFKb5x
 
 ## Discussion Items
 [Creation of new repo for the MQ CLI plugin/extension #125](https://github.com/zowe/zlc/issues/125)
