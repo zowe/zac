@@ -13,7 +13,7 @@ The Zowe Leadership Committee (ZLC) oversees all code development and release ma
 *	Create and maintain development iteration criteria and release train to drive framework development and deployment
 *	When required, vote on revoking commit rights
 
-The ZLC is composed of six (6) members of the Zowe community. Initially IBM, CA Technologies, and Rocket Software have each nominated two individuals to serve on the ZLC while the Zowe community builds committer diversity, for a term that will end by July 31, 2019.
+The ZLC is composed of six (6) members of the Zowe community. Initially IBM, CA Technologies, and Rocket Software have each nominated two individuals to serve on the ZLC while the Zowe community builds committer diversity, for a term that will end by January 31, 2020.
 
 To qualify for nomination to serve on the ZLC, the individual must be a committer on a Zowe sub-project. No more than 2 individuals on the ZLC can be afflilated with the same company.
 
@@ -36,38 +36,40 @@ All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.open
 
 # Zowe sub-projects
 
-The following are the current sub-projects that are part Zowe by maturity level
+The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community Teams](https://github.com/zowe/community#zowe-community-teams).
 
 ## Incubation
 
+* *None*
 
 ## Active
 
-* Zowe API Mediation layer
-* Zowe CLI
-* Zowe Web Desktop
-* Zowe Onboarding
-* Zowe CI/CD
+* [Zowe API Mediation layer](https://github.com/zowe/community#zowe-api-mediation-layer)
+* [Zowe CLI](https://github.com/zowe/community#zowe-cli)
+* [Zowe App Framework](https://github.com/zowe/community#zowe-app-framework)
 
 ## Emeritus
 
+* *None*
 
 # Processes and procedures
 
 The Zowe project is self governed by the Zowe community, with each sub-project setting thier own governance provided the Zowe project roles are identified. The ZLC has estalished a number of governance processes as outlined below:
 
-- [Project Structure](structure.md)
+- [Project Structure](process/structure.md)
 - Sub-project guidelines
--- [Lifecycle of sub-projects](stages.md)
--- [Proposal process](proposal_process.md)
--- [Example governance for sub-projects](example_governance.md)
--- [Role Definitions within sub-projects](roles.md)
-- [Contribution Guidelines](https://zowe.org/contribute/)
-  - [Two Factor Authenication (2FA) requirement](process/2factor-authentication.md)
-- [Project Role Definitions](process/roles.md)
+   - [Lifecycle of sub-projects](process/stages.md)
+   - [Proposal process](process/proposal_process.md)
+   - [Example governance for sub-projects](process/example_governance.md)
+   - [Role Definitions within sub-projects](process/roles.md)
+   - [Branching Guidelines](process/BranchesGuideline.md)
+- [Contribution Guidelines](CONTRIBUTING.md)
+   - [Coding Style](process/CODING_STYLE.md)
+   - [UI Guidelines](process/UI_GUIDELINES.md)
+   - [Message Management](process/messageManagement.md)
+   - [Two Factor Authenication (2FA) requirement](process/2factor-authentication.md)
 - [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) - Zowe community members are bound to the Linux Foundation Code of Conduct.
-- [Release Process](process/release.md)
-- [Framework Release Process](release.md)
+- [Framework Release Process](process/release.md)
 - [License and Copyright guidance](LicenseAndCopyrightGuidance.md)
 
 All of these documents have been approved by both the Zowe Leadership Committee (ZLC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZLC at any time.
