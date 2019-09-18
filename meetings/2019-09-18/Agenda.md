@@ -40,6 +40,10 @@ Transcript: https://zoom.us/recording/download/YRE8aCb2Dia_v_pD9_bTm0lFjgh0VrBbS
 
 [Common Logging Format for Zowe Services #90](https://github.com/zowe/zlc/issues/90)
 
+## Pull Requests
+[Intake checklist for the ZLC to potential use for bringing in new sub… #88](https://github.com/zowe/zlc/pull/88/files)
+Mertic
+
 [Can we store z/OS Logs in the LF Infrastructure?]
 
 ## Minutes
