@@ -1,0 +1,28 @@
+I, Matt Hogstrom hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: matt@hogstrom.org 
+
+360c87c117099cbaedca7453c78508b6d90b0d7f Agenda for January 16, 2019 Meeting
+c51929f7492b4697e9da6a80664752794e0f4d0a Updated from meeting this morning.
+360c87c117099cbaedca7453c78508b6d90b0d7f Agenda for January 16, 2019 Meeting
+c51929f7492b4697e9da6a80664752794e0f4d0a Updated from meeting this morning.
+5dc9ddd7040e52d7a4e88c8b76e9744f2064d69e Updated minutes
+659fed80181e4a66fc9041ba32b4b0b9482b0d42 Updated from minutes yesterday.  Final to be committed today
+ff80a76eabefc742a2f18912eb53e25f7275e308 Meeting minutes
+22014272d6b26d1cfb49e2441744364fa24aea92 Updated formatting and ordered issues.
+8a294f42b8aaf3aa7921a65d9ea523102e91422d Updated indication that IBM copyright is ready
+2f06866d52dcb8e03106cbd116b8580a6c3bcb9e Update agenda.md
+087dbaadb5ee91ed10e2f98a460385a9d653b23a Added notes from ZLC meeting.  Actions in bold
+09f599d261841cddc10c0118a8b088c85727cab3 Updated with additional thoughts
+43c3e4fba2c5cdcc4447631ab00543db80ad2e0a Agenda Creation for 2018-08-08 ZLC meeting
+549084f6d095896d916d384b0071740558248771 Updated IBM copyright and fixed typos.
+
+Also, added guidance for properties files.
+81bd7709d598df7ec8da5cfef5343c9bdb4342a0 Added additional information on appropriate licensing and copyright information for contributions.
+65c77ec5d1a9645740a4b3884420815bf95edd6f Renamed file to be more descriptive of its content and intent.
+963d9be90e43938a6fb2579abae08e72e99ebf50 Made several changes to include feedback from Linux Foundation and other contributors.
+ec30c2db520e7b27537a7a7e8debeea677797d39 Changed formatting for markdown
+0a3dff5273074a2c5e4eda8d07f37915cf25b01f Adding content clarify source code updates for contributions.
+250cb39dbe68df625ece206f7b5fe80bd3788744 Creating standards for coding updates for contributions
+391fef24301ef1c6813d25488102ac8ec7e6638c Changed name to better describe the contents
+da84bb4181b77d6345b65ef9720ddf347dc2d195 Renamed resources file to better identify its contents
+b1fd77c774376435972283fd6f8ed96c28503182 Added additional resources and updated formatting
+e9ef12358a8443d055cbce7e48d187f6d2ca1370 Updated Actions from Last ZLC and Created this member
