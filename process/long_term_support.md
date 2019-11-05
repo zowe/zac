@@ -23,7 +23,7 @@ This document defines the Zowe Long Term Support schedule for releases.
     
     It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance LTS release. Factors include:   
     * Causes unexpected downtime impacting production environment  
-    * No viable work-around  
+    * No viable workaround  
     * Irrecoverable data corruption 
     * Daily application crash for conformant consumers  
     * Critical security vulnerabilities 
