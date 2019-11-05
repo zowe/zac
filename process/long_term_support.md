@@ -2,7 +2,7 @@
 
 This document defines the Zowe Long Term Support schedule for releases.
 
-<img src="../images/lts.png" width="900" alt="LTS Schedule"/>
+<img src="../images/lts.png" alt="LTS Schedule"/>
 
 * Zowe versions enter _Current_ release status for six to nine months to allow consumers of Zowe to test and adjust to any changes.  
 * After current phase, Zowe will move to _Active LTS_ status and is deemed ready by the community for general use. 
