@@ -20,7 +20,9 @@
 [X] Jack Jia
 
 ### Recording can be found here   
+Recording: https://zoom.us/recording/share/rb3iihZw2LclKnr53MWFXpzryzlDNCo90XkMekMwxJ6wIumekTziMw?startTime=1570021045000
 
+Transcript: https://zoom.us/recording/download/OvtN2ppEOcPSWSGzAuFvui0uLGltOl10AHAbK6YO-XNTn-6o_ESiNhZtRR6HVsVB
 
 ## Discussion Items
 [ZenHub in Community](https://github.com/zowe/community#workspaces/community-5c93e02fa70b456d35b8f0ed/board?repos=145870120,144592776,143049506,151615191,141316148,155383451,144600062,144619729,144599701,186826146)
@@ -52,6 +54,7 @@ Share Discussion
 
 LTSR Base 
 - Installation does not purtubate the existing configuration.  Including Plugins(CLI/Desktop/APIML) are stable outside of Zowe
+- Version migration (ability of Vn-1 to tolerate config changes in Vn to support migration)
 Logging / Tracing / Debugging / Diagnostics - Cogent logging that is inspectable and consistent - Conformance (get squad feedback on their ability to support)
 Feature for Keyrings (label it LTSR)
 Multi-Factor label it (LTSR)
@@ -59,6 +62,9 @@ Multi-Factor label it (LTSR)
 - High Availability (LTSR requires a definition)
 - API Stability (squad review and assertion)
 - Timeframe for support (defined and published)
+- Ability to update configuration without cancelling Zowe
+- Security for Zowe (ZWESVR, ZWEADMIN)
+ 
 
 What changes are needed for updating an LTSR
 
