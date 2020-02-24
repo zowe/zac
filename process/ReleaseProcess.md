@@ -110,8 +110,8 @@ In order to generate a new release of Zowe, each of the below checklists must be
 
 ### Publish Release Checklist
 
-* Publish signed PAX file to https://projectgiza.org website.
-* Publish Zowe CLI bundle to https://projectgiza.org website.
+* Publish signed PAX file to Amazon S3 service for public access.
+* Publish Zowe CLI bundle to Amazon S3 service for public access.
 * Update zowe.org website with new version information on both PAX file and CLI bundle.
 * Publish new documentation.
 * Publish announcements (slack, mailing lists, zowe.org home page, elsewhere?).
