@@ -55,7 +55,7 @@ To achieve these objectives, The Linux Foundation requires that third parties wh
 
 In order to be a Participant in the Conformance Program and to use the Conformant Marks, a Participant must do the following:
 
-- [Identify Offerings:](identify-offerings) determine those of its goods and services with which it intends to use the Conformance Marks
+- [Identify Offerings:](#identify-offerings) determine those of its goods and services with which it intends to use the Conformance Marks
 - [Apply:](#apply) submit a signed participation form to The Linux Foundation
 - [Test:](#test) perform the tests specified in the Test Evaluation Guide on its designated goods and services
 - [Submit Test Results:](#submit-test-results) submit the results of tests (or, in the absence of a testing evaluation program, confirmations of conformance) to The Linux Foundation for review and verification
