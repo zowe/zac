@@ -17,13 +17,13 @@
     - [Use of the Conformance Marks](#use-of-the-conformance-marks)
 - [Term and Termination](#term-and-termination)
     - [Term](#term)
-    - [Termination](#termnination)
+    - [Termination](#termination)
     - [Effect of termination](#effect-of-termination)
 - [Disclaimer of Warranties](#disclaimer-of-warranties)
 - [Limitation of Liability](#limitation-of-liability)
 - [Indemnification](#indemnification)
 - [Entire Agreement Modifications](#entire-agreement-modifications)
-- [Miscellaneous](#miscelaneous)
+- [Miscellaneous](#miscellaneous)
 
 ## Definitions
 
