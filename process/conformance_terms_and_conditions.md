@@ -91,7 +91,7 @@ The participant must continue to abide by the terms and conditions of the Confor
 
 #### Conformance Test Versions
 
-Conformance for a Qualifying Offering is tied to a specific version of the corresponding conformance tests and evaluation criteria for one or more particular Components. The tests’ and evaluation criteria version number and the corresponding Component must be specified within the Conformance Mark logos, as described in the Visual Branding Guide. 
+Conformance for a Qualifying Offering is tied to a specific version of the corresponding conformance tests and evaluation criteria for one or more particular Components. The tests’ and evaluation criteria version number and the corresponding Component must be specified within the Conformance Mark logos, as described in the Visual Branding Guide. A previously-Qualifying Offering for a previous version can re-conform to the new Test Evaluation Guide to gain conformance to a newer version at any time by following the steps described above.  Being conformant to a version of Zowe does not roll over to conformance to later versions of Zowe, nor is conformance removed from a version of Zowe when a newer version is released, notwithstanding scenarios described in [Reported Non-conformance](#reported-non-conformance) and [Termination](#termination).  
 
 #### Reported Non-Conformance
 
