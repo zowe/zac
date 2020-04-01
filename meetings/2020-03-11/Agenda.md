@@ -25,7 +25,7 @@
 
 1. [https://github.com/zowe/zlc/issues/161](https://github.com/zowe/zlc/issues/161?email_token=AI6ZRGY2D55BOICXC6QE7N3RGFD6XA5CNFSM4KT3UZUKYY3PNVWWK3TUL52HS4DFVREXG43VMVBW63LNMVXHJKTDN5WW2ZLOORPWSZGOEOCQFVY#issuecomment-595919575) **What do we want to do with squad re-org since we are going inot PI planning**
 
-   1. 
+   1. ![](box-image.png)
 
 1. **[https://github.com/zowe/zlc/issues/170](https://github.com/zowe/zlc/issues/170)**** - ****Defining "Zowe Core" to be consistent in commercial Zowe Support Offerings**
 
