@@ -39,7 +39,7 @@
 
    1. Many thanks to Rose and On Boarding team for proposing better Q&A flow - let's discuss if there is time. 
 
-Sorry, you do not have permission to view this file.
+[Zowe_ Managing incoming requests to OMP - Google Docs(1).pdf](Zowe_%20Managing%20incoming%20requests%20to%20OMP%20-%20Google%20Docs(1).pdf)
 
 
 
