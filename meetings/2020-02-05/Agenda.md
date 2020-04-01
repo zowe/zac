@@ -1,7 +1,7 @@
 # ZLC Agenda 02-05-2020
 1. **Can we close on LTS policy - limit discussion to 10 mins - vote via email**
 
-   1. Updated deck from Joe - [https://ibm.box.com/s/7j715c6njte1eb5xuu4iouq7axytgsgk](https://ibm.box.com/s/7j715c6njte1eb5xuu4iouq7axytgsgk) Thanks Joe 
+   1. Updated deck from Joe - [Zowe.OSS.2019-20.Roadmap.Rev.12a.pptx](Zowe.OSS.2019-20.Roadmap.Rev.12a.pptx) Thanks Joe 
 
       1. If we agree I would like to get text in the process docs on Zowe org and try to have a quick reference page (like node.js team does). 
 
@@ -39,7 +39,7 @@
 
 1. **Conformance Criteria Update - Rose (or Tim?)**
 
-   1. [https://ibm.box.com/s/e12t3qylbrydfrgxetzt5u9y521sup42](https://ibm.box.com/s/e12t3qylbrydfrgxetzt5u9y521sup42) 
+   1. [vNext Conformance Timeline LTS2020FEB25.pptx](vNext%20Conformance%20Timeline%20LTS2020FEB25.pptx) 
 
    1. [https://wiki.zowe.org/display/ZCP/Test+Evaluation+Guide](https://wiki.zowe.org/display/ZCP/Test+Evaluation+Guide)
 
@@ -53,7 +53,7 @@
 
 1. **On Boarding squad proposal for updated process flow for Q&A - I'd like to propose this be updated on zowe.org when LTS policy updates** 
 
-   1. [https://ibm.box.com/s/f8skgxjapf4yrstba7xtrd636nimi48t](https://ibm.box.com/s/f8skgxjapf4yrstba7xtrd636nimi48t)
+   1. [Zowe_ Managing incoming requests to OMP - Google Docs(1).pdf](../2020-01-22/Zowe_%20Managing%20incoming%20requests%20to%20OMP%20-%20Google%20Docs(1).pdf)
 
 1. **Feb is ZLC "revote" month - John**
 
