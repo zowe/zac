@@ -41,7 +41,7 @@
 
    1. We could also invite winners to OSS NA (June) to present their winning project at a OMP event (we’re hoping to have a co-located event at OSS NA much like the one we had last year). 
 
-   1. [https://ibm.box.com/s/cwu85vpaggdv0sjm7t0lejaovgq6po6p](https://ibm.box.com/s/cwu85vpaggdv0sjm7t0lejaovgq6po6p)
+   1. [Virtual Hackathon Site content(1).pdf](Virtual%20Hackathon%20Site%20content(1).pdf)
 
 1. **Other content for the press release?**
 
