@@ -1,14 +1,14 @@
 # Release Process and Guidelines
 
 ## Table of Contents
-
+    
 - [What is a Zowe release](#what-is-a-zowe-release)
-- [Zowe Support Policy](#zowe-support-policy)
-    - [Version timeframe, Current, Active LTS, Maintenance](#version-timeframe-current-active-lts-maintenance)
+- [Zowe version, release, and support](#zowe-version-release-and-support)
     - [Version, Release, Modification](#version-release-modification)
+    - [Version timeframe, Current, Active, Maintenance LTS](#version-timeframe-current-active-maintenance-lts)
     - [How many active distributions at a given time?](#how-many-active-distributions-at-a-given-time)
     - [Compatibility](#compatibility)
-    - [Which defects will be fixed in Maintenance?](#which-defects-will-be-fixed-in-maintenance)
+    - [Which defects are deemed critical to fix in LTS?](#which-defects-are-deemed-critical-to-fix-in-lts)
 - [How to generate a release](#how-to-generate-a-release)
     - [Subproject Checklist.](#subproject-checklist)
     - [Zowe CLI Convenience Bundle Checklist](#zowe-cli-convenience-bundle-checklist)
@@ -32,27 +32,37 @@ The focus of this document refers to generating stable releases of Zowe. For ble
 
 Generating any release of Zowe requires gathering artifacts from each of Zowe's subprojects, organizing them into the Zowe deliverables, testing said Zowe deliverables, signing the deliverables, and publishing the deliverables in sync with Release Notes / Documentation Updates.
 
-## Zowe Support Policy
-
-### Version timeframe, Current, Active LTS, Maintenance  
-
-New Zowe versions will enter Current Release status for 6 to 9 months to allow consumers of Zowe technology to test, provide feedback, and adjust to any changes.  After the Current Release phase, Zowe will move to Active Long-Term Support (LTS) status and will be deemed ready by the community for general use. Active LTS will have additional releases with both fixes and enhancements. Following a period of Active LTS, the Zowe version will enter Maintenance for fixes only. 
-
-The combination of Active LTS and Maintenance LTS release is designated as "long-term support”, which provides two guarantees:
-- Critical defects will be fixed. The criteria for what constitutes a critical defect is covered in <provide link to description>. 
-- Extenders who achieve Zowe conformance <!--provide link to Conformance Program description--> for the Long-Term Support version will not need to modify their product for it to remain functional when the Zowe community provides distributions within the release or modification level boundary within the same version.  
-
-The length of Active LTS may vary but the total time period of Active LTS + Maintenance LTS will be at least 24 months. Production applications should only use Active LTS or Maintenance LTS releases due to the contract with extender products remaining functional and the community’s commitment to fix critical defects.
+## Zowe version, release, and support
 
 ### Version, Release, Modification
 
-Zowe distributions are given a version, release, and modification number.  Zowe 1.11.1 is version one, release 11, and modification one.  Zowe distributions are sequential, so 1.11.2, 1.12.0 or 2.0.0 are all later software distributions than 1.11.1.  Distributions that increment the modification number are created when the community recognizes the need to provide a fix mid iteration.  Distributions that increment the release number represent a rollup of all new content since the previous release distribution.  The frequency of releases distributions is determined by the community sprint cycle and is typically every 4 and 6 weeks.  
+Zowe distributions are given a version, release, and modification number. Zowe 1.11.1 is version one, release 11, and modification one.  Zowe distributions are sequential, so 1.11.2, 1.12.0 or 2.0.0 are all later software distributions than 1.11.1.  
 
-Distributions that increment the version number represent a change in the support relationship that a customer using Zowe or a vendor extending Zowe has with the underlying Zowe distribution.  Each Zowe version is associated with a conformance program that determines the contract an extender of Zowe has with the base Zowe distribution.  If an extension has achieved the criteria for Zowe version *n* conformance, then that extension will continue to work unmodified with all subsequent release or modification distributions within the same version n. Version n+1 will have new conformance criteria and a vendor product conformance with version *n* may need to be modified to  continue to work with *n+1*. 
+- Distributions that increment the modification number are created when the community recognizes the need to provide a fix mid iteration. 
+- Distributions that increment the release number represent a rollup of all new content since the previous release distribution.  The frequency of releases distributions is determined by the community sprint cycle and is typically every 4 and 6 weeks.
+- Distributions that increment the version number represent a change in the support relationship that a customer using Zowe or a vendor extending Zowe has with the underlying Zowe distribution.  
+
+Each Zowe version is associated with a conformance program that determines the contract an extender of Zowe has with the base Zowe distribution.  If an extension has achieved the criteria for Zowe version *n* conformance, then that extension will continue to work unmodified with all subsequent release or modification distributions within the same version *n*. Version *n+1* will have new conformance criteria and a vendor product conformance with version *n* may need to be modified to continue to work with *n+1*. 
+
+### Version timeframe, Current, Active, Maintenance LTS 
+
+New Zowe versions will enter **Current** release status for 6 to 9 months to allow consumers of Zowe to test, provide feedback, and adjust to any changes.  
+
+After the Current release phase, Zowe will move to **Active LTS** status and will be deemed ready by the community for general use. Active LTS will have additional releases with both fixes and enhancements. 
+
+Following a period of Active LTS, Zowe will enter **Maintenance LTS** for fixes only. 
+
+The combination of Active LTS and Maintenance LTS release is designated as "long-term support”, which provides two guarantees:
+- Critical defects will be fixed. The criteria for what constitutes a critical defect is covered in [Which defects are deemed critical to fix in LTS](#which-defects-are-deemed-critical-to-fix-in-lts). 
+- Extenders who achieve Zowe conformance for the long-term support version will not need to modify their product for it to remain functional when the Zowe community provides distributions within the release or modification level boundary within the same version.  
+
+The length of Active LTS may vary but **the total time period of Active LTS + Maintenance LTS will be at least 24 months**. 
+
+Production applications should only use Active LTS or Maintenance LTS releases due to the contract with extender products remaining functional and the community’s commitment to fix critical defects.
 
 ### How many active distributions at a given time?
 
-There will be only one Active LTS distribution at a given time. The dates of when current distribution switches to Active LTS and to Maintenance distribution will vary depending on the judgment of the Zowe community. The open community will be given at least 30 days notice of intent to declare and Active LTS or Maintenance distribution. 
+There will be only one Active LTS distribution with new enhancements at a given time. The dates of when current distribution switches to Active LTS and to Maintenance distribution will vary depending on the judgment of the Zowe community. The open community will be given at least 30 days notice of intent to declare an Active LTS or Maintenance LTS distribution. 
 
 A new current distribution that increments the version number of Zowe will be declared when there is a change impacting consumers of Zowe that the community needs.
 - feedback on a new architectural direction that deprecates the prior version and/or 
@@ -63,13 +73,13 @@ A new current distribution that increments the version number of Zowe will be de
 
 Once an Active LTS is declared, it is the community's intent to maintain compatibility for APIs, CLI plug-ins and Application Framework applications within the same version. The intent is for any extensions that have achieved Zowe conformance status for the Active LTS version, to run without changes from one release in a version to the next. 
 
-In current phase only, a new Zowe version may introduce a change that will limit prior extensions or cause them to become inoperable without the extension requiring modification.  This could be in the form of documentation, scripts or code requiring the extending offering to update their software. The Zowe community expects this to be a rare occurrence. If it does occur, the required changes to the extension will be communicated during a Current Release and Zowe extenders and consumers will be given at least 90 day notice of the required change.  All extensions who have Zowe conformance will be explicitly contacted and other communication will be made through mailing lists, slack, and other public channels. 
+A new Zowe version may introduce a change that will limit prior extensions or cause them to become inoperable without the extension requiring modification.  This could be in the form of documentation, scripts or code requiring the extending offering to update their software. The Zowe community expects this to be a rare occurrence. If it does occur, the required changes to the extension will be communicated during a Current Release and Zowe extenders and consumers will be given at least 90 day notice of the required change.  All extensions who have Zowe conformance will be explicitly contacted and other communication will be made through mailing lists, Slack, and other public channels. 
 
-Changes affecting compatibility between version boundaries will be documented in each Zowe distribution and where possible warning messages will be generated to indicate the need to perform the recommended changes. Migration assistance will be provided where possible either in the form of documentation or utilities.  The Zowe conformance program will provide more detail on these changes.  
+Changes affecting compatibility between version boundaries will be documented in each Zowe distribution and where possible warning messages will be generated to indicate the need to perform the recommended changes. Migration assistance will be provided where possible either in the form of documentation or utilities. The Zowe conformance program will provide more details on these changes.  
 
-### Which defects will be fixed in Maintenance?
+### Which defects are deemed critical to fix in LTS?
 
-It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance release, so this is not to be used as an exhaustive list.  Criteria that are considered include: 
+It is difficult to pre-determine all the conditions that will determine when a fix will be created for a Maintenance LTS release, so this is not to be used as an exhaustive list. Characteristics of what is considered a “critical” bug or defect include: 
 - Unexpected downtime occurs or unacceptable performance
 - No viable workaround can be provided through configuration workarounds
 - Data corruption
@@ -77,7 +87,7 @@ It is difficult to pre-determine all the conditions that will determine when a f
 - Security vulnerabilities that compromise data or system integrity
 - Critical business function is affected
 - A fix can be made available without incurring a greater risk of introducing additional defects
-- Wherever possible extenders and customers are encouraged to move from Maintenance to Active LTS versions of Zowe to keep up to date with defect fixes and new features
+
 
 ## How to generate a release
 
