@@ -48,7 +48,7 @@ All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.open
 
 # Zowe sub-projects
 
-The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community Teams](https://github.com/zowe/community#zowe-community-teams).
+The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community](https://github.com/zowe/community).
 
 # Processes and procedures
 
