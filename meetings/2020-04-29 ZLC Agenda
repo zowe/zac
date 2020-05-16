@@ -1,0 +1,31 @@
+1) V1 Conformance Criteria is merged !! Thanks for Joe/Rose and others to make this happen 
+  https://github.com/openmainframeproject/foundation/blob/master/zowe_conformance/test_evaluation_guide_table.md
+  Some questions: 
+    - Request to OMP for some rearranging of the Conformance badge web page to show V1 badges
+    - How/when will 2019 badge holders to contacted - is there something we (Zowe community) can do to help other than advertise
+    the new V1 program 
+    
+    Related discussion: V1 badge is "MVP" for V1 - we still need to work on how to credit exploiters of SSO, MFA, etc. My suggestion was
+    to make this part of the yet-to-be-design "app store"..(gold stars, check boxes?)...do we need to step up design/creation 
+    of this? Working group? Use new TSC?   
+    
+2) Any objections to now publishing the LTS description? 
+    - https://github.com/zowe/zlc/pull/164/files
+    - https://github.com/zowe/zlc/issues/72 
+    
+3) OMP Marketing offering dedicated Zowe session (see email to the ZLC team) - need to select dates, participants, etc. - who wants to 
+      own/lead? 
+        roughly 45 minutes with 5 min intro and 10 mins Q&A
+        speakers are (I suggest 3 or 4 at max), a brief description and the date/time that works.
+        Needed by May 4th 
+
+4) Let's scan through the ZLC issues https://github.com/zowe/zlc/issues
+    Some items to note: TSC formation, Support Provider Conformance Program, How to Strengthen Squads 
+    
+5) OMP provides license scans on ad hoc basis - many thanks to Mark A for responding - I have suggest to OMP they create a 
+distribution list of the Zowe PMs (who I think typically deals with license issues) and include them in the email that currently
+goes to OMP private - anyone have issue with this? 
+
+And anything else folks want to discuss.....
+    
+    
