@@ -13,7 +13,7 @@ The Zowe Leadership Committee (ZLC) oversees all code development and release ma
 *	Create and maintain development iteration criteria and release train to drive framework development and deployment
 *	When required, vote on revoking commit rights
 
-The ZLC is composed of six (6) members of the Zowe community. Initially IBM, CA Technologies, and Rocket Software have each nominated two individuals to serve on the ZLC while the Zowe community builds committer diversity, for a term that will end by January 31, 2020.
+The ZLC is composed of six (6) members of the Zowe community. Initially IBM, Broadcom (fka CA Technologies), and Rocket Software have each nominated two individuals to serve on the ZLC while the Zowe community builds committer diversity.
 
 To qualify for nomination to serve on the ZLC, the individual must be a committer on a Zowe sub-project. No more than 2 individuals on the ZLC can be afflilated with the same company.
 
@@ -21,12 +21,24 @@ To qualify for nomination to serve on the ZLC, the individual must be a committe
 
 All members of the Zowe community are welcome to participate in meetings and discussion on the Zowe project. For matters requiring a vote of the ZLC ( such as approving a new sub-project or approving a Zowe release ), the following individuals are considered voting members of the ZLC:
 
-- Matt Hogstrom, Chairperson
+1 Year Term ending February 26th 2021:
+
+- Bruce Armstrong, Interim Chairperson
+- Sujay Solomon
+- Peter Fandel
+
+2 Year Term ending February 26th 2022:
+
 - Mark Ackert
-- Jean-Philippe Linardon
 - Sean Grady
-- Bruce Armstrong
+- Joe Winchester
+
+
+Former ZLC Voting members
+
 - Jean-Louis Vignaud
+- Matt Hogstrom
+- Jean-Philippe Linardon
 
 Terms and election process is defined in the [project structure](process/structure.md) guidelines.
 
@@ -37,20 +49,6 @@ All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.open
 # Zowe sub-projects
 
 The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community Teams](https://github.com/zowe/community#zowe-community-teams).
-
-## Incubation
-
-* *None*
-
-## Active
-
-* [Zowe API Mediation layer](https://github.com/zowe/community#zowe-api-mediation-layer)
-* [Zowe CLI](https://github.com/zowe/community#zowe-cli)
-* [Zowe App Framework](https://github.com/zowe/community#zowe-app-framework)
-
-## Emeritus
-
-* *None*
 
 # Processes and procedures
 
