@@ -1,0 +1,31 @@
+Bruce Armstrong armstrob@us.ibm.com via lists.openmainframeproject.org 
+	
+Wed, Oct 30, 2019, 8:21 AM
+	
+to zowe-zlc
+Zowe ZLC - Working meetings -  https://zoom.us/j/935375531
+Wed 10/30/2019 9:00 AM - 10:00 AM eastern time zone 		
+
+
+Although Matt will be back today, I will host the call
+
+Topics:
+
+1) I made final tweaks to LTS slides - if we agree on policy - I recommend a vote either today or via email to close this issue out. See https://github.com/zowe/zlc/issues/72for latest info
+
+2) Squad leads were emailed to ask their opinion on when LTSR tagged items in backlog could be done in 2020 to target Maintenance LTS - hopefully we can discuss target and/or roadblocks or trade-offs
+ 
+LTSR items - Review this link if you have installed the Zenhub plugin
+https://github.com/zowe/community#workspaces/community-5c93e02fa70b456d35b8f0ed/board?labels=ltsr&repos=145870120,143049506,151615191,141316148,155383451,144600062,144619729,144599701,151624320,162463317,144592776,152270012,144595426&showPipelineDescriptions=false
+ 
+3) I can give brief update on Share - Sunday session will be published when Share sessions is published - registration for Sunday session will be via Share. I have confirmed Share adheres to GDPR.
+
+ https://forms.gle/KwbWgczD3fAFLdsB8
+
+4) Any updates re Hack-a-thon
+
+5) Share session tomorrow for ZLC awareness https://smithbucklin.zoom.us/webinar/register/450042881
+
+6) OMP session https://www.openmainframeproject.org/event/zowe-use-cases-for-mainframe-for-modernization
+
+And any other items the ZLC wants to discuss.........

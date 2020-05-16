@@ -1,0 +1,6 @@
+00:07:57	Joe Winchester:	Regarding conferences - IBM Tech University which was paid for in Amsterdam and Florida this April has gone virtual and is free.  https://www.ibm.com/services/learning/V121124X38019M30.  There is a Zowe session May 28th with myself and Jordan Cain down - happy to co-present virtually with anyone else
+00:12:24	Sujay Solomon:	https://lists.openmainframeproject.org/g/zowe-dev/ics/3109196/317992940/feed.ics
+00:12:41	Nick:	https://lists.openmainframeproject.org/g/zowe-dev/calendar?calstart=2020-04-06
+00:31:35	Joe Winchester:	Will the new program be 2020 or will it be v1 ?
+00:32:05	Joe Winchester:	The badge has already been updated to say 2020 - which implies it will rev in 2021
+00:46:57	Joe Winchester:	URL for a 2020 badge logo already created.  https://github.com/openmainframeproject/artwork/blob/041c6e5fa9838021c025743278a8d37352156a31/other/zowe-conformant/zowe-conformant-2020-apimediation-black.svg

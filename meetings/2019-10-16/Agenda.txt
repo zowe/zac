@@ -1,0 +1,14 @@
+I will be hosting ZLC call today in Matt's absence - proposed topics
+
+1) Review with the squads of their items for LTS and possible target for completion
+
+Use this link if you have installed the Zenhub plugin
+https://github.com/zowe/community#workspaces/community-5c93e02fa70b456d35b8f0ed/board?labels=ltsr&repos=145870120,143049506,151615191,141316148,155383451,144600062,144619729,144599701,151624320,162463317,144592776,152270012,144595426&showPipelineDescriptions=false
+
+2) Review DRAFT support policy announcement - posted in the ZLC issue:  https://github.com/zowe/zlc/issues/72(Note in the draft policy I have an "optional paragraph" regarding the use of configuration "switch" mentioned last week - we need to decide how/if we want to include this. Also there was a suggestion to product "depreciation warning messages" where possible - do we want to provide that?)
+
+3) Zowe Hackathon planning - discuss when/how/invitees, etc.
+
+4) Proposed Zowe education at SHARE Feb Feb 23rd
+
+I have a feeling this will fill the hour but other topics are welcome - time permitting......
