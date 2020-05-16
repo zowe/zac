@@ -46,9 +46,9 @@ Terms and election process is defined in the [project structure](process/structu
 
 All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
 
-# Zowe sub-projects
+# Zowe Community
 
-The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community](https://github.com/zowe/community).
+The Zowe Community includes Zowe Sub-Project squads and Zowe Operations squads. Learn more about the [Zowe Community](https://github.com/zowe/community).
 
 # Processes and procedures
 
