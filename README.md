@@ -24,7 +24,7 @@ All members of the Zowe community are welcome to participate in meetings and dis
 1 Year Term ending February 26th 2021:
 
 - Bruce Armstrong, Interim Chairperson
-- Sujay Solomon
+- Sujay Solomon 
 - Peter Fandel
 
 2 Year Term ending February 26th 2022:
