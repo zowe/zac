@@ -1,0 +1,36 @@
+
+1) Conformance program status? 
+  I think we agreed to use the Conformance Program web site as place to 
+    a) Show V1 conformance (conformant apps/plugin/API will get a V1 badge) 
+    b) Web site will show apps that have achieved beyond minimum conformance (i.e, SSO and future criteria) 
+    c) We will continue to work on some way to have badges refect more that V1 minimum (either additional badge or tag on V1 badge or other)
+  Where are we with getting this announced? https://github.com/zowe/zlc/issues/176#issuecomment-613703143
+  Can we go ahead and update web site with Conformance ?????
+  
+2) Conformance updates first - then publish LTS description? https://github.com/zowe/zlc/issues/72#issuecomment-596370161 
+We need to be clear with web site updates what diagram to use: https://github.com/zowe/zlc/issues/176#issuecomment-613706381
+
+3) I saw in OMP Marketing meeting mins that Hackathon registration has been extended and there is additional participation
+    There was Linkedin post - is there other actions we can take to grow participation? 
+    Zowe Virtual Hackathon: Registration has been extended to April 30. We currently have teams from IBM, Broadcom, EXL Service and HCL Technologies. 
+    Please encourage your developers to register - final submissions are not due until May 22 so there is plenty of time to get something together. 
+ 
+    FYI - I have session in TDM tommorrow and I will advertise there - BTW I have plagiarized slides from many of you  - thanks in advance
+ 
+4) Status of ZLC working sessions? 
+
+5) Summary of monthly meeting with Marist - z/OS 2.4 system due in May 
+
+6) Any feedback on PI planning review - thanks to Mike B, Elliott, Joe and Sean for review 
+    
+7) Any updates to other issues: https://github.com/zowe/zlc/issues
+
+8) OMP Marketing looking for new chairperson - nominations being accepted 
+
+8) Status of move to LF Jenkins and browser testing ? Don't have permission to view: 
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19021: Enable Build with Parameters option for Zowe Jenkins
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19022: Enabling restrictions on Zowe job access to Zowe committers
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19020: Zowe Cross Browser Test Support
+
+
+  
