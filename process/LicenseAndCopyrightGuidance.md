@@ -20,7 +20,7 @@ Example of an EPL-2.0 only licensed source file:
 **/
 ````
 
-Example of a dual licensed source file undee either the EPL-2.0 or Apache-2.0:
+Example of a dual licensed source file under either the EPL-2.0 or Apache-2.0:
 
 ````
 /**

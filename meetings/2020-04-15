@@ -1,0 +1,40 @@
+Attempting to use Github for meeting agenda rather than box - we will see how bad I screw this up. 
+
+Release 1.10 out - thanks for everyone help - any early adopter feedback? https://docs.zowe.org/stable/getting-started/summaryofchanges.html
+
+Let's review Issues for any updates with focus on two: 
+
+    1) LTS go to market: https://github.com/zowe/zlc/issues/176#issuecomment-613703143
+    
+    2) Squad proposal: https://github.com/zowe/zlc/issues/161 - this is first step for Zowe Explorer and CLI as separate squads 
+      Other proposals to follow on other aspects 
+      
+    Any updates to other issues: https://github.com/zowe/zlc/issues
+    
+    FYI: https://help.github.com/en/github/managing-your-work-on-github/transferring-an-issue-to-another-repository
+    
+    Proposal for new issues: 
+    
+      1) In an internal meeting we briefly discussed the state of backup with github and learned releases are backed up but 
+      other "extended/optional" code is not necessarily backed up - would we agree we need to have someone review the backup practices
+      and make recommendations. We know Marist agreement does not entitle the project to backups but they might accomodate snapshot 
+      backup of key environment. 
+      
+      2) Review diversity on the squads and look at ways to strengthen - how best to measure? - mentor programs?
+  
+Reminder
+
+PI Planning Read out planned for Friday 9:30 Eastern https://zoom.us/j/760257018
+
+OMP webinar for Friday Date Time: Apr 17, 2020 08:00 AM Pacific Time 11:00 am Eastern (US and Canada)
+Topic: Open Source on the Modern Mainframe
+https://www.openmainframeproject.org/event/webinar-open-source-on-the-modern-mainframe
+Please help to promote 
+
+Status of move to LF Jenkins and browser testing ? Don't have permission to view: 
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19021: Enable Build with Parameters option for Zowe Jenkins
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19022: Enabling restrictions on Zowe job access to Zowe committers
+https://jira.linuxfoundation.org/servicedesk/customer/portal/2/IT-19020: Zowe Cross Browser Test Support
+
+
+    
