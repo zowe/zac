@@ -1,0 +1,25 @@
+
+1) Open Mainframe Project webinar tomorrow on Zowe LTS - any final discussions/prep? Panelist have email with how to join? Slides submitted 
+
+2) Can we have brief discussion on Landscape diagram - https://github.com/zowe/zlc/issues/160 - how to reconcile. Proposed diagram 
+slightly different than one used in OMP webinar. 
+    a) Do we have a place to centrally store 
+
+3) V1 Conformance Badges - we are aware some submissions have been made - what are plans for page update? Slacked John this am on 
+reveal plans during/after LTS webinar? 
+    a) There is some debate on when conformant product bundled with other products (i.e., suite) as to whether suite can claim conformance
+    Do we know if On Boarding has taken this into account? 
+    
+4) Let's review ZLC issues https://github.com/zowe/zlc/issues there are some new ones and time sensistive ones 
+    
+    https://github.com/zowe/zlc/issues/187  PI Planning planning - there is Jun 1 working session between ZLC, Squad leads and PMs 
+    - Staffing 
+    - Survey - John indicates OMP obtaining survey monkey account 
+    - ZLC needs to have draft of "Point of View" on priorities. ZLC has working session on Friday - can we iterate on themes for PI (some
+    points mentioned in the OMP webinar slides) 
+      - Finish SSO, 
+      - Test and Document HA, 
+      - Containerization Proof of Concept have been mentioned but I think needs additional guidance
+      - There has been some discussion on "Zowe Explorer in Desktop" (my description) that needs additional discussion on 
+      
+  Any other topics we have time for.......
