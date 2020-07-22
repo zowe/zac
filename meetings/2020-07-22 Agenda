@@ -1,0 +1,34 @@
+
+1) Sync up on SHARE sessions recording 
+  Part 1 - Conformance and Customer Journey (Segus/Software Engineering GmbH) - slides complete recording pending
+      Rose and Roy Boxwell as speakers 
+      Joe and Bruce as additional (silent) speakers on session 
+      
+  Part 2 - Extensions (Dan, Joe and Sean?) - if we could nail down abstract and speakers for submission to Share and 
+  Zowe z/OS extensions patterns -  Zowe is designed from the ground up to be an extensible platform that others can plug their own z/OS API services, 
+  CLI plug ins  and web user interfaces into. This talk will cover the different patterns and the vision to create a Zowe marketplace by which vendors 
+  and others can deliver Zowe conformant z/OS plugins providing APIs or desktop plugins.  Zowe CLI brings several possibilities to automate tasks, 
+  create scripts and easily interact with our systems. 
+  What about if you could create your own plugin for it!? Let's understand how everything happens behind the scene and create your first plugin. 
+  This talk will be useful to 
+  anyone building Zowe z/OS extensions as well as anyone deploying z/OS extensions or wishing to build Zowe z/OS extensions. 
+  
+  Part 3 - Zowe 2020 - Peter, Bruce and Mike D to speak - slides complete - recording Thursday 
+  
+2) Agree to target a 3Q webinar? Create a ZLC issue - Work with OMP for hosting - use this as additional update on Zowe and include ZSS (Joe Devlin) topic we did not
+have time to include in SHARE sessions
+
+3) Brief update on Marist 
+    - They are willing to help with a series of "snap shot" backup (not incremental) 
+    - Performance testing to be coordinated for early Sunday mornings when system workload low 
+    - Willing to help provide us zLinux instance for Docker testing 
+    - More research needed on HA testing - is a coupling facitlity needed? Can one be defined at Marist via "LAPR creation" but who does the work is TBD 
+    
+4) We can run through open issues (if there are any updates or new ones) 
+
+5) Where do we start on ZLC work items? TSC, Vendor Support Conformance?, Other? 
+    In 1.14 I am told "finger print" will be delivered - I think ZLC needs some education on how it works? This is a piece of vendors being able to 
+    know the Zowe distribution is genuine - do we schedule some education? 
+    
+6) Any other topics? 
+  
