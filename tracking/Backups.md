@@ -28,7 +28,9 @@ There are a few areas of infrastructure for Zowe:
 
 ##### z/OS Build Environment
 
-There are two parts to our z/OS build environments, zD&T and z/OS guests. Our zD&T is available as an image which can be redeployed at any point in time. Image storage is unknown; vendor internal. Our z/OS guests hosted by Marist do have snapshot backups, but I do not believe they are regularly created. We should work with Marist to determine if we can automatically snapshot the guests periodically. Loss of z/OS guests would vary in severity based on which guest(s) were lost. 
+There are two parts to our z/OS build environments, zD&T and z/OS guests. Our zD&T is available as an image which can be redeployed at any point in time. Image storage is unknown; vendor internal.
+
+ Our z/OS guests hosted by Marist are set up for monthly snapshot backups. These backups will not allow for incremental restoration / rollback - only the latest snapshot taken is available. Since the z/OS Guest systems change slowly and the only real case for rollback is disaster recovery, this limitation is acceptable.
 
 ##### Jenkins Build Environment
 
@@ -36,11 +38,11 @@ There are two Jenkins build environments currently in use by Zowe, and two aspec
 
 First, we have two Jenkins environments: wash.zowe Jenkins and LinuxFoundation Jenkins (jenkins.zowe). The wash.zoweJenkins system is backed up periodically to Github. The LinuxFoundation Jenkins system is backed up by Linux Foundation team's process.
 
-Second, the Jenkins builds themselves. Jenkins builds in Zowe use declarative or scripted pipelines on the whole, and are stored as code in Github - so they are subject to that backup solution. There are a few builds defined directly within Jenkins itself, and those backups are included in the Jenkins system backup. 
+Second, the Jenkins builds themselves. Jenkins builds in Zowe use declarative or scripted pipelines on the whole, and are stored as code in Github - so they are subject to source code backup backup. There are a few builds defined directly within Jenkins itself, and those backups are included in the Jenkins system backup. 
 
 ##### Zowe Websites
 
-Both Zowe websites, zowe.org and docs.zowe.org, are stored as source code in Github, and deployed by Jenkins jobs. Therefore, both sites are backed up via Jenkins backups and Github source backups.
+Both Zowe websites, zowe.org and docs.zowe.org, are stored as source code in Github, and deployed by Jenkins jobs. Both sites are as a result backed up via Jenkins backups and Github source backups.
 
 ### Odds and ends
 
