@@ -1,0 +1,54 @@
+
+1) Any fires needing brought to the ZLC attention? 
+
+2) There was an IBM sponsored event yesterday that included a Z Open track - anyone attend to give 
+brief summary/review? 
+    https://ibmzday-vconf.bemyapp.com/  
+
+3) Mae sent press release for today to some of us working the "booth" for OMP Summit - here is headline. Not to be
+released until 9am Pacific 
+
+Open Mainframe Project Announces Record Growth with the Launch of Four New
+Projects, a COBOL Working Group and Micro Focus as a New Member
+CBT Tape, GenevaERS, Software Discovery Tool and Mainframe Open Education solidifies
+Open Mainframe Project as a cornerstone for training, enterprise, devops and z/OS
+
+FYI - I am in touch with https://genevaers.org/ chair - z/OS based tool but we have not drilled into any 
+possible Zowe integration yet. 
+
+4) TSC - https://github.com/zowe/zlc/issues/183 - I created a 2nd draft of charter, Peter reviewed and 
+update for clarity (Thanks Peter)
+    - Anyone else get a chance to review ? (Understand Sean is tied up Mon-Wed)
+    - One area of concern was how "Additional Technical Leaders" would be selected for the TSC after
+    the initial appointment of three from ZLC? 
+        - How long is that appointment - I said 1 year
+        - I assume they could be voted to stay (no term limits) 
+        - What if others (other than squad leads) are deserving to be on the TSC - I propose 
+        anyone could be nominated, 2nded and voted on by unamious agreement 
+    - Also see John's comment on voting: change of governance, it would be good to have a consensus 
+    of Zowe Committers. That vote should also include the initial TSC members.
+    - We need to update the list of committers for voting purposes 
+
+5) Project Managers and Squad Leads are looking for feedback from ZLC on 4Q PI Planning - has everyone 
+listened to their plans - any comments we want to offer? Next meeting is tomorrow 10am eastern - can 
+someone cover? 
+- We can preview TSC if we agree on draft charter and ask for feedback? 
+
+ PI Planning input objectives creation (by squads) and you can review them here (click on squad links):
+https://ibm.ent.box.com/notes/712189314183 The meeting recording:
+https://zoom.us/rec/play/zPkZRaESsi9Y61oH0-zkDawPx3991P-kGiCytmUEjLdor0axbPNwcBtxbToiAHNstvFEYll0oh0JqgTd.2AYsqxY4Lut7PWEC?startTime=1599141602000&_x_zm_rtaid=vYGihA98QgK77VCf_L38VQ.1599573486669.3b041a1dab82af160371319f85da324e&_x_zm_rhtaid=238
+
+Agenda for PI Planning: https://ibm.ent.box.com/notes/713879742265
+
+Schedule: Oct 1, 2
+Oct 1 & 2 - Planning (Thursday, Friday)
+Oct 5 - 9 + Monday Innovation (Monday - Friday)
+Oct 13 - First sprint starts on Tuesday
+
+6) Last week John brought forward university students wanting to use Zowe in their security project - 
+I've had one meeting with them and explain a little about Zowe, they obtained their professor's 
+agreement to pursue - I have second meeting today if anyone wants to particiapte. Let me know - 2pm eastern
+
+7) Let's run through open issues - https://github.com/zowe/zlc/issues 
+
+
