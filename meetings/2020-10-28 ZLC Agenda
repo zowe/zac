@@ -1,0 +1,36 @@
+
+1) Any fires needing brought to the ZLC attention? 
+
+2) Adjust of PI Planning dates? Did we get any feedback from PMs or squads re PI prep in December? Do we want
+to move to Jan and make this PI long and shorten the 1Q PI? 
+
+Approved dates: 
+Innovation - 10/6 - 10/12
+Sprint 1 - 10/13 - 10/26
+Sprint 2 - 10/27 - 11/9
+Sprint 3 - 11/10 - 11/23
+Sprint 4 - 11/24 - 12/7
+Sprint 5 - 12/8 - 12/21
+Sprint 6 - 12/22 - 1/4
+
+
+3) Can we close of the TSC proposal - ZLC issue here https://github.com/zowe/zlc/issues/183
+Joe's draft as pull request https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md
+John's revisions https://github.com/zowe/community/pull/795
+
+4) Topic from Mark - I have a topic for our next ZLC meeting - collaboration tools. 
+Some of our squad members are looking for direction on better interactive collab tooling - i.e. using Boxnote 
+or Google Drive.  We discussed this in the past and don't want to revisit every detail, but Github / Wikis 
+fail on interactive collaboration and certainly multimedia collaboration (videos, ppts). 
+Other open source communities use Google Drive (mostly), but I think we were trying to be 
+accommodating to Chinese developers by not using it. Did that evolve at all?
+
+5) Next week's meeting? - and maybe discuss holiday schedule
+Week of Thanksgiving in US: Nov 25th 
+December: 23rd and 30th 
+
+6) Univerity of Nebraska grad students - conversation still going on - working on the threat modeling portion 
+of this project. Given the cadence of this project timeline so far I would estimate that it would be due 
+between November 13th and November 20th. 
+
+7) https://github.com/zowe/zlc/issues if there is time 
