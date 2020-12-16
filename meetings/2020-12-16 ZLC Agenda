@@ -1,0 +1,26 @@
+
+Mike D out (started his vacation) 
+
+1) Joe - any "fires" - do we know the status of 1.18 release? Docker content ready? Note comment below from Zebra team regarding "tricky"
+T&C's. 
+
+2) SHARE - I am told 8 Zowe sessions submitted for Open Source track will be declined. I plan to contact submitters and see if they
+would like to participate in a OMP event. I need to discuss with Mae/Chris/John on the logistics.  
+
+3) Rose - To the ZLC are there survey questions we want to ask? Please use this link: https://ibm.box.com/s/2asdvj0ca6mqkhozumha43dpy7vfn2m5 to the BOX folder.  
+
+4) Future of ZLC https://github.com/zowe/zlc/issues/220  Bruce still to document proposal in issue (holiday to-do) 
+
+5) Zebra update - prepare moving Zebra code/docs to Zowe repository. Security scan was good – 
+just need to add EPL 2.0 /DCO and clarify some more about docker use case since it’s license T&Cs can be tricky 
+so we want to make sure it’s not part of Zebra but just an example.
+
+6) Reminder - no ZLC meeting next 2 weeks - I tried to cancel but my calendar does not process the cancel notice. We will start again 
+Jan 6th. 
+
+7) I am considering a end of year blog on 2020 accomplishements - anyone around next couple days to help? I am thinking we post to 
+Medium and point to via Linkedin. 
+
+Any other topics? 
+
+Everyone have safe and Happy Holidays 
