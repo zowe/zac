@@ -33,4 +33,4 @@ Voting members are defined as:
 
 ## Sub-projects
 
-Sub-projects are expected to build thier own governance structure with community roles aligning with the [role Definitions within sub-projects](roles.md). The ZLC manages the lifecycle of a sub-project using a [defined process](stages.md).
+Sub-projects are expected to build thier own governance structure with community roles aligning with the [role Definitions within sub-projects](roles.md). The ZAC manages the lifecycle of a sub-project using a [defined process](stages.md).
