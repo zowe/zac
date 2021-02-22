@@ -61,6 +61,7 @@ The following are the current sub-projects that are part of Zowe by maturity lev
 * [Zowe API Mediation layer](https://github.com/zowe/community#zowe-api-mediation-layer)
 * [Zowe CLI](https://github.com/zowe/community#zowe-cli)
 * [Zowe App Framework](https://github.com/zowe/community#zowe-app-framework)
+* [Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe)
 
 ## Emeritus
 
