@@ -44,7 +44,7 @@ Terms and election process is defined in the [project structure](process/structu
 
 ## ZAC meetings
 
-All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
+All ZAC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
 
 # Zowe sub-projects
 
@@ -52,7 +52,9 @@ The following are the current sub-projects that are part of Zowe by maturity lev
 
 ## Incubation
 
-* *None*
+* [Zebra](https://github.com/zowe/zebra)
+* [Zowe Mobile](https://github.com/zowe/zowe-on-the-go)
+* [Zowe SDK](https://github.com/zowe/community#zowe-client-sdk)
 
 ## Active
 
@@ -84,4 +86,4 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
 - [Framework Release Process](process/release.md)
 - [License and Copyright guidance](process/LicenseAndCopyrightGuidance.md)
 
-All of these documents have been approved by both the Zowe Leadership Committee (ZLC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZLC at any time.
+All of these documents have been approved by both the Zowe Advocacy Council (ZAC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZAC at any time.
