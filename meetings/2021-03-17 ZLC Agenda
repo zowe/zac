@@ -1,0 +1,40 @@
+
+We learned last week the ZLC call now conflicts with other squad meetings - do we want to consider moving this time slot to 1hr
+earlier? 8am eastern? Other suggestions? 10am eastern does not work due to conflicts. 
+
+1) Anything to discuss regarding Release 1.20? 
+
+2) Reminder SHARE sessions this week - any feedback from event session already held? 
+        Is there a common repo for the various slides? We need to be mindful of Share copyright 
+        In putting together my deck - I was not sure if all squads have process for voting on backlog issues? Is this something we
+        want to encourage for consistency? 
+
+3) Update on Redis from Architect call - 
+- API ML prototype show very good performance for distributed use. 
+- Nothing has been heard from Hostbridge about their plans - email sent to share technical results. 
+- Rocket team did a recent port to z/OS as a possible other option (with minor code changes to Redis). 
+- Hostbridge port sounds to be more "MVS" implementation (using datasets, for example) and Rocket port is USS based. 
+- We had impromptu discussion on whether HA is "core" Zowe (meaning we would bundle/embed Redis assuming all things continue on 
+current path and no licensing issues found.) Any other opinions? At one time we were thinking caching technology would be 
+pluggable - do we make Redis the default and allow other technology to be plugged in (etcd, Hazelcast, ...)
+
+4) Ashley and team have provided preview of the refreshed Zowe.org site -
+ https://deploy-preview-121--condescending-dubinsky-4645a9.netlify.app/
+
+5) Incubator proposal for Workflow WiZard - discuss today on ZLC views and collect any questions. Meeting 10am eastern tomorrow with 
+Paul Spicer. Interested parties welcome to attend - let me know who to add to the invite. I would like to send him questions ahead of
+time. I would like ZLC to vote by mail either Friday or Monday unless someone feels the need for a follow up call. 
+
+6) Any topics from the TSC? 
+
+7) Zowe infrastructure requirements for 2021 - proposed list to the Systems Team - items to be priporitized and discussed with Marist and
+OMP. 
+
+Any other topics? 
+
+Future follow ups
+- PSI 
+- Consolidated events participation 
+- ZLC, TSC and Principles 
+- Support Conformance Criteria 
+
