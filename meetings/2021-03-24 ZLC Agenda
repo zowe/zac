@@ -1,0 +1,40 @@
+
+1) Update from Doc squad - Ashley and Pluto to join first 10 mins for update on Docs 2.0 
+
+2) Still need to decide on new time for ZLC call - let's figure out charter on who will attend and then decide meeting time. 
+
+3) Anything to discuss regarding Release 1.20? 
+
+4) How to close on Workflow WiaZard incubator proposal - questions for BMC? Staffing committment is key. 
+
+My suggestion is we treat them as separate sub-project/incubator initially - Mike D and Bruce A as sponsors. 
+Get code into repos, advertise the incubator and see what customers and ISVs are attracted - they decide on UI technology and 
+seek education from Zowe Desktop and VS Code squads (much like would be done for anyone On Boarding). Acceptance requires 
+Zowe integration including consideration of REST APIs. 
+
+5) PI Planning - kickoff April 6 9am call. 
+
+6) Redis on z/OS - there is a technical call on the 25th - there is a separate call to discuss "business" support of Zowe. 
+
+7) Feedback from SHARE? 
+Box folder with current Zowe Overview PPT:  https://ibm.box.com/s/f840zwx825gxqur00nq1qs5acgsfgrg6 Recommend changing the decks to 
+remove the SHARE template and provide content for reuse. 
+
+8) Any topics from the TSC? 
+
+9) Zowe infrastructure requirements for 2021 - proposed list to the Systems Team - items to be and discussed with Marist and
+OMP. 
+
+Any other topics? 
+
+Future follow ups
+- PSI to be discussed in upcoming PI Planning 
+- ZLC, TSC and Principles charter - next up for rework 
+- Support Conformance Criteria - discussion started 
+
+https://github.com/zowe/community/tree/master/videos has videos with accompanying powerpoint.  
+Also https://github.com/zowe/community/tree/master/Onboarding that has a Zowe overview video.
+
+Box folder with 2021Zowe Conferences Schedule: https://ibm.box.com/s/lv62xl1mp93b0odmg2ctgyrpccvqoeai
+
+
