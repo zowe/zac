@@ -1,0 +1,48 @@
+
+Heads up - I have a customer committment next ZLC (April 21st) - need someone to host or we will need to cancel - we (ZLC) will
+need prep for the PI Planning the following week (see item below) 
+
+1) New https://www.zowe.org/ live - any feedback from outside the core team? I saw LinkedIn post from Ashley (and did "like") - 
+anything more to hype the new site? 
+    - Also see ZLC slack channel - Cathy Chen designed a Zowe Slack bot that could return answers to Zowe related questions 
+    in the Slack channels. She did a demo on the Zowe doc scrum (check out the recording 
+    https://zoom.us/rec/play/cUL1NeJqajF3CGkJmmZ3krKBHWL8RpMHbyruzT4MysPYh50xRX44mZbsiCvftTcGCnjbr9qYu4aSpu2_.JdLLY7i1EGvG1Wor?continueMode=true&_x_zm_rtaid=kMEaAy-0QhGWQHc9A8Witw.1618398970438.b0c1519832b8b9674e9aa5ba3bbba5f3&_x_zm_rhtaid=273 ). 
+    - Plan is to present to Architecture Squad (next week?) 
+
+2) ZLC has been working on Support Conformance criteria - documents and comments need to be merged and taken to TSC for feedback. I 
+have summarized some of the ideas in github issue - https://github.com/zowe/zlc/issues/182 
+
+3) Rose - do we know status of quarterly webinar pre-registations? 
+
+4) I may have complicated the TSC charter by asking what safeguards might be in place for one vendor controlling 2/3 the TSC votes -
+https://github.com/zowe/community/compare/tsc/governance I suggested just documenting no vendor can hold 2/3 the members and appeal to
+ZLC and OMP if it occurs. Squads should be free to vote best qualified person to TSC regardless of vendor. 
+
+5) PI Planning prep - rough outline of ZLC content - 
+- Summary of "state of the business" (Metrics using new zowe.org site) and additional sources (Bruce and others)      
+- A look back on 1Q accomplishements (Mike D) 
+    - Overview of Workflow Wizard UNLESS BMC will cover in incubator status 
+- New role for ZLC and ZAC (if we have new news here) 
+- What we are working on:
+o    Defining incubation process (acceptance and promotion criteria) - promotion a TSC responsibility? 
+o    Setting up a Support Conformance Program
+o    Advising and assisting on boosting z/OS resources
+o    Listening to Zowe corporate consumers
+    - Continued improvements to up-and-running experience – addressed by new doc?
+    - HA/FT 
+    - Containerization (impact to Conformance criteria of z/OS components?)
+    - Packaging (PSI support)
+    - New version messaging/timing 
+
+6) Any update with the Redis work and Hostbridge? 
+
+7) Reminder April 21 OMP Zowe webinar   
+https://zoom.platform.linuxfoundation.org/webinar/register?project=open-mainframe-project&id=eXPxKdIySXfNbA0QgmUkdBcPIHqpoLYApoKM934fSiFKGA4yV8Ch0w%3D%3D&logo=openmainframeproject-color.svg&zoomID=93377880844&sessionid=9507d800-d6a3-4f43-bd91-8d0e7608d2f0
+
+8) Joe/Sean/Bruce - reminder of TDM on April 30th - I think we will have plenty to cover but need to organize demo and any demo we 
+may want to dd. 
+
+Any other topics? 
+
+Box folder (will change) with 2021Zowe Conferences Schedule: https://ibm.box.com/s/lv62xl1mp93b0odmg2ctgyrpccvqoeai
+
