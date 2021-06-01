@@ -1,0 +1,41 @@
+
+Broadcom members are having their own PI Planning this week and will not attend ZLC 
+
+The repeating ZLC calendar invite either expired or was deleted when editted for a special ZLC call - I tried to reestablish the invite
+- knowing conflicts with other squad calls still exist - ZLC needs to find new day and time (TSC to also find new day and time) - 
+we want to coordinate so no conflicts - does anyone know status of TSC reschedule 
+
+Quick recap of past meetings 
+April 21 there was no meeting 
+April 28 was Zowe PI Planning 
+May 5 the following topics were discussed ad hoc 
+- Support Conformance criteria is work in progress 
+- Discussion on Container support being included in LTS - opinion was having container code and config data separated that future
+changes (for Kubernetes or Docker compose) is matter of doc/scripting - discussion needed at squad and TSC meetings 
+- Issue raised on the possible use of Mini-conda and whether IBM would contribute Python - (some internal discussions kicked offed) 
+- Discussion on the fact that some customers don't like the "USS centric" nature of Zowe - seed of an ideas to allow "preview" of 
+install to allow MVS-centric customers to control USS install scripts - has then been captured for TSC consideration? 
+- Workflow wiZard - work in progress 
+- Marist - no news 
+- Plans are to announce the Jetbrains incubator on zowe.org when ready 
+- Next quarterly webinar is July 21st - semi-annual survey needed then 
+
+
+
+ZLC issues needing worked 
+- New role for ZLC and ZAC 
+- Defining incubation process (acceptance and promotion criteria) - promotion a TSC responsibility? 
+- Setting up a Support Conformance Program
+- Assist with Marist - Advising and assisting on boosting z/OS resources
+- Listening to Zowe corporate consumers
+    - Continued improvements to up-and-running experience – addressed by new doc?
+    - HA/FT 
+    - Containerization (impact to Conformance criteria of z/OS components?)
+    - Packaging (PSI support)
+    - New version messaging/timing 
+
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
+
+
