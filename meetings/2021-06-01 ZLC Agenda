@@ -2,6 +2,12 @@
 1) Any comments on Support Conformance? https://github.com/zowe/zlc/issues/182 I think we need to allow TSC some time to decide on the 
 asks we make of them in the criteria - we also need to come to agreement on "core" contents. 
 
+    Process for defining "core" - TSC or ZLC? 
+    Confirm there is authentication process for z/OS, distributed, (and containers)
+    TSC policies and practices (code quality, automated test, doc, etc.) - maybe include practice of 90 day to contribute back and what to do/say about customer validation of a fix
+    How to define an active contributor?
+
+
 2) We have separate issue on core https://github.com/zowe/zlc/issues/170 and we need to decide if this is in ZLC charter, TSC charter or 
 some combination of both. 
 
