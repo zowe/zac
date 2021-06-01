@@ -1,6 +1,7 @@
 
-1) Any comments on Support Conformance? https://github.com/zowe/zlc/issues/182 I think we need to allow TSC some time to decide on the 
-asks we make of them in the criteria - we also need to come to agreement on "core" contents. 
+1) Any comments on Support Conformance? https://github.com/zowe/zlc/issues/182 I think this need to be a voting topic and 
+we need to allow TSC some time to decide on the asks we make of them in the criteria - 
+we also need to come to agreement on who owns the definition of  "core" contents. 
 
     Process for defining "core" - TSC or ZLC? 
     Confirm there is authentication process for z/OS, distributed, (and containers)
