@@ -1,0 +1,31 @@
+
+1) I propose we (ZLC) vote on the Support Conformance proposal and work with the TSC (where needed) on addressing the open criteria of 
+- What is core
+- Authentication process 
+- and defining active contributors 
+ https://github.com/zowe/zlc/issues/182 
+ I will send voting email out later today for the 6 ZLC members since we are still under the prior ZLC charter 
+
+ 2) See issue on Core https://app.zenhub.com/workspaces/community-5c93e02fa70b456d35b8f0ed/issues/zowe/community/1207 - I think we agreed
+ TSC owns the definition the ZLC should help. ZLC has an old issue https://github.com/zowe/zlc/issues/170 that I propose we close and use
+ the TSC issue on this topic. 
+
+ What is core today - squads and TSC have the authority to grow these components as they see fit (HA, VSAM, Redis,... ) - core = LTS. 
+ - API ML
+ - Desktop 
+ - Zowe Explorer 
+ - CLI ("vendor neutral" extensions) - SCS and FTP
+
+ What is not "core" - incubators, samples, tech preview, vendor specific CLI extensions(?) - how do we view SDKs today?  
+
+ What are the characteritics needed to be come core? Anything other than LTS (doc, included in reqular build, automated test, good 
+ quality - whatever that means) - maybe a implementable separate component with integration? 
+
+3) Future of ZLC https://github.com/zowe/zlc/issues/220 - to align with TSC 
+https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
+
+4) https://github.com/zowe/zlc/issues 
+
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
