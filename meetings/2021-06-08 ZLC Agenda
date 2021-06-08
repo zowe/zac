@@ -11,15 +11,17 @@
  the TSC issue on this topic. 
 
  What is core today - squads and TSC have the authority to grow these components as they see fit (HA, VSAM, Redis,... ) - core = LTS. 
- - API ML
+ - API ML ( pakaged with Desktop) 
  - Desktop 
  - Zowe Explorer 
- - CLI ("vendor neutral" extensions) - SCS and FTP
+ - CLI ("vendor neutral" extensions) - SCS and FTP 
+ - SDK for Node 
 
- What is not "core" - incubators, samples, tech preview, vendor specific CLI extensions(?) - how do we view SDKs today?  
+ What is not "core" - incubators, samples, tech preview, vendor specific extensions(?) - how do we view SDKs today (not LTS)?  
+ Dev tools?
 
  What are the characteritics needed to be come core? Anything other than LTS (doc, included in reqular build, automated test, good 
- quality - whatever that means) - maybe a implementable separate component with integration? 
+ quality - whatever that means - staffing - vendor neutral) - maybe a implementable separate component with integration? 
 
 3) Future of ZLC https://github.com/zowe/zlc/issues/220 - to align with TSC 
 https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
