@@ -1,0 +1,41 @@
+
+1) ZLC vote on the Support Conformance proposal was 5 +1's - Sean - did you have concerns or just too much email? 
+Note Rose suggested some slight rewordings -   https://github.com/zowe/zlc/issues/182  specific entry 
+https://github.com/zowe/zlc/issues/182#issuecomment-859118580 Regarding how community is notified of emergency fixes - Nick working 
+on process
+TSC working on:  
+- What is core as of today - pull request in progress descibing   
+- Authentication process - mostly covered - some RESEACH how to handle for IDE other than VS CODE? 
+- and defining active contributors - Close to complete 
+Once we will in the criteria - need to submot to John and work on Conformance page for Support badge and place on the page - volunteers?
+
+Note: Joe W recommends FTP for CLI and VS Code to be in "core" - I view this as TSC decision. 
+
+ 2) What is core - 3 "components"  What is core today - squads and TSC have the authority to grow these components as they see fit 
+ (HA, VSAM, Redis,... ) - core = LTS. Understood this is subject to change - likely on V2 boundary. 
+ - API ML and Desktop (packaged together on downlaod page) 
+ - Zowe Explorer 
+ - CLI ("vendor neutral" extensions) - SCS and FTP?  
+ - SDK for Node TBD 
+
+ What are the characteritics needed to be come core? Anything other than LTS (doc, included in reqular build, automated test, good 
+ quality - whatever that means - staffing - vendor neutral) - maybe a implementable separate component with integration? 
+
+3) Future of ZLC https://github.com/zowe/zlc/issues/220 - to align with TSC 
+https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
+
+4) https://github.com/zowe/zlc/issues - added Certification Testing https://github.com/zowe/zlc/issues/225 
+
+5) July 21 quarterly webinar - topics? Survey? Pre-reqs? Do we want to socialize to drive up attendance 
+
+6) Misc items  
+- 1.22 ready 
+- Updated zowe.org to follow 1.22 release 
+- HA with shared VSAM is to be tech preview - looking for sponose users - I have reached out to GTS 
+- How to quantify VSAM use case and what to say about redis for the future? 
+- I've learned Interskill to issue updated Zowe Badge - I will pass along when I know more (unclear what content they chose to update)
+- https://events.microfocus.com/pluginsforchangeman 
+
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
