@@ -1,0 +1,35 @@
+
+- Peter out this week and next 
+- Need to wrap up today's call a little early for another call 
+
+1) July 21 Webinar planning - 
+- Focus Topic: Zowe Explorer Team Configuration
+- New conformance programs (Support & Explorer), the "upvoting" approach the squads have adopted and the typical upcoming events
+- Request out to MicroFocus and Segus 
+- Maybe shout out on new doc site since it should be live then? 
+- I assume 1 slide on Support Conformance - maybe treat as "request for comments"? 
+- Status of survey questions? Is thelp needed? 
+
+2) Request sent to Dan Jast and Sujay asking for Zowe sessions accepted for Share - do we have a merged list somewhere. 
+
+3) Work continues on future of ZLC. Working session last week on how to differentiate the role with TSC.  
+ https://github.com/zowe/zlc/issues/220 - to align with TSC 
+https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
+
+4) 
+
+5) https://github.com/zowe/zlc/issues - added Certification Testing https://github.com/zowe/zlc/issues/225 
+
+
+
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
+Share Zowe titles in open track: 
+- How Zowe made the mainframe open, simple, and familiar
+- What's New with Zowe CLI?
+- Configuring Zowe CLI with New Team Configuration
+- Top 5 (and more...) reasons customers modernize with Zowe's API Mediation Layer
+- Using a Zowe CLI Plugin to manage mainframe developer workspaces
+- DIY: Zowe Explorer Starter Kit
+- From GitHub to Deploy - Using Zowe to Automate Your Build And Packaging Process 
