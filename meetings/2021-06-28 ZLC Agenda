@@ -1,0 +1,50 @@
+
+- Peter out this week and next, Mike D has conflict next week, I will likely be off  
+- I propose we cancel the ZLC call for July 6th due to the USA July 4th (5th) holiday and many people likely to be off 
+
+1) July 21 Webinar planning - 
+- Appears Microfocus will speak 5-10 mins on CLI plug-in - any reply from Segus? 
+- 1 slide on Support Conformance posted in issue https://github.com/zowe/zlc/issues/182 
+- Status of ZLC survey questions - 
+        I added one on Support Conformance? Need additional ideas. 
+        https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
+        - Other squads: https://ibm.box.com/s/8haadp94pvoto8d60v0osu51m0ccx4o0
+
+2) PI Planning is coming up - ZLC input? https://ibm.ent.box.com/notes/825858992881 
+            - Close of current hills
+                - Containerization with Kubernetes 
+                - V2 and all that entails (Dev, Conformance, new FMID,...)
+                - Finish HA (with Redis) 
+            - Future hills
+                - Improved install/config - especially with security (MFA, Certificates, ....) 
+                - Chat as the next user interface technology?  
+                - Request for built in NPS instrumentation 
+                - Education/certification (needed for Support Conformance) 
+        
+        21PI3 Joint PI Planning Preparation Kickoff Meeting
+        Date/TIme: Jul 7, 2021 09:00 AM Eastern Time (US and Canada)
+        PI Planning Meeting: 2021/07/28 - 2021/07/30
+        Wednesday, July 28 - Planning (Day 1)
+        Thursday, July 29 - Planning (Day 2)
+        Friday, July 30 - Planning (Day 3)
+
+3) Summary of lessons learned from Node team? (My parapgrasing)  New version every two years if that is what your consumers can absorb. 
+Don't worry about marketing hype. Deprecate with warning messages. Issue a Security-only mod release if needed at a predictatble time 
+that changes default behavior if needed. 
+
+4) Michael Dawson (Node Community) mentioned vendors of node providing input to their community - he's willing to do a second call 
+with the ZLC as we sort out our new charter. Some suggestions: 
+https://github.com/nodejs/TSC/blob/main/Strategic-Initiatives.md 
+https://github.com/nodejs/user-feedback
+https://github.com/nodejs/next-10  
+
+5) Interskill did announce the new Zowe badge https://interskill.com/course-catalog/Zowe-Fundamentals.html 
+
+6) Work continues on future of ZLC. Working session last week on how to differentiate the role with TSC.  
+ https://github.com/zowe/zlc/issues/220 - to align with TSC 
+https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
+
+7) https://github.com/zowe/zlc/issues 
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
