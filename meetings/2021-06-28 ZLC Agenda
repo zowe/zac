@@ -3,20 +3,27 @@
 - I propose we cancel the ZLC call for July 6th due to the USA July 4th (5th) holiday and many people likely to be off 
 
 1) July 21 Webinar planning - 
+July 21 Quarterly Webinar registration link:  https://zoom.us/webinar/register/WN_8-Ktj-0NQYeA1RGXA-dhXQ
+
 - Appears Microfocus will speak 5-10 mins on CLI plug-in - any reply from Segus? 
 - 1 slide on Support Conformance posted in issue https://github.com/zowe/zlc/issues/182 
 - Status of ZLC survey questions - 
         I added one on Support Conformance? Need additional ideas. 
+        Mike - something on PSI? 
+        MFA adoption? Might drive need for proposed hill below 
         https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
         - Other squads: https://ibm.box.com/s/8haadp94pvoto8d60v0osu51m0ccx4o0
 
 2) PI Planning is coming up - ZLC input? https://ibm.ent.box.com/notes/825858992881 
             - Close of current hills
                 - Containerization with Kubernetes 
+                - Certificates 
                 - V2 and all that entails (Dev, Conformance, new FMID,...)
                 - Finish HA (with Redis) 
             - Future hills
                 - Improved install/config - especially with security (MFA, Certificates, ....) 
+                - What is next after CII certification - OpenSSF is the eventual replacement for CII.
+
                 - Chat as the next user interface technology?  
                 - Request for built in NPS instrumentation 
                 - Education/certification (needed for Support Conformance) 
@@ -30,7 +37,9 @@
 
 3) Summary of lessons learned from Node team? (My parapgrasing)  New version every two years if that is what your consumers can absorb. 
 Don't worry about marketing hype. Deprecate with warning messages. Issue a Security-only mod release if needed at a predictatble time 
-that changes default behavior if needed. 
+that changes default behavior if needed. Look at zowe-dev for more info 
+https://openmainframeproject.slack.com/archives/CBW5ET69G/p1624877092021600
+ Note: LTS yearly - 18 months to migrate - total lifespan 30 months 
 
 4) Michael Dawson (Node Community) mentioned vendors of node providing input to their community - he's willing to do a second call 
 with the ZLC as we sort out our new charter. Some suggestions: 
