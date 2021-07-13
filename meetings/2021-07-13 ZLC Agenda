@@ -11,13 +11,13 @@ No meeting last week - I hope everyone enjoyed some time off
         - Added a link that defines "core" (TSC has voted - 
         https://github.com/zowe/community/blob/master/Technical-Steering-Committee/release.md#the-core-attribute) 
         - Pointer to definition of active contributor - do we also point to TSC charter? 
-        - Question - Series Manager defined somewhere in the TSC charter? I assume it means John Mertic as Series Manageer for OMP/LF? 
+        - Question - Series Manager defined somewhere in the TSC charter? I assume it means John Mertic as Series Manager for OMP/LF? 
 
 3)  Status of ZLC survey questions - 
         I added one on Support Conformance? Need additional ideas. 
         Mike - something on PSI? 
         MFA adoption? Might drive need for proposed hill below 
-        Do we want to ask something about V2? Maintenance planned for 2 years? Is that acceptable? 
+        Do we want to ask something about V2? Maintenance planned for 2.5 years? TSC to ask question re new version  
         https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
         - Other squads: https://ibm.box.com/s/8haadp94pvoto8d60v0osu51m0ccx4o0  
 
@@ -29,13 +29,14 @@ No meeting last week - I hope everyone enjoyed some time off
                 - Finish HA (this PI with Redis in future) 
             - Future hills
                 - Improved install/config - especially with security (MFA, Certificates, ....) 
-                - What is next after CII certification - OpenSSF is the eventual replacement for CII. Sorry Mark - I recall you 
-                commenting on this but I could not find the words - may have rolled off slack. 
-
+                - What is next after CII certification - is there something else? (COLI) 
+                        Security team action? 
                 - Chat as the next user interface technology?  
                 - Request for built in NPS instrumentation?
                 - Education/certification (needed for Support Conformance)? 
                 - Sysplex enablement of Marist? New Z box? 
+                - Accessibility for Zowe 
+                - Code page/DBCS? BiDi? 
         
         21PI3 Joint PI Planning Preparation Kickoff Meeting
         Date/TIme: Jul 7, 2021 09:00 AM Eastern Time (US and Canada)
