@@ -1,16 +1,22 @@
 
-8/24/21 
+8/31/21 
 
-1) Support Conformance program update - feedback from OMP legal 
+Bruce out next week - someone else want to chair meeting? 
 
-2) ZLC dissolve - 5 of 6 votes votes returned (does hold out have concerns {8-)....)
+1) Support Conformance program update - edits made based on OMP concerns - proposal resubmitted, answered John's questions via email 
+and (I think) is back in queue for OMP to review 
 
-3) ZAC charter - DONE - I think - https://github.com/zowe/zlc/issues/220 however Bruce has conflict to discuss at the upcoming 
-TSC this week - can someone else represent? 
+2) TSC (Jakub) to discuss security reporting process 
 
-4) Survey questions - call them done? please review    
-        https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
+3) ZAC charter - TSC to vote? 
 
+4) Status of V2 planning? How about ZAC and TSC build a deck and maybe a series of blogs (one per squad) on
+"Zowe V2 What It Means to You"? 
+        - I recall there is a git issue listing the planned changes? 
+
+5) Learned from Ashley the doc chatbot is to go live this week (delayed due to needing to reteach Watson after doc web site changed) 
+
+Any dicussion needed on survey questions - https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
 
 ZAC members - do we want to have a working session? 
 Blog on ZLC to ZAC https://github.com/zowe/zlc/issues/230 
