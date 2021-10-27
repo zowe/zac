@@ -1,6 +1,6 @@
-10/26/21 
+11/02/21 
 
-Actions from last week:
+Actions from last week: (PI week so last meeting was 2 weeks ago)
 
     - <see Oct-19 minutes>
     - Peter to review #228 - did not have time ...repeat action
@@ -16,6 +16,10 @@ Agenda items
   
 2) Review latest security principals document - https://github.com/zowe/community/pull/1242
   - In particular to what extent can/should we commit (legally) to the principles
+  
+3) HA/FT
+    - Test data?  How tested? Results?
+    - Validation by exploiting products
   
 x) Initiatives updates
 
