@@ -9,10 +9,21 @@ Actions from last week: (PI week so last meeting was 2 weeks ago)
 Agenda items
 
 1) Zowe Roadmap
-  - How does an open-source project roadmap differ from a commercial product roadmap?
-  - Any differences in who defines the roadmap?
-  - Any differences is review process?
-  - Any differences is time span?
+  - What are the inputs to the ZAC's roadmap?
+    - Internally sourced from ZAC
+      - Vision driven
+      - Customer asks
+      - Member informed bets
+    - Externally sourced from community
+      - GitHub asks
+      - Squad/TSC suggestions
+      - Hackathons
+      - Survey results
+  - Where do we store the ZAC's roadmap (such as it is)?
+  - Where do we aggregate/store the inputs to the roadmap
+  - Roadmap ownership - does one person hold the pen?
+  - Roadmap horizon - 1yr?  3yrs?
+  - Roadmap update frequency - quarterly with each PI?
   
 2) Review latest security principals document - https://github.com/zowe/community/pull/1242
   - In particular to what extent can/should we commit (legally) to the principles
