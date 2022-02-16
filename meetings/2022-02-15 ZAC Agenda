@@ -2,22 +2,26 @@
 
 Agenda items
 
-1) Review actions from last week minutes
-   (These will each be covered as part of the list of agenda topics)
-  - 
-  
-2) Initiatives updates
-     
-  a) Preparing for Zowe V2 - 
-     i. QUICK checkpoint on V2 preview status
-     ii. Office hours Feb 9 was a general session, Rose presented
-     iii. Next office hours Feb 16 will feature the API ML
-     
-  b) Zowe Chat - any progress on the IBM team side?
-     
-  c) Silver Membership Requirement for Conformance
+Bruce A was host - agenda was free form - see recording or transscript for contents: 
 
- 3) Review ZAC issues in github
-    (Mike updated everal github issues last week)
+Summary
 
-Future agenda items:
+1) Prep for SHARE - Peter and Bruce need to provide V2 summary (Bruce for TDM) 
+- Peter to reconnect with SHARE on his mini session on V2 announce 
+- Bruce provided Peter last email he had on topic - Ed Jaffe of Phoneix Software to chair track kick off 
+
+2) Tech preview of V2 z/OS components due this week and posted to vNext download 
+
+3) Discussion on V1.28 planned - should be the last "new feature" and fixes release of V1 then V1 in maintenace mode - frequency of maintenance releases debated a little - critical fixes will be done on demand (TSC decision) 
+
+4) Architecture squad Feb 22 will have guest speakers on install/config process 
+
+5) Some discussion on growing squads 
+- Proposals coming to the TSC on ZSS changes and Intellij 
+- Bruce pointed out Zowe Chat in the future hope to evolve into a squad 
+- Sean mentioned maybe System squad needs to divide into System (CI/CD) and "Up and Running" squad 
+- Bruce asked if we are getting too big for current structure - do we need to rethink 
+
+6) Bruce tossed out the idea of Zowe Face to Face later this year for Zowe team to get together (still do 
+SHARE Day but in addition a Zowe "working session") - topic tabled for now 
+
