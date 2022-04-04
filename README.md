@@ -38,7 +38,7 @@ The ZAC will operate on a consensus basis in all decisions.  The roles on the ZL
  
 ## Charter Updates 
 
-The charter of the ZLC may be changed by unanimous agreement of the ZLC. 
+The charter of the ZAC may be changed by unanimous agreement of the ZAC. 
 
 Terms and election process is defined in the [project structure](process/structure.md) guidelines.
 
