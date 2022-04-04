@@ -1,0 +1,59 @@
+
+Peter F has conflict for today 
+
+1) We have gotten back to BMC regarding Workflow WiZard incubator - small meeting planned for next week to get the ball moving on next steps. I 
+have recommended we hold off announcing anything until we are better prepared for questions/positioning, etc. Mike D will be 
+focal point - please direct any questions/issues to him. (We will draft a checklist of items to consider for bringing them on.) 
+For now we will consider them a separate squad until we figure out their roadmap. 
+
+2) Joe and I had interesting call with large UK bank this morning - audience was mix of "hard core" ISPF users and some 
+"next gen" sysprogs. Their PCs are very locked down so CLI and Zowe Explorer did not resonate with ISPF advocates - there is 
+interest in CLI on USS. What is our position on CLI on USS? 
+
+3) Reminder April 21 OMP Zowe webinar - Rose do you have what you need? Do we need to drive up registation? 
+https://zoom.platform.linuxfoundation.org/webinar/register?project=open-mainframe-project&id=eXPxKdIySXfNbA0QgmUkdBcPIHqpoLYApoKM934fSiFKGA4yV8Ch0w%3D%3D&logo=openmainframeproject-color.svg&zoomID=93377880844&sessionid=9507d800-d6a3-4f43-bd91-8d0e7608d2f0
+
+4) PI Planning - kickoff April 6 9am call. Many thanks to Jakub to get is started considering themes - I ASSUME current ZLC will 
+still want to provide a "point of view" on priorities? Do we want a working session to discuss?  
+
+        Security
+            Finding and resolving security related issues earlier and more often
+            Provide deeper integration with the MF security concepts
+        Resilience
+            Highly available Zowe
+        Ease of Use
+            Simple installation for testing purposes
+            Clear installation process and prerequisites for production setup
+            Well tested and documented upgrade route
+        Agility
+            Frequency of releases (Cycle time, Time to market)
+        Feedback
+            Available metrics
+            Communication with users
+
+        For people not aware - new version considerations here
+         https://github.com/zowe/community/wiki/Zowe-release---moving-to-a-new-major-version
+
+5) Hostbridge has asked for Zowe overview - Joe and Bruce to cover tomorrow - this is separate thread from Redis discussion Redis
+call now moved to April 7th 
+
+6) Any topics from the TSC? (Last week we learned 10 students interested in mentorships) FYI - IBM to pitch Zowe to another set of 
+new hire developers in April - possible additional contributors. 
+
+7) Mark - you tried to get a meeting together last week on Zowe infrastructure requirements for 2021 - proposed list to the Systems Team 
+- items to be and discussed with Marist and OMP. Did you want to try again or has the team already taken forward? 
+
+8) Some trival - what is the signifcance of the number 8958 (23,214)? Hint: https://docs.zowe.org/stable/appendix/tpsr.html 
+
+
+Any other topics? 
+
+Future follow ups 
+- ZLC, TSC and Principles charter - next up for rework - final TSC charter? 
+- Support Conformance Criteria - discussion started - draft docs need another round of discussion before wider review 
+
+Box for "scrubbed" SHARE decks https://ibm.ent.box.com/folder/129227214694?s=f840zwx825gxqur00nq1qs5acgsfgrg6 
+
+Box folder (will change) with 2021Zowe Conferences Schedule: https://ibm.box.com/s/lv62xl1mp93b0odmg2ctgyrpccvqoeai
+
+

@@ -1,0 +1,48 @@
+11/02/21 
+
+Actions from last week: (PI week so last meeting was 2 weeks ago)
+
+    - <see Oct-19 minutes>
+    - Peter to review #228 - did not have time ...repeat action
+    - #229 see pull requrest - did not have time   ...repeat action?
+
+Agenda items
+
+1) Zowe Roadmap
+  - What are the inputs to the ZAC's roadmap?
+    - Internally sourced from ZAC
+      - Vision driven
+      - Customer asks
+      - Member informed bets
+    - Externally sourced from community
+      - GitHub asks
+      - Squad/TSC suggestions
+      - Hackathons
+      - Survey results
+  - Where do we store the ZAC's roadmap (such as it is)?
+  - Where do we aggregate/store the inputs to the roadmap
+  - Roadmap ownership - does one person hold the pen?
+  - Roadmap horizon - 1yr?  3yrs?
+  - Roadmap update frequency - quarterly with each PI?
+  
+2) Review latest security principals document - https://github.com/zowe/community/pull/1242
+  - In particular to what extent can/should we commit (legally) to the principles
+  
+3) HA/FT
+    - Test data?  How tested? Results?
+    - Validation by exploiting products
+  
+x) Initiatives updates
+
+  a) Up-and-running
+  b) Containerization
+  c) App stores / Integration with other open source projects/products
+  d) ChatOps
+  e) Medallia
+
+y) Review ZAC issues in github
+
+Future agenda items:
+ - Zowe Innovation Week - discuss results ATF
+ - Survey results - discuss ATF (when?)
+

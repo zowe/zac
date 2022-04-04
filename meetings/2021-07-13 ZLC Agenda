@@ -1,0 +1,85 @@
+
+No meeting last week - I hope everyone enjoyed some time off 
+
+1) July 21 Webinar planning - one week from tomorrow 
+        - Webinar registration link:  https://zoom.us/webinar/register/WN_8-Ktj-0NQYeA1RGXA-dhXQ
+        - Mike D to pitch the Support Conformance proposal, see slide #2 of the deck - https://github.com/zowe/zlc/issues/182 
+
+2) To finish the Support Conformance spreadsheet 
+        - Link to "TSC Engineering Standards, policy and practices" - can we just link to TSC charter? We are saying Support Vendor 
+        needs to recogize the TSC? 
+        - Added a link that defines "core" (TSC has voted - 
+        https://github.com/zowe/community/blob/master/Technical-Steering-Committee/release.md#the-core-attribute) 
+        - Pointer to definition of active contributor - do we also point to TSC charter? 
+        - Question - Series Manager defined somewhere in the TSC charter? I assume it means John Mertic as Series Manager for OMP/LF? 
+
+3)  Status of ZLC survey questions - 
+        I added one on Support Conformance? Need additional ideas. 
+        Mike - something on PSI? 
+        MFA adoption? Might drive need for proposed hill below 
+        Do we want to ask something about V2? Maintenance planned for 2.5 years? TSC to ask question re new version  
+        https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
+        - Other squads: https://ibm.box.com/s/8haadp94pvoto8d60v0osu51m0ccx4o0  
+
+4) PI Planning is coming up - ZLC input? https://ibm.ent.box.com/notes/825858992881 ZLC to provide a slide on "state of the business" 
+            - Close of current hills
+                - Containerization with Kubernetes 
+                - Certificates - do we need to seek help from the z/OS team? 
+                - V2 and all that entails (Dev stream/branch, New Conformance criteria, new FMID, warning messages for depricated items...)
+                - Finish HA (this PI with Redis in future) 
+            - Future hills
+                - Improved install/config - especially with security (MFA, Certificates, ....) 
+                - What is next after CII certification - is there something else? (COLI) 
+                        Security team action? 
+                - Chat as the next user interface technology?  
+                - Request for built in NPS instrumentation?
+                - Education/certification (needed for Support Conformance)? 
+                - Sysplex enablement of Marist? New Z box? 
+                - Accessibility for Zowe 
+                - Code page/DBCS? BiDi? 
+        
+        21PI3 Joint PI Planning Preparation Kickoff Meeting
+        Date/TIme: Jul 7, 2021 09:00 AM Eastern Time (US and Canada)
+        PI Planning Meeting: 2021/07/28 - 2021/07/30
+        Wednesday, July 28 - Planning (Day 1)
+        Thursday, July 29 - Planning (Day 2)
+        Friday, July 30 - Planning (Day 3)
+
+5) Summary of lessons learned from Node team? 2nd call with ZLC tentative Thursday 4pm - pending confirmation - 
+Some suggestions: 
+https://github.com/nodejs/TSC/blob/main/Strategic-Initiatives.md 
+https://github.com/nodejs/user-feedback
+https://github.com/nodejs/next-10  
+
+New version lessons Look at zowe-dev for more info https://openmainframeproject.slack.com/archives/CBW5ET69G/p1624877092021600 and 
+copied below 
+
+6) Work continues on future of ZLC. I think we are coming around to advisory role to TSC. Non-voting. Any vendor/stakeholder welcome. 
+ https://github.com/zowe/zlc/issues/220 - to align with TSC https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md 
+
+7) https://github.com/zowe/zlc/issues discuss how we might establish certification testing? 
+
+8) Submissions for OMP Summit due the end of this week. 
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
+From Node team on new versions: 
+
+Last Thursday we had guests from the Node.js responsible for Release schedule of Node.js. The discussion took first 35 minutes 
+of the TSC call and recording is available here:
+ https://zoom.us/rec/share/4xvkXX7scXWY2J-hSPQqOmkhvIwN3USqFuuvBhTRgbNQEANW1pvvTZdkT-Pvncte.16ymtAl3E9NiWu2I
+Notes from the meeting:
+The current process is in place for 6 years. The Node.js community distinguishes between master (unstable), 
+current(newest features in fast cycle), active(newest features in less frequent cycle) and maintenance(Only security fixes) 
+releases. The timelines are visible here: https://nodejs.org/en/about/releases/
+Current - Basically Beta, happens every 6 months
+Active  - Get features verified in Current for 12 months. Release once as a patch version per month, once a quarter as minor.
+Maintenance - Ad-hos critical updates for 18 months
+The breaking changes are introduced only on the borders of the releases. Meanwhile the breaking changes are kept 
+only in the master branch. They are signalled upfront by marking behavior as deprecated. Deprecation can be added anytime. 
+Once it is added it is aging and usually the feature is removed in next release. The people are notified at least for the first time, 
+when they are about to use deprecated feature. Security related breaking changes are treated as minor change and released in a release 
+containing only the security change. There is an option to stay with the older less secure behavior for some time.
+The predictability of the releases is important part of the support they receive.
+There is an impact on the marketing as some releases contain less attractive features than other releases.
+The Node.js didn't experience strong push towards the prolongation of support after the maintenance of release ended.
+

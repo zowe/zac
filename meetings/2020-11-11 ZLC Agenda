@@ -1,0 +1,53 @@
+
+Thanks Joe for chairing last week - I did listen to the recording - sounds like good discussion and info sharing. I posted the pointer
+to the recording in the meeting agenda file as the record of the discussion. 
+Past Agenda (Recording): https://github.com/zowe/zlc/blob/armstro-patch-4/meetings/2020-11-04%20ZLC%20Agenda
+
+1) Next steps for TSC - follow up to some email discussion 
+    - I think there are actions needing done
+        - Squad votes on initial members of the TCS - https://github.com/zowe/community/blob/master/Technical-Steering-Committee/TSCMEMBERS.csv
+            - Three seats TBD 
+            - Issue of keeping 50% limit from one company 
+        - Clean up of the committers file by the squads for pool of eligible voters - deadline was Nov 6 - I consider this complete 
+            - https://github.com/zowe/community/blob/master/COMMITTERS.csv
+            - I recommend the definition of committer/contributor and the automation of the file be a TSC topic after TSC is formed 
+    - TSC to finalize charter? 
+    - Community to vote on charter? 
+
+2) Google Drive update - I went ahead and added everyone on the ZLC as an editor for the drive. I think the next steps for us 
+are adding squad leads and putting brief guidance in place on Drive contents/organization/use. Thanks, -Mark
+
+3) Zowe.org updates - I want to be sure ZLC is aware of zowe.org site changes https://github.com/zowe/docs-site/issues/1471 
+    - Do we know target date? (See Docker item below)
+
+4) Docker beta planned for 1.18 
+    - Status of code? Target date? 
+        - What I heard last week - Linux Intel and AMD, Linux on Z 
+        - Docker hub and tar file format 
+               - My understanding is there are a couple Docker Hub sites? Maybe Mark can clarify. 
+        - Known limitations - No Keyring support and no HA 
+        - Caching API to be in 1.18 but not yet VSAM (and VSAM does not make sense for Docker anyway) 
+ 
+    - I heard question about how to advertise the beta on zowe.org? 
+
+5) https://github.com/zowe/zlc/issues/217# - Rose - do we need input from squads for topics? Survey? How can we help? 
+
+            Zowe Quarterly Webinar Details so far:
+
+            Date: January 20, 2021 at 1130 ET
+            Registration Link: https://bit.ly/3mbTAwq
+
+            Highlight Topic: TBD
+            Highlight Squad: Proposing DOC SQUAD to review Website Updates?
+
+            General News:
+            Zowe Survey [overview, where to find it? etc.]
+            PI Planning
+            Other Community Events
+            Polls
+            Customer(s) or New Onboarders Spotlight
+
+
+
+6) https://github.com/zowe/zlc/issues
+

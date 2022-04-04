@@ -1,0 +1,33 @@
+
+Comments - I have fixed DCO using github desktop and VS Code (many thanks to 
+Jack Jia and Nick for help) on several of the past meeting agendas but I still need to 
+provide links to past Zoom recordings. I am mentioning this to give heads up that I will 
+need assistance in approving past agendas when I get this complete. (This is one step to address
+the ZLC's meetings in item https://github.com/zowe/zlc/issues/189 ) I'd like ZLC to lead
+by example and then work with the squds on how to improve. 
+
+1) I've asked John Davies to educate us and demo the Fingerprint code in 1.14. This is a piece of 
+Vendor Support Conformance. https://github.com/zowe/zlc/issues/182 
+
+2) Peter has raised issue to be discussed https://github.com/zowe/zlc/issues/211 
+
+3) Full disclosure to the ZLC - Joe W and I have have emails and conversations with OMP intern
+working on a RMF parser. We can discuss if this makes sense for Zowe. Very early stages but
+welcome other opinions on if we are interested. 
+https://github.com/openmainframeproject-internship/Zowe-Parsing-Engine-for-SMF-or-RMF-PP-Reports
+
+4) Zowe metrics reporting - Taylor Donnor is transitioning to a new role and phasing off Zowe. If there
+is anyone interested in getting involved with compiling the metrics report that he has created each 
+month let me know. IBM is looking to have part-time intern help (Elizabeth Guo). 
+
+5) SHARE - any comments on sessions so far? 
+
+6) Thanks Rose for beginning to think about 3Q or 4Q event with OMP - https://github.com/zowe/zlc/issues/210 
+
+7) Open Mainframe Summit - https://events.linuxfoundation.org/open-mainframe-summit/ The virtual event takes place September 16-17 and
+will feature Ross Mauri, General Manager of IBM Z and LinuxONE at IBM; Greg Lotko,
+Senior Vice President and General Manager, Mainframe Division of Broadcom; Brian
+Behlendorf, Executive Director of Hyperledger; and The Linux Foundation’s Jim Zemlin,
+Executive Director, and John Mertic, Director of Program Management.
+
+And anything else folks want to discuss ....

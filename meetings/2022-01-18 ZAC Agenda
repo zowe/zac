@@ -1,0 +1,74 @@
+01/18/22
+
+Agenda items
+
+1) Review actions from last week minutes
+   (These will each be covered as part of the list of agenda topics)
+  - Availability of V2 Server-Side Technical Preview (Sean?)
+  - Readiness for V2 LTS Server-side (Sean?)
+  - Staffing and Leadership for ChatOps (Bruce)
+  - New doc issue for MFA - remaining vendor neutral (Mike)
+  - New issue for ZAC - featuring compatibles vendor offerings (Mike)
+  - PI Planning Business Context (Mike, Bruce, Peter)
+  - Analysis of Survey Results (Rose, Onboarding Squad)
+  
+2) Initiatives updates
+     
+  a) Preparing for Zowe V2 - 
+     i. When do we think we can have the server side ready for LTS?
+     ii. Do we need to shift additional capacity to help?
+     iii. When will we have a working V2 technical preview for extenders?
+     iv. Office hours Jan 12 featured API ML
+     v. Next office hours Jan 19 features Zowe Explorer
+     vi. Press release?
+     vii. Obstacles?
+          
+  b) ChatOps - 
+     i. Staffing and leadership? (Waiting on names from Bruce)
+     ii. Onboarding the technology?
+     iii. Update the slide deck (Bruce/Mike)
+     iv. Other actions?
+     
+  c) Remaining Vendor-Neutral - 
+     i. Zowe MFA documentation explicitly calls out IBM Z Multi-Factor Authentication.  
+        Last week we agreed to:
+        - update the documentation to be ABSOLUTELY clear that Zowe does not endorse or validate commercial offerings (https://github.com/zowe/docs-site/issues/1963)
+        - figure out how to enable vendors to feature compatible solutions that don't align with the conformance program (https://github.com/zowe/zac/issues/237)
+        - explore possibilities for creating a test environment inclusive of those commercial offerings
+        
+   d) PI Planning
+      i. As of Jan 11 there is no plan to alter the PI Planning schedule
+      ii. Will revisit after we have a better idea about V2 LTS readiness
+      iii. ZAC Business context
+           Bruce, Mike and Peter met to discuss content for the presentation:
+           - Zowe Statistics
+           - Focus on V2
+           - Zowe Chat
+           - Up and Running
+           - Need for Decision on Stale Incubators
+           - 21PI4 Accomplishments
+            
+   e)  Survey?
+     i. Analyze results (onboarding squad?)
+     ii. Present results (to either the ZAC or TSC)
+   
+   f) Quarterly Update
+      i. Decision to skip the January quarterly update.
+      ii. Need to communicate to the community soon! (Rose?)
+
+3) Review ZAC issues in github
+
+Future agenda items:
+
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

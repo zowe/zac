@@ -1,0 +1,36 @@
+9/14/21 
+
+Bruce returns this week - Who will chair meeting?
+
+1) ZAC Chair - we have informally discussed introducing a formal rotating chair role - let's write this in stone - who's next?
+
+2) Support Conformance program update
+    - more reviews and feedback have come in - are we any closer to closing this? 
+    - some mockups were shared on how to present on zowe.org web site - thoughts?
+
+3) TSC - discuss whether and how Zowe should diverge from security reporting process guidelines introduced by Jakub
+    - https://github.com/ossf/oss-vulnerability-guide/blob/main/guide.md
+
+4) V2 planning
+    - TSC deck with changes and impact per major component - comments?
+    - Tie-in: Agenda for October Webinar to include V2 as major section - comments?
+    - Is the above enough?  Do we need more like idea for a series of blogs (one per squad) on "Zowe V2 What It Means to You"? 
+
+5) Should ZAC present at quarterly webinar?
+
+6) ZAC input to Zowe principles (https://github.com/zowe/zlc/issues/226) - is ZAC done?
+
+7) Doc chatbot update 
+
+8) Any more ZLC-to-ZAC name change actions needed?
+
+Other items:
+ - ZAC members - do we want to have a working session? 
+ - ZAC input on Zowe USS Install/Config improvements - https://github.com/zowe/zlc/issues/232
+ - Blog on ZLC to ZAC https://github.com/zowe/zlc/issues/230 
+ - Vision ideas: https://github.com/zowe/zlc/issues/228 
+ - Incubator criteria: https://github.com/zowe/zlc/issues/227 
+ - Project maturity - when to promote an Incubator https://github.com/zowe/zlc/issues/229 
+
+Backburner items:
+ - Survey to go out next week - https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 

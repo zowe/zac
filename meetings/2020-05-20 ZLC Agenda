@@ -1,0 +1,18 @@
+
+1) Firm up content for OMP webinar next week - one topic is whether it is premature to say zCX is the container strategy since 
+we still need research (zLinux could be equal option or off-box) 
+
+2) Zowe Community Github (update from Sujay) 
+    
+3) Discuss https://github.com/phaumer/zowe-explorer-ftp-extension if needed - mentioned for ZLC but I think this is mainly the Explorer
+squad to decide - question is does this become part of Zowe "core" and questions on packaging? 
+
+4) PI Planning planning - https://github.com/zowe/zlc/issues/187
+    - Ok to do intros of names proposed for improving squad diversity? 
+    - We (ZLC) owe point of view on priorities for next PI - how to agree?  - how specific to be?
+    - Words from OMP webinar deck: Security, Resilience, Community/Ecosystem, Serviceability
+    - Other areas mentioned: "App Convergence" and "Expanded Testing (CI/CD)" 
+
+5) Most other topics in issues: https://github.com/zowe/zlc/issues 
+
+Other topics anyone wants to bring up.....

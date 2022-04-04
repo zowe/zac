@@ -1,0 +1,39 @@
+9/28/21 
+
+Actions from last week:
+
+    ZAC Chair
+    •	ZAC meeting reminders are no longer happening – Peter to work with John Mertic to fix - DONE
+            https://lists.openmainframeproject.org/g/zowe-dev/members
+    •	ZAC meeting recordings are not being sent to chair – Peter to work with John Mertic to fix - DONE
+    •	Add appropriate links to find agenda and notes to the meeting invites – Peter to work with John Mertic to fix - ????
+    •	We need a blog post on the transition from ZLC to ZAC – Peter to create a document and attach to github issue - DONE
+
+    V2 Planning
+    •	Post v2 plan PPT to githib and share link with TSC and ZAC and invite edits – Peter to do - ????
+
+    Webinar
+    •	Post draft ZAC presentation to github and share link with ZAC and invite edits – Peter to do - DONE
+
+
+1) Confirm ZAC meeting management working ok now
+
+2) V2 planning
+    •	V2 vision per ZAC - see webinar draft deck
+
+3) Review ZAC PPT for quarterly webinar
+
+4) Review ZLC -> ZAC Blog post
+
+5) ZAC input to Zowe principles (https://github.com/zowe/zlc/issues/226) - is ZAC done?
+
+6) Review/close ZAC issue backlog
+ - ZAC input on Zowe USS Install/Config improvements - https://github.com/zowe/zlc/issues/232
+ - Blog on ZLC to ZAC https://github.com/zowe/zlc/issues/230 
+ - Vision ideas: https://github.com/zowe/zlc/issues/228 
+ - Incubator criteria: https://github.com/zowe/zlc/issues/227 
+ - Project maturity - when to promote an Incubator https://github.com/zowe/zlc/issues/229 
+ - others...
+
+Backburner items:
+ - Survey to go out next week - https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 

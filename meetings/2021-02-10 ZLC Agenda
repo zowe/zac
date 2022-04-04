@@ -1,0 +1,42 @@
+No meetings the last two weeks due to PI Planning and other conflicts last week preventing a quorum to attend.  
+
+1) Zowe survey - as of yesterday we had 30 replies - ideas on how to drive more replies? We set 
+deadline of this Friday. https://www.surveymonkey.com/r/PSGBKRN 
+    I have socialized on LinkedIn, to GTS, and ISVs in TDM plus selected others 
+    
+2) ZLC charter - no changes since the PI Planning preview - technically existing ZLC needs vote Feb 26 per current charter - 
+https://github.com/zowe/zlc/issues/220 PI Planning deck from ZLC here:  
+https://github.com/zowe/community/commit/7fa63bd59a0911b5e77c3cf6e56c924572ca708e I'd like to finalize the words and get existing ZLC to vote by end of next week - need to decide how/if community vote to be done by
+Feb 26. 
+
+3) Any update from the TSC? 
+    - Sprint dates decided 
+    - Research on Caching infrastructure 
+
+4) 2Q webinar topic lined up? Understanding token based security in Zowe? from Michal Supak, Pavlin Zahariev - question out to them. 
+
+5) IBM has 5-7 new deverlopers joining various squads. These are members of an team we refer to as Jump Start - they earn credit/badge
+for open source contributions. They are not full time on Zowe - this is in addition to their day job. 
+
+One "process issue" we should decide is whether Zoew/OMP want to put in place a ICLA from the developers as their signed assertion 
+of the originality of their commits as being their own and save scanned images of those documents in the zlc or another OMP archive. 
+We use that as the legal basis for their signoff and we turn off DCO.  The gate is no one is allowed access without a signed 
+ICLA (Individual Contributor License Agreement). It would make the process less tedious and achieve the legal requirements we 
+are looking for.  
+
+6) I still need to finish blog https://ibm.box.com/s/ar7s6m7b520pw2fgfmmz813f7tc7bo3n my bad 
+
+7) If there is time https://github.com/zowe/zlc/issues and move some to TSC issues 
+
+8) Zebra team getting some traction - member of Watson Walker consulting practice offering to help with performance measurement on zPDT,
+lessons learned to be applied to Zowe startup. 
+
+9) Reminder - "Treat Yourself to a Guided, Comprehensive Tour of Zowe Desktop Applications". Please submit any 
+questions to: gtmaccount@openmainframeproject.org Date Time: Feb 17, 2021 08:00 AM Pacific Time (US and Canada) 
+https://www.openmainframeproject.org/event/treat-yourself-to-a-guided-comprehensive-tour-of-zowe-desktop-applications-webinar 
+
+10) SHARE - my session accepted but will need some input from the squads - Session ID: 28578
+Title:		 How to get Involved in the Zowe Community for fun, education, contribution or commercial extensions
+
+Any other topics? 
+

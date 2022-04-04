@@ -1,0 +1,48 @@
+
+
+1) SHARE sessions - I'm hearing we slipped some in after the deadline - I have "ask" for consolidated view 
+
+We would like to invite you to submit presentations and hands-on lab sessions for this years Global TechU event, 4-7th October. 
+
+        Full detail are included in the link:  https://www.ibm.com/training/events/callforspeakers
+        We look forward to reviewing your proposals.  
+        Timeline and deadlines
+        May 17, 2021 Submission open on the IBM TechU CMS page: https://ibmtechu.com/cms
+        June 07, 2021 Deadline to submit a speaker proposal.
+        July 05, 2021 Selected speakers will be notified. 
+        23 August, 2021 Deadline for submission of pre-recorded sessions.
+        4 October, 2021 Virtual TechU event begins
+
+2) Thanks to Rose on getting us back on track with Support Conformance - discuss latest proposal 
+
+3) Pick new day and time for ZLC meeting? 
+
+4) Info share on the slack bot work in Doc squad - my research on Watson 
+
+5) What do we know about slack replacement? Migration? Mobile? 
+
+6) Marist for build for Workflow wiZard 
+
+7) PSI summary from Architect call (step savings of install) - 
+        Different topic for Architect: extensible z/OSMF Security Config Assistant 
+        CLI bootstrap of Zowe install via workflows 
+
+8) Update on Containers - refactoring work maybe need to Desktop only, security questions 
+
+ZLC issues needing worked 
+- New role for ZLC and ZAC 
+- Defining incubation process (acceptance and promotion criteria) - promotion a TSC responsibility? 
+- Setting up a Support Conformance Program
+- Assist with Marist - Advising and assisting on boosting z/OS resources
+- Listening to Zowe corporate consumers
+    - Continued improvements to up-and-running experience – addressed by new doc?
+    - HA/FT 
+    - Containerization (impact to Conformance criteria of z/OS components?)
+    - Packaging (PSI support)
+    - New version messaging/timing 
+
+
+The Zowe Conference schedule is now maintained at https://docs.google.com/spreadsheets/d/1Aa6etnp9zye2q-YvcopBeNCIJwsH6k9JIFtwUpS4dWc/edit#gid=786450140
+
+
+

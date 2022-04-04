@@ -2,53 +2,70 @@
 
 # Overview
 
-This repository contains the materials of how the Zowe project operates, along with meeting notes and materials from regularly scheduled meetings of the Zowe Leadership Committee (ZLC).
+This repository contains the materials of how the Zowe project operates, along with meeting notes and materials from regularly scheduled meetings of the Zowe Advocacy Council (ZAC) (formerly known as the Zowe Leadership Committee (ZLC)). 
 
-# Zowe Leadership Committee (ZLC)
+# Zowe Advocacy Council (ZAC)
 
-The Zowe Leadership Committee (ZLC) oversees all code development and release management for the Zowe project. In particular, the ZLC has the following roles:
+## Roles and Responsibilities
 
-* Receive proposals for sub-projects leveraging Zowe technology and will decide, via a vote, on whether the sub-project is accepted.
-*	Be responsible for working with the OMP Marketing Committee to ensure messaging and content is consistent with the vision and mission of Zowe.
-*	Create and maintain development iteration criteria and release train to drive framework development and deployment
-*	When required, vote on revoking commit rights
+The Zowe Advocacy Council (ZAC) is a two way communication and coordination team primarily, but not limited to, commercial exploiters of Zowe. This two way channel is for project requirements from commercial stake-holders and to assist in outbound messaging of Zowe to the z/OS ecosystem. The ZAC also manages new technology directions for the Zowe project via approving new sub-projects (i.e., incubator projects) and is an arbitor of any major issues needing resolution that impact the whole of the Zowe project.  
 
-The ZLC is composed of six (6) members of the Zowe community. Initially IBM, Broadcom (fka CA Technologies), and Rocket Software have each nominated two individuals to serve on the ZLC while the Zowe community builds committer diversity.
+The ZAC works in cooperation with the Zowe Technical Steering Committee (TSC). Feedback is primarily to be sought for major project directions impacting cross squad activities such as: Re-versioning, infrastrucutre/tooling issues, defining and maintaining what is core Zowe technology and what is optional, community support policy issues, etc. Example roles and responsibilities for the ZAC include:
 
-To qualify for nomination to serve on the ZLC, the individual must be a committer on a Zowe sub-project. No more than 2 individuals on the ZLC can be afflilated with the same company.
+- Collect and summarize Zowe consumer feedback from customers, vendors, Independent Software Vendor (ISV), System Integrator interactions and any other 3rd parties. This information collection is ongoing throughout the year but summarized for the community during quarterly Program Increment (PI) Planning for prioritization of work items. 
+- The ZAC will work with the Zowe On-Boarding Squad and TSC with formal surveys driven by the Zowe project 
+- The ZAC will participate in consumer meetings and industry events as needed 
 
-## Current ZLC voting members
+The ZAC is also to be advocates to outside parties of the Zowe community. Example responsibilities incude: 
 
-All members of the Zowe community are welcome to participate in meetings and discussion on the Zowe project. For matters requiring a vote of the ZLC ( such as approving a new sub-project or approving a Zowe release ), the following individuals are considered voting members of the ZLC:
+ - Working with Open Mainframe Project Marketing committee to help promote Zowe 
+ - Create and maintain, in partnerhsip with the On-Boarding squad, a master list of events where Zowe should participate and corrdinate getting the Zowe message out 
+ - The ZAC has a goal of consistent Zowe project messaging in presentations, blogs, images, words and actions 
+ 
+The ZAC will take on other responsiblities as agreed with the Zowe TSC. The ZAC will take the lead from the Zowe community with the Open Mainframe Project when the Zowe TSC agrees. 
 
-1 Year Term ending February 26th 2021:
+## Membership
 
-- Bruce Armstrong, Interim Chairperson
-- Sujay Solomon
-- Peter Fandel
+The ZAC consists of up to 9 voting members. 
 
-2 Year Term ending February 26th 2022:
+One vote is assigned to the TSC. The TSC decides who their voting member is. The remaining 8 ZAC members will come from Open Mainframe Project Silver (or above) members. Members are nominated by any Zowe committer. No more than 2 individuals on the ZLC can be affiliated with the same company. The nominee must agree to be a candidate and to serve if elected. ZAC members should be willing to actively serve by attending weekly ZAC meetings and voting on ZAC issues for at least a one year term. ZAC members are voted on by the Zowe committers.    
 
-- Mark Ackert
-- Sean Grady
-- Joe Winchester
+The 8 seats are voted on yearly (typically Feburary) with the top 8 vote getters to serve. In the event there are not 8 nominees (or a nominee receices no votes) then the members with votes shall fill the seats and empty seats will exist. 
 
+Empty seats can be filled at any time during the year. New OMP Silver (or above) members can be nominated by any existing ZAC members. ZAC members vote to fill an empty seat for the remainder of the 1 year term until the next February at-large vote on the ZAC members. Adding a new ZAC member to fill a vacant seat needs unanimous  agreement of the ZAC members. 
 
-Former ZLC Voting members
+The ZAC will operate on a consensus basis in all decisions.  The roles on the ZLC (Chair, Vice or Secretary) are decided by the members of the ZLC. 
+ 
+## Charter Updates 
 
-- Jean-Louis Vignaud
-- Matt Hogstrom
-- Jean-Philippe Linardon
+The charter of the ZAC may be changed by unanimous agreement of the ZAC. 
 
 Terms and election process is defined in the [project structure](process/structure.md) guidelines.
 
-## ZLC meetings
+## ZAC meetings
 
-All ZLC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
+All ZAC meeting are posted on the [Zowe Development Calendar](https://lists.openmainframeproject.org/g/zowe-dev/calendar). You can [view past meeting notes and materials](meetings).
 
-# Zowe Community
+# Zowe sub-projects
 
-The Zowe Community includes Zowe Sub-Project squads and Zowe Operations squads. Learn more about the [Zowe Community](https://github.com/zowe/community).
+The following are the current sub-projects that are part of Zowe by maturity level. There are other efforts that sit outside the project structure that focus on cross sub-project coordination. Learn more about the [Zowe Community Teams](https://github.com/zowe/community#zowe-community-teams).
+
+## Incubation
+
+* [Zebra](https://github.com/zowe/zebra)
+* [Zowe Mobile](https://github.com/zowe/zowe-on-the-go)
+* [Zowe SDK](https://github.com/zowe/community#zowe-client-sdk)
+
+## Active
+
+* [Zowe API Mediation layer](https://github.com/zowe/community#zowe-api-mediation-layer)
+* [Zowe CLI](https://github.com/zowe/community#zowe-cli)
+* [Zowe App Framework](https://github.com/zowe/community#zowe-app-framework)
+* [Zowe Explorer](https://github.com/zowe/vscode-extension-for-zowe)
+
+## Emeritus
+
+* *None*
 
 # Processes and procedures
 
@@ -70,4 +87,4 @@ The Zowe project is self governed by the Zowe community, with each sub-project s
 - [Framework Release Process](process/release.md)
 - [License and Copyright guidance](process/LicenseAndCopyrightGuidance.md)
 
-All of these documents have been approved by both the Zowe Leadership Committee (ZLC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZLC at any time.
+All of these documents have been approved by both the Zowe Advocacy Council (ZAC) as well as the Open Mainframe Project Techincal Steering Committee (TSC). These documents can be amended by a majority vote of the ZAC at any time.

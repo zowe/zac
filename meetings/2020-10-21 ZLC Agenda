@@ -1,0 +1,24 @@
+
+1) Any fires needing brought to the ZLC attention? Status of 1.17? Status of PI planning - prep in December? 
+
+2) Can we close of the TSC proposal - ZLC issue here https://github.com/zowe/zlc/issues/183
+Joe's draft as pull request https://github.com/zowe/community/blob/master/Technical-Steering-Committee/charter.md
+John's revisions https://github.com/zowe/community/pull/795
+Peter I think you did (or were going to do) some edits? 
+
+3) How to prep to get a vote? Follow up re topic from John on update to committers file - do we want to create issue to automate process - If
+so who to own - https://github.com/zowe/community/pull/761 
+
+4) Let's run through open issues - https://github.com/zowe/zlc/issues - couple new issues (zCX and 1Q Zowe update - survey prep?)
+
+Confirmed.  Our next Quarterly update is scheduled for Wed 1/20 at 11:30 ET.
+Registration link:  https://zoom.us/webinar/register/WN_BE3xO2byRTmI0zmZnzHvUw
+
+
+5) Status of Docker work? Use of Docker hub - do we need to discuss policy on distribution? 
+    Docker hub? Use with pull command 
+        Docker hub use of tags (Zowe V1 LTS, Linux on Z and Intel)
+    Point to other hubs (Pax (tar) like file install)
+
+    Doc: https://github.com/zowe/docs-site/pull/1398
+

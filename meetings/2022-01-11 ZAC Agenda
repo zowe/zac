@@ -1,0 +1,54 @@
+01/11/22
+
+Agenda items
+
+1) Review actions from last week minutes
+   (These will each be covered as part of the list of agaenda topics)
+  - Staffing and Leadership for ChatOps
+  - Availability of V2 Server-Side Technical Preview 
+  - Analysis of Survey Results
+  - Decision on Quarterly Update
+  
+2) Initiatives updates
+
+  a) ChatOps - 
+     i. Staffing and leadership? (Bruce/Mike)
+     ii. Onboarding?
+     iii. Update slide deck (Bruce/Mike)
+     iv. Other actions?
+     
+  b) Preparing for Zowe V2 - 
+     i. When will we have a working V2 technical preview for extenders? (Sean/Slack - Zowe Users/Dev/API...)
+     ii. Office hours Jan 5 featuring CLI
+     iii. Next office hours Jan 12
+     iv. Press release?
+     v. Obstacles?
+     
+  c) Survey?
+     i. Analyze results (onboarding squad?)
+     ii. Present results (ZAC or TSC)
+     
+  d) Remaining Vendor-Neutral - 
+     i. Zowe MFA documentation explicitly calls out IBM Z Multi-Factor Authentication.  
+        - Is this a slippery slope?
+        - Does this imply that Zowe is owning validation?
+        - How would another vendor get their solution included?
+        - Should we consider an alternate approach?
+        
+   e) PI Planning
+      i. Should we proceed with the scheduled PI Planning dates?
+      ii. ZAC Business context
+         - What do we want to feature in this session?  Chat?  V2?  
+         - Should we continue to present PI achievements?
+         - If so, would anyone else like to present that this quarter?
+         
+   f) Quarterly Update
+      i. Should we:
+         - Attempt to proceed with a January update (and feature Chat)?
+         - Defer until later in the quarter?
+         - Skip this quarter?
+
+3) Review ZAC issues in github
+
+Future agenda items:
+

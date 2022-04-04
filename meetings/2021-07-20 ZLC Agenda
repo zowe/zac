@@ -1,0 +1,77 @@
+
+1) July 21 Webinar tomorrow -  
+        - Rose - I have meeting invite from you (not OMP) with link - I assume we use it on Wednesday? 
+        - Webinar registration link:  https://zoom.us/webinar/register/WN_8-Ktj-0NQYeA1RGXA-dhXQ
+        - Mike D to pitch the Support Conformance proposal, see slide #2 of the ppt deck - https://github.com/zowe/zlc/issues/182 
+        - Bruce to preview ZLC move to ZAC https://github.com/zowe/zlc/issues/220 - new draft charter  
+
+2) Support Conformance spreadsheet 
+        - I made the spreadsheet final (incorporated a few comments from Mike - thanks Mike) - I think we call it done, 
+        point to it in the webinar, provide to John/OMP for review and establishing badge for OMP Summit announce?  
+        - John - can we have badgees ready to issue on day of announce?       
+
+3)  Status of ZLC survey questions - 
+        We have our 4 - please review    
+        https://ibm.box.com/s/5tujik1u63bm66yz3jwovxti9acge7fg 
+        - Other squads: https://ibm.box.com/s/8haadp94pvoto8d60v0osu51m0ccx4o0  
+        I assume we are not ready for survey to go out tomorrow? 
+
+4) PI Planning is coming up - ZLC input? https://ibm.ent.box.com/notes/825858992881 ZLC to provide a slide 
+            - Close of current hills
+                - Containerization with Kubernetes 
+                - Certificates - do we need to seek help from the z/OS team? 
+                - V2 and all that entails (Dev stream/branch, New Conformance criteria, new FMID, warning messages for depricated items...)
+                - Finish HA (this PI with Redis in future) 
+            - Future hills
+                - Improved install/config - especially with security (MFA, Certificates, ....) 
+                - What is next after CII certification - is there something else? (COLI) 
+                        Security team action? 
+                - Chat as the next user interface technology?  
+                - Request for built in NPS instrumentation?
+                - Education/certification (needed for Support Conformance)? 
+                - Sysplex enablement of Marist? New Z box? 
+                - Accessibility for Zowe 
+                - Code page/DBCS? BiDi? 
+        
+        21PI3 Joint PI Planning Preparation Kickoff Meeting
+        Date/TIme: Jul 7, 2021 09:00 AM Eastern Time (US and Canada)
+        PI Planning Meeting: 2021/07/28 - 2021/07/30
+        Wednesday, July 28 - Planning (Day 1)
+        Thursday, July 29 - Planning (Day 2)
+        Friday, July 30 - Planning (Day 3)
+
+5) Ashley's blog on new doc site to publish today https://github.com/orgs/openmainframeproject/projects/4 
+
+6) If anyone cares - past meeting agendas/mins are here: https://github.com/zowe/zlc/tree/armstro-patch-4/meetings 
+
+7) Summary of lessons learned from Node team regarding stakeholder input: 
+
+- Node project is about 12 years old (currently 60-100 contributors) - millions of downloads! 
+- Node community does not have and "formal" vendor/consumer advisory board - although they have tried in the past and it has not gotten traction. They do conduct surveys for input (but did not sound like they were particularly effective). 
+- Companies do provide influence based on the staffing they contribute to the community - members are not likely to work on something they don't think will benefit their employer so this is "self regulating" (my term). 
+- Michael advocated for some Request For Comment (RFC) process to avoid code being developed without visibility by the community and then (apparently) "dropped in" and assumed to be accepted (Zowe does not really have this problem - yet - due to our PI Planning process - he seemed interested on Zowe process for planning.) 
+- There is not real concern with a vendor (or other entity) taking over the community 1) it would take a large number of people 2) sounded like there would be a self-destruct process (my term) if that would happen 
+- Michael commented if we have an advisory group that we should work to hang onto it as he sees Node not having one as a gap 
+- He mentioned trying to get a "where does Node need to be in 10 years" vision in place (but has not closed on the best way to get consensus in the community) 
+
+Net - I think we move forward with ZLC becoming Advisory Council - and work with TSC on (subject to agreement and not total list): 
+- Principles for Zowe 
+- Where do we want to be in 5 (vs 10) years? (He's also provided Strategic Initiatives in the past) 
+- What are the attributes we are looking for in Incubators 
+- Assist in project maturity description 
+- Help with Core, Extended, Samples, classifications 
+- Other "duties" as assigned (like recruiting) 
+
+Links during the call: 
+
+https://github.com/nodejs/node/blob/master/doc/guides/technical-values.md
+https://github.com/nodejs/next-10/blob/main/CONSTITUENCIES.md 
+
+Prior links provided: 
+- strategic initiatives - https://github.com/nodejs/TSC/blob/main/Strategic-Initiatives.md
+- enhancement proposal process (RFC like process) which as tried/deprecated a long time ago. There is some discussion about an RFC process but not sure if it will progress
+- user feedback team - https://github.com/nodejs/user-feedback, not enough user engagement and participation from the project itself
+- Next-10 effort - still underway - https://github.com/nodejs/next-10(did a recent survey)
+
+
+
