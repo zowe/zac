@@ -1,0 +1,49 @@
+I, Michael Dubois hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: michael.dubois@broadcom.com
+
+567803c28be753332a01bac12759a3f58ac41e46 Add files via upload
+3a97374e748d4b6e030755b4a616221e9683e031 Rename 2021-03-29 ZAC Agenda to 2022-03-29 ZAC Agenda
+0b76211d7b0f22d1ac5c188654e5f58d68698f87 Create 2021-03-29 ZAC Agenda
+6432ea4cd10f2b017846cb29da5a9c2f434aa349 Add files via upload
+6940d8c3e894bac30c9209867e391eb66244aa1a Add files via upload
+b5eae3b0d5ed20ad29ad45da37e7c2cd66f05965 Update 2022-03-22 ZAC Agenda
+6ba4f0d8311da27316a1b151e53b75d51232b572 Create 2022-03-22 ZAC Agenda
+5c242828c3855dc7b9d4fd97d5d83af803998b78 Add files via upload
+29a285fedc687cf78aae3674383a85b74a81a3d5 Create 2022-03-15 ZAC Agenda
+947f698afd0b6a165a7c3d4cf1d0589cd36e8973 Add files via upload
+2424f1718d2f831141ce285cd583e20d3d83da1b Update 2022-03-08 ZAC Agenda
+17177398d383caef3d5662637c5afb4f20f1fbd1 Create 2022-03-08 ZAC Agenda
+70be315491d9055b3e694cc7e0c1c876831159d3 Add files via upload
+fa95a12a970d990c1760455d122ebacf0d2a2c2e Delete 2022-03-08 ZAC mtg notes.docx
+db731be8bce5a142aba283f74d1909b9bc9da12a Add files via upload
+7383ee11a429bd12f37ab44b42a99fee9ce9136c Delete 2022-03-08 ZAC mtg notes.docx
+ad8cee54b16d109212c95669395dc2c478ac7a01 Add files via upload
+2e587ea9a623eba6b221c9b47b99793d653a68ff Create 2022-03-01 ZAC Agenda
+b197e1a2dfd77d62150a88b25a06320e88003a9c Add files via upload
+26cd7eae23d5cab1ce78cfed0364719976459567 Update 2022-02-22 ZAC Agenda
+636469fb67a8635892ab8dd9df4461f68d129f8a Create 2022-02-22 ZAC Agenda
+fa6d1b2274d1a068f195812be4176fb0db593500 Create 2022-02-15 ZAC Agenda
+c1266900a8a7b3ac9475d7c164d222926db88cb2 Add files via upload
+add99a211569990f93280aece49d102bcb430b96 Update 2022-02-08 ZAC Agenda
+2715c43d3fe26cdc29ecd69b8ad814a26e292438 Create 2022-02-08 ZAC Agenda
+49f9f18b83f75e6e8a700b6aed0e85c61316c375 Add files via upload
+cc3894a86e1b2cbf4af0c281e0be556995994658 Update 2022-02-01 ZAC Agenda
+271dd772605e039cb2ecd400a24dd154bd1a6d34 Update 2022-02-01 ZAC Agenda
+41b5c4cf24110a26cd65a3daac930dbd5c3ee7be Add files via upload
+18cf775e222d6bf6d9f37d86cc15a8ee48a6330f Create 2022-02-01 ZAC Agenda
+ed5cfe5a4512358fe6b5aa1552032c8649eb5ca6 Create 2022-01-25 ZAC Agenda
+7b6771601c82340c9f06af44f625d90fa005cdbf Add files via upload
+f9c7cb8e2fde8453781632c63efa52aca986f716 Update 2022-01-18 ZAC Agenda
+65f709c6d6c53a58e15d3e83c145a1754294993e Update 2022-01-18 ZAC Agenda
+d0f503d1c37042a69cb3e9314459e37451144103 Update 2022-01-18 ZAC Agenda
+b2b10811c583f46419d9e44326737e02ec456d89 Update 2022-01-18 ZAC Agenda
+ebe8ebf1e55e193b006670c0a615c07aed57ad16 Create 2022-01-18 ZAC Agenda
+ee10cfdac51e63eaa16bed1e40520cef799d3129 Add files via upload
+bf7bb3e6a046eda4e877cf761abc5b9936610751 Create 2022-01-11 ZAC Agenda
+f99dc45b33e9e9f91ed7aa9d37204006e8d4bddd Add files via upload
+9edcdaaf42935714c15ba8e709916908d7a25717 Update 2022-01-04 ZAC Agenda
+a5c09d7c6183022f55936bc2dddd4b0428368c01 Update 2022-01-04 ZAC Agenda
+bff17a7a156de786482bf47c21e90b17a16c4f6f Create 2022-01-04 ZAC Agenda
+9537e71b9e5ffc3d3edaba80e9e21c3790cd22e1 Add files via upload
+37460cf8ba838f10048f18e59e3d27d9dbd44bc2 Update 2021-12-14 ZAC Agenda
+5a12f29a37d5ce03afcaad3610e5069e726adedd Create 2021-12-14 ZAC Agenda
+7977820e105ed92f1b112b9566a367a93729fa92 Update 2021-02-24 ZLC Agenda

@@ -1,0 +1,46 @@
+I, Peter Fandel hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: pfandel@rocketsoftware.com
+
+04849842b2e5b1380f6f31e84b93c89a03395360 Add files via upload
+c00d4d7573d881229712c49541f59468ac6847bb Add files via upload
+f84e90a5c3d904b4c2c456b1c106120a5fcd4294 Update 2021-11-23 ZAC Agenda
+b4a8274102ba4f70e18a36d18080f18acb13113c Create 2021-11-23 ZAC Agenda
+ed6eee2d10ac3ace8fe375ebcd5cfae833db1ef7 Add files via upload
+0cbe61d3633e0ef219bd33432799d068e50ef394 Add files via upload
+d3db8bf903f05a641bff80015ecee8d56abaac6e Update 2021-11-09 ZAC Agenda
+715ae4c6eb7e901cc084bd240142d2bc97ee34f2 Update 2021-11-09 ZAC Agenda
+707bc61466119c3a203e7671ccd8039001b7a8bf Update 2021-11-09 ZAC Agenda
+bb7971f0ccc86f712de5096072fbe3d6efd95ef6 Create 2021-11-09 ZAC Agenda
+5441d4d025451a79c3342b4c1d02d258133007bd Add files via upload
+38815f5c074bebe4edb950525016ede9636df8be Update 2021-11-02 ZAC Agenda
+c3c12e150b0981d1e5f75369daf44a41fc5f6815 Update and rename 2021-10-26 ZAC Agenda to 2021-11-02 ZAC Agenda
+839e38c0eab680f2be7c86e351c117143f8e2f3e Update 2021-10-26 ZAC Agenda
+325ca60adf2c8450ede2f04788939198f13b52c2 Update 2021-10-26 ZAC Agenda
+add36ceff334f01da7b076054a5678525290e4ec Update 2021-10-26 ZAC Agenda
+2b06a999b52fe182c01ee65fdb76377e17b312dd Update 2021-10-26 ZAC Agenda
+89e586016253da9c70e38101ea646250b4dd4ff5 Create 2021-10-26 ZAC Agenda
+a3be790a96808a97f27d58e221a55abc75b465fb Add files via upload
+67dfbaea0dcf66cb2490af09fdf15d5354ca826b Update 2021-10-19 ZAC Agenda
+b3586c2867dea26f9f8337ea7ce69bd87581f1f2 Create 2021-10-19 ZAC Agenda
+99a36b584481247fcca02355f907c83c29c315a3 Add files via upload
+9a47a257ae946c263619df47c839473708e34e99 Update 2021-10-12 ZAC Agenda
+cc32a601534b681bd3bd1114c7bcd62802b33889 Create 2021-10-12 ZAC Agenda
+f8f83816a2b8fa242fbedbb09811a175552721fa Add files via upload
+c2960c69b6d2289e35dd4f9b263103415b6fbc34 Update 2021-10-05 ZAC Agenda
+cc1677b689fd5fd9ade42eb3cb94bbb259f91ee1 Update 2021-10-05 ZAC Agenda
+c33d30217d255d9a0b2b617129597560956ffa11 Update 2021-10-05 ZAC Agenda
+f8c0f8cd2bf5333496e2f7d434c489d3d2f0bfd1 Create 2021-10-05 ZAC Agenda
+eb4afe7669f887f92c4668aad8dfd9a5cec908b0 Add files via upload
+0ff4da391b3959b29c2c32cb03c8157e9547358c Update 2021-09-28 ZAC Agenda
+9c59a4177d8ad3070cf5b362f12df9b4c4ab6e56 Create 2021-09-28 ZAC Agenda
+20cca47715524ca5b29fd9d985dbf6a356c57653 Add files via upload
+bd2059a3dee5271c669c6de002fea72bd5bb94ac Create 2021-09-21 ZAC Agenda
+af16e451da314b182b1964b389ccfb188dda37f9 Add files via upload
+61067031e900e9e52fdd954850036bd565dad54b Update 2021-09-14 ZAC Agenda
+78cbc4ed25e131349b10f892273570ca3f36d99d Update 2021-09-14 ZAC Agenda
+90411277465d9f90e70555b58e88cf4c28caf46f Update 2021-09-14 ZAC Agenda
+6111d1fa616356301c97be9aebbb39fb1ce27364 Create 2021-09-14 ZAC Agenda
+316623492ed467fb19a900fba3ba7f18486733fc Add files via upload
+c2be41ac906e0e7cc44dfe38e3e3ca0657c68d21 Add files via upload
+239e06c7d92045d68edb1f1efb213c1d1a74a9a4 Rename 2020-09-07 ZAC mtg notes.htm to 2021-09-07 ZAC mtg notes.htm
+4cf248325fb65e98cfdc256a404759d6185468bc Add files via upload
+40675ad16dc6e2e288fd3201ca6d04ab5f12abbc Create 2021-09-07 ZAC Agenda
