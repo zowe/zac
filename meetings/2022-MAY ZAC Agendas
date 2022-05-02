@@ -1,0 +1,25 @@
+2022May03 Meeting Agenda
+
+V2 LTS "Launch" / Timing  
+  - Blog (finalized?  Any concerns?  Timing?)
+  - Zowe announcement press release (Mae)
+  - TechStrong TV Panel Discussion (Rose, Bruce, Jakub) Mon 5/9 at 12-1pm ET
+  - TFIR Video Interview  (Joe)
+  - Linux.com article (unclear on deliverables) 
+
+V2 CONFORMANCE
+ - Pre-apply status (as of Friday, total = 10 of 75), diversity unknown - would like to vote to EXTEND the pre-apply process
+ - Timing of landscape launch, with OMP press release?  [what if the number is really low and/or very few vendors represented)?
+ - Packaging and Containerization Discussion / Community issue 1488: https://github.com/zowe/community/issues/1488
+ - Plans for launching the V2 Program (Onboarding Squad PI Planning initiative)
+
+Quarterly Update:  Moved out to WED:  JUNE 22nd
+ - Title Proposal:  Customer Roundtable:  What Zowe V2 Means for Us
+ - Abstract:  Join a roundtable mix of customers and Zowe community members as they share their experiences with Zowe V2
+ - Focus Squad:  TBD
+
+SHARE Columbus Zowe Day
+ - Request submitted (Thank you Domenico!)
+
+Looking for an approver for pull request:  https://github.com/zowe/zac/pull/243
+ - Zowe ZAC github repo access:  https://github.com/zowe/community/issues/1489
