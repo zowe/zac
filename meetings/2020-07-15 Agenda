@@ -1,0 +1,38 @@
+
+1) Quick sync up on SHARE - not all of you were necessarily on cc of email I sent. Here's what I propose 
+What I propose: 
+
+        Session 27719 - The Latest News to Exploit Zowe in Products or Your Enterprise Part 1 of 3 
+
+        Updated abstract: Journey to the Zowe (A story about Zowe App development) and New Conformance - 
+        This session will walk through the rationale of using Zowe as infrastructure for a product. 
+        Also related, there is a new Zowe V1 Conformance program - we will explain how to subject your application, 
+        REST API or other extension for conformance and the value of obtaining the conformance badge. 
+        Presenters 
+        - Joe W and Ulf Heinrich (SOFTWARE ENGINEERING GmbH) - 20 mins 
+        - Rose - 20 mins Zowe Onboarding and Conformance  
+
+        Session  28212- “The Latest News to Exploit Zowe in Products or Your Enterprise Part 2 of 3” 
+
+        Zowe z/OS extensions patterns -  Zowe is designed from the ground up to be an extensible platform that others 
+        can plug their own z/OS API services, CLI plug ins  and web user interfaces into. This talk will cover the different 
+        patterns and the vision to create a Zowe marketplace by which vendors and others can deliver Zowe conformant z/OS plugins providing APIs or 
+        desktop plugins.  Zowe CLI brings several possibilities to automate tasks, create scripts and easily interact with our systems. What about if 
+        you could create your own plugin for it!? Let's understand how everything happens behind the scene and create your first plugin. This talk will be useful to anyone building Zowe z/OS extensions as well as anyone deploying z/OS extensions or wishing to build Zowe z/OS extensions,
+        Presenters 
+        - Dan and Joe W - can you share a 40 min slot on extensions and plug ins 
+
+        Session 28213  “The Latest News to Exploit Zowe in Products or Your Enterprise Part 3 of 3” 
+
+        Zowe 2020 - summary of what we've accomplished and Zowe directions. The open community conducted a planning 
+        session to describe 2H2020 priorities. We will review these directions and encourage participation in the community. 
+
+        Presenters: 
+        - Bruce and Sujay? or Peter? 
+        - Petr or his delegate? if we add API ML topic ......
+
+2) I set a reminder to discuss zowe.org updates - I see https://www.zowe.org/download.html has changed - do we plan to include Zowe Explorer on the
+home page? 
+
+3) Let's run through issues https://github.com/zowe/zlc/issues and decide what items we want to address in 3Q. I would like to discuss holding 
+some working sessions to work through issues 
