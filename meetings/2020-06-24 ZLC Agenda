@@ -1,0 +1,42 @@
+
+1) PI Planning - thanks for the progress we have made on the ZLC "themes"/Point of View/"Business Context" 
+    - Current deck is here: https://ibm.box.com/s/4wivkkg0ep7q8s49mn7zns5qb45ibxgd
+    - I made a change on "Joint PI Planning" that we can discuss 
+    - Let's remove Notes page 
+    - Let's assign a speaker for various pages 
+    - Did we find out hackathon status? 
+    - Was the DevOps webcast recorded? 
+    - Do we have too slides? Can we trim the 14-15-16
+    - Does ZLC want to sign up for more than Vendor Support Criteria??? 
+    - Do members of the ZLC want to divide up coverage and sit in on squad breakouts to listen in to know about any issues we can help with? 
+    - Survey analysis? 
+    
+2) OMP press release (today I think) - any updates? 
+    - I noticed new OMP members - has anyone been involved to welcome the new members? and interest in Zowe? 
+    - Invite to the PI Planning? 
+    
+3) SHARE - Wednesday, August 12th, 1:15 -  4:00 PM EDT I have seen two sessions get added 28212 and 28213....I assume there is a 28211 (Part 1) somewhere? Speakers are Bruce, Joe, Dan, Sean, Rose
+and Taylor ......need to settle on content and speakers 
+       ID: 28212
+      Project: Open Source on Z
+      Title: The Latest News to Exploit Zowe in Products or Your Enterprise Part 2 of 3
+      Submitter's Email: armstrob@us.ibm.com
+      Submission Method: Project CP 
+
+      ID: 28213 - same as above 
+           Abstract:
+      Zowe is open source software on z/OS that anyone can use. This session will provide the latest news on Zowe features and functions 
+      and explain various ways you can exploit or extend the technology. Zowe provides several out of the box uses that are being enhanced monthly. 
+      There are also many extension points to allow you to tailor a solution that meets your needs. Come learn how Zowe can help you organize 
+      REST APIs on z/OS, automate tasks with the Command Line Interface or integrate browser applications. You will from the experts writing Zowe 
+      and be able to get involved in this revolutionary software for the z/OS platform.
+      
+      Zowe onboarding - conformance program, becoming a squad contributor or committer, getting involved for an individual, company, or vendor product
+      Zowe z/OS extensions patterns, deep dive and overview for anyone building or deploying Zowe z/OS app or plugins
+      Zowe CLI - Create your own plugin
+      Journey to the Zowe (A story about Zowe App development by a newbie)
+      Zowe ZSS and Metal C - Serious (and free) tools for serious mainframe back-end development.
+      
+4) https://github.com/zowe/zlc/issues let's go through issues time permitting 
+
+AND ANY OTHER TOPIC ANYONE WANTS TP BRING UP 
